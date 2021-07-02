@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Lev1 .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>2.1.1 Positive Attitude</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Lev1 .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>A positive attitude entails being energetic, motivated, attentive, and alert. It means understanding the importance of safety and responding well to change. A positive attitude will help you fulfill your obligations and take pride in your job.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>An employee with a positive attitude contributes to others’ productivity by setting an example. You can probably recall a situation where you had to work with someone who was complaining and slacking off. Do you remember how difficult and unpleasant it was to work in a situation like that? Try to keep that in mind when you are on the job, and ask yourself: Am I demonstrating a positive attitude?</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>A positive work environment not only leads to greater productivity, but also makes the job more enjoyable. Employers pay attention to your attitude. Supervisors see your attitude in your approach to the job, in your reactions to instructions, and in the way you handle problems, especially unforeseen ones.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back Sec .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Tips for a Positive Attitude</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back Sec .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Here is a short checklist of things that you should keep in mind to help you develop and maintain a positive attitude:</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aFirst P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Remember that your attitude follows you wherever you go.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aFirst P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Helpful suggestions and compliments are much more effective than negative ones.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Look for the positive characteristics about your teammates and supervisors.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Focus on the good things about your job and the place where you work.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+</manifest>

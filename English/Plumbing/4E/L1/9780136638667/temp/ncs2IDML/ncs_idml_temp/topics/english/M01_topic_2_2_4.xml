@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Lev1 .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>1.2.4 The Three Phases of a Plumbing Project</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Lev1 .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Plumbing can be divided into three broad phases:</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aFirst P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/topic/term">
+         <Content>Underground rough-in</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aFirst P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/topic/term">
+         <Content>Aboveground rough-in</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content> (also called </Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/I">
+         <Content>top-out</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>, </Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/I">
+         <Content>stack-out</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>, or </Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/I">
+         <Content>in-wall rough-in</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>)</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/topic/term">
+         <Content>Finish</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content> (also called </Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/I">
+         <Content>trim-out</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content> or </Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/I">
+         <Content>trim finish</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>)</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>During the underground rough-in phase, the plumber locates all supply and waste connections from the building systems to public utilities and establishes where these systems enter or leave the building. During the aboveground rough-in phase, the plumber cuts holes in walls, ceilings, or floors to attach or hang pipe for connection to fixtures. Then the plumber installs the pipe for the building’s various supply and waste systems. To join pipe runs, a plumber might use welding tools, soldering equipment, or special chemicals for plastic pipe. The plumber may operate power threading machines, propane torches, and other power tools during this phase.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Feat P\%3aFirst">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Note</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Feat P\%3aFirst">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Many plumbing terms are used interchangeably in some areas. Be sure you are using the terms the way they are typically used where you work.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Feat P\%3aFirst">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Finally, in the finish phase, the plumber installs fixtures such as sinks, showers, and toilets, and appliances such as dishwashers, water purification systems, and water heaters. The plumber may be called upon to install the automatic controls that regulate pressurized pipe systems as well.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>During each of the three stages, you must ensure that the system is tight and safe. Do not let your customers discover leaks behind the walls after you have completed your work. Callbacks are expensive and can hurt your reputation as a professional.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Regardless of how well a plumbing system is installed, it must be maintained and periodically repaired. You could even think of service and maintenance as a fourth phase of a plumbing project. Plumbers perform a variety of tasks as part of service and maintenance, including the following:</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aFirst P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Checking lubrication levels in pumps, test gauges, and meters</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aFirst P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Repairing faulty fixtures and components</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Verifying operating systems</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Regulating flow and usage rates</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Ul Li\%3aLast P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Additionally, plumbers must ensure that the drain, waste, and vent (DWV) system for each project is installed and working properly. DWV systems, which are discussed in greater depth later, are essential to protect public safety.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+</manifest>

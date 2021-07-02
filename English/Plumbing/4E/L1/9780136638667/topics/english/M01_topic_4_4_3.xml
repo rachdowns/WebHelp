@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_4_4_3"
+       xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd"
+       xml:lang="en"
+       sourcetype="credset">
+   <supertitle>Figure Credits</supertitle>
+   <body>
+      <p>© Lloyd Wolf for SkillsUSA, Module opener</p>
+   </body>
+   <topic id="sectionReview">
+      <title>Section Review Answer Key</title>
+      <body>
+         <section>
+            <title>Section 1.0.0</title>
+            <table frame="none" rowsep="0" colsep="0"
+               id="sectionReview001">
+               <tgroup cols="3" align="left">
+                  <colspec colname="c1" colnum="1" colwidth="1*"/>
+                  <colspec colname="c2" colnum="2" colwidth="1*"/>
+                  <colspec colname="c3" colnum="3" colwidth="1*"/>
+                  <thead>
+                     <row>
+                        <entry>Answer</entry>
+                        <entry>Section Reference</entry>
+                        <entry>Objective</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>1.  c</entry>
+                        <entry>1.1.1</entry>
+                        <entry>1a</entry>
+                     </row>
+                     <row>
+                        <entry>2.  a</entry>
+                        <entry>1.2.3</entry>
+                        <entry>1b</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </section>
+         <section>
+            <title>Section 2.0.0</title>
+            <table frame="none" rowsep="0" colsep="0"
+               id="sectionReview002">
+               <tgroup cols="3" align="left">
+                  <colspec colname="c1" colnum="1" colwidth="1*"/>
+                  <colspec colname="c2" colnum="2" colwidth="1*"/>
+                  <colspec colname="c3" colnum="3" colwidth="1*"/>
+                  <thead>
+                     <row>
+                        <entry>Answer</entry>
+                        <entry>Section Reference</entry>
+                        <entry>Objective</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>1.  d</entry>
+                        <entry>2.1.9</entry>
+                        <entry>2a</entry>
+                     </row>
+                     <row>
+                        <entry>2.  d</entry>
+                        <entry>2.2.1</entry>
+                        <entry>2b</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </section>
+      </body>
+   </topic>
+</topic>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .FrontMat .Lev1 .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Contents</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .FrontMat .Lev1 .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back Sec .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Introduction to the Plumbing Profession</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back Sec .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Introduces trainees to the many career options available in today’s plumbing profession. Provides a history of plumbing and also discusses the current technology, industries, and associations that make up the modern plumbing profession. Also reviews human relations and safety skills. (Module ID 02101; 5 hours)</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+</manifest>

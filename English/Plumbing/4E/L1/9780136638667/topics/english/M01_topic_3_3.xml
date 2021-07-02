@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_3_3"
+            xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningAssessment.xsd"
+            xml:lang="en"
+            sourcetype="practice">
+   <title>2.0.0 Section Review</title>
+   <interactions>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Which of the following is true with regard to professionalism?</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>It is okay to speak poorly of your employer as long as you are being honest. </answer>
+               </answerOption>
+               <answerOption>
+                  <answer>It is acceptable to cheat if it benefits your employer.</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>It is better to maintain the same procedures rather than adapt to new methods.</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>You should do what is right even when there is pressure to do otherwise.</answer>
+                  <correct/>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.1.9</lcSectionRef>
+            <lcObjectiveRef>2a</lcObjectiveRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>The Department of Labor’s Office of Apprenticeship program requires _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>500 hours of OJL per year</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>750 hours of OJL per year</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>1,000 hours of OJL per year</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>2,000 hours of OJL per year</answer>
+                  <correct/>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.2.1</lcSectionRef>
+            <lcObjectiveRef>2b</lcObjectiveRef>
+         </single>
+      </interaction>
+   </interactions>
+</assessment>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns:opf="http://www.idpf.org/2007/opf"
+         xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns="http://www.idpf.org/2007/opf"
+         xmlns:enc="http://www.w3.org/2001/04/xmlenc#"
+         version="3.0"
+         unique-identifier="bookid"
+         xml:lang="en-US">
+   <metadata>
+      <meta property="dcterms:modified">2019-09-23T01:56:26Z</meta>
+      <dc:title>Plumbing Level One</dc:title>
+      <dc:language id="language">en-US</dc:language>
+      <dc:identifier id="bookid">no-bookid-value</dc:identifier>
+   </metadata>
+   <manifest>
+      <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+      <item href="nav.xhtml" id="nav" media-type="application/xhtml+xml" properties="nav"/>
+      <item id="d94e72" href="topics/english/A01_topic_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e80" href="topics/english/A01_topic_1_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e88" href="topics/english/A01_topic_1_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e96" href="topics/english/A01_topic_1_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e106" href="topics/english/M01_topic_1_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e119" href="topics/english/M01_topic_2_0.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e127" href="topics/english/M01_topic_2_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e135" href="topics/english/M01_topic_2_1_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e143" href="topics/english/M01_topic_2_1_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e151" href="topics/english/M01_topic_2_1_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e159" href="topics/english/M01_topic_2_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e167" href="topics/english/M01_topic_2_2_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e175" href="topics/english/M01_topic_2_2_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e183" href="topics/english/M01_topic_2_2_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e191" href="topics/english/M01_topic_2_2_4.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e199" href="topics/english/M01_topic_2_2_5.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e207" href="topics/english/M01_topic_2_2_6.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e215" href="topics/english/M01_topic_2_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e224" href="topics/english/M01_topic_3_0.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e232" href="topics/english/M01_topic_3_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e240" href="topics/english/M01_topic_3_1_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e248" href="topics/english/M01_topic_3_1_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e256" href="topics/english/M01_topic_3_1_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e264" href="topics/english/M01_topic_3_1_4.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e272" href="topics/english/M01_topic_3_1_5.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e280" href="topics/english/M01_topic_3_1_6.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e288" href="topics/english/M01_topic_3_1_7.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e296" href="topics/english/M01_topic_3_1_8.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e304" href="topics/english/M01_topic_3_1_9.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e312" href="topics/english/M01_topic_3_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e320" href="topics/english/M01_topic_3_2_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e328" href="topics/english/M01_topic_3_2_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e336" href="topics/english/M01_topic_3_2_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e344" href="topics/english/M01_topic_3_2_4.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e352" href="topics/english/M01_topic_3_2_5.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e360" href="topics/english/M01_topic_3_2_6.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e368" href="topics/english/M01_topic_3_2_7.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e376" href="topics/english/M01_topic_3_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e384" href="topics/english/M01_topic_4.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e392" href="topics/english/M01_topic_4_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e400" href="topics/english/M01_topic_4_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e408" href="topics/english/M01_topic_4_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e416" href="topics/english/M01_topic_4_4.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e424" href="topics/english/M01_topic_4_4_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e432" href="topics/english/M01_topic_4_4_2.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e440" href="topics/english/M01_topic_4_4_3.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="d94e450" href="topics/english/gloss_topic_1.xhtml"
+            media-type="application/xhtml+xml"/>
+      <item id="image-list-item-1" href="IMG/Business_Partners.jpg" media-type="image/jpeg"/>
+      <item id="image-list-item-2" href="IMG/02101-18_MO.jpg" media-type="image/jpeg"/>
+      <item id="image-list-item-3" href="IMG/02101-18_F01.jpg" media-type="image/jpeg"/>
+      <item id="image-list-item-4" href="IMG/02101-18_F02.jpg" media-type="image/jpeg"/>
+      <item id="image-list-item-5" href="IMG/02101-18_F03.jpg" media-type="image/jpeg"/>
+      <item id="image-list-item-6" href="IMG/02101-18_A01.jpg" media-type="image/jpeg"/>
+      <item id="image-list-item-7" href="IMG/02101-18_A02.jpg" media-type="image/jpeg"/>
+      <item id="image-list-item-8" href="IMG/02101-18_A03.jpg" media-type="image/jpeg"/>
+      <item id="commonltr.css" href="commonltr.css" media-type="text/css"/>
+      <item id="commonrtl.css" href="commonrtl.css" media-type="text/css"/>
+      <item id="epubStyles.css" href="epubStyles.css" media-type="text/css"/>
+   </manifest>
+   <spine toc="ncx">
+      <itemref idref="nav"/>
+      <itemref idref="d94e72"/>
+      <itemref idref="d94e80"/>
+      <itemref idref="d94e88"/>
+      <itemref idref="d94e96"/>
+      <itemref idref="d94e106"/>
+      <itemref idref="d94e119"/>
+      <itemref idref="d94e127"/>
+      <itemref idref="d94e135"/>
+      <itemref idref="d94e143"/>
+      <itemref idref="d94e151"/>
+      <itemref idref="d94e159"/>
+      <itemref idref="d94e167"/>
+      <itemref idref="d94e175"/>
+      <itemref idref="d94e183"/>
+      <itemref idref="d94e191"/>
+      <itemref idref="d94e199"/>
+      <itemref idref="d94e207"/>
+      <itemref idref="d94e215"/>
+      <itemref idref="d94e224"/>
+      <itemref idref="d94e232"/>
+      <itemref idref="d94e240"/>
+      <itemref idref="d94e248"/>
+      <itemref idref="d94e256"/>
+      <itemref idref="d94e264"/>
+      <itemref idref="d94e272"/>
+      <itemref idref="d94e280"/>
+      <itemref idref="d94e288"/>
+      <itemref idref="d94e296"/>
+      <itemref idref="d94e304"/>
+      <itemref idref="d94e312"/>
+      <itemref idref="d94e320"/>
+      <itemref idref="d94e328"/>
+      <itemref idref="d94e336"/>
+      <itemref idref="d94e344"/>
+      <itemref idref="d94e352"/>
+      <itemref idref="d94e360"/>
+      <itemref idref="d94e368"/>
+      <itemref idref="d94e376"/>
+      <itemref idref="d94e384"/>
+      <itemref idref="d94e392"/>
+      <itemref idref="d94e400"/>
+      <itemref idref="d94e408"/>
+      <itemref idref="d94e416"/>
+      <itemref idref="d94e424"/>
+      <itemref idref="d94e432"/>
+      <itemref idref="d94e440"/>
+      <itemref idref="d94e450"/>
+   </spine>
+</package>

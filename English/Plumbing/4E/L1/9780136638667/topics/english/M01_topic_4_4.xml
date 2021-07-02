@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_4_4"
+   xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" xml:lang="en"
+   sourcetype="appendix">
+   <supertitle>Appendix B</supertitle>
+   <body>
+      <section>
+         <title>NCCER Credentials</title>
+         <fig>
+            <image keyref="02101-18_A01">
+               <alt>Sample of two certified plus cards one shows barcode at the bottom from
+                  NCCER.</alt>
+            </image>
+         </fig>
+         <fig>
+            <image keyref="02101-18_A02">
+               <alt>Example certificate of NCCER certificate. The standard for developing craft
+                  professionals. This is to certify Steven Whitaker has fulfilled Plumbing Level One
+                  in NCCER's standardized training curriculum on x date.</alt>
+            </image>
+         </fig>
+         <fig>
+            <image keyref="02101-18_A03">
+               <alt>Example of an official transcript issued to student indicating the module
+                  number, description of the course, instructor, training location, and date.</alt>
+            </image>
+         </fig>
+      </section>
+   </body>
+</topic>

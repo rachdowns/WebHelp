@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/jmckay/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/pdf-lp/warehouse/topics/english?><?workdir-uri file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/pdf-lp/warehouse/topics/english/?><?path2project ../../../../../?><?path2project-uri ../../../../../?><?path2rootmap-uri ../../../maps/english/?><topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" id="lp_warehouse_0001" DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="topic:1;3:96">
+  <title id="frontmpref02.title" class="- topic/title " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="title:1;4:34">Warehouse Topic</title>
+  <body class="- topic/body " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="body:1;5:9">
+    <section id="lp_intro" class="- topic/section " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="section:1;6:28">
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:1;7:10">Trainees with successful module completions may be eligible for credentialing through the
+        NCCER Registry. To learn more, go to <xref href="www.nccer.org" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="xref:1;9:28"><?ditaot usertext?>www.nccer.org</xref> or contact us at 1.888.622.3720. Our website has
+        information on the latest product releases and training, as well as online versions of our
+        Cornerstone magazine and Pearson’s product catalog.</p>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:2;12:10">Your feedback is welcome. You may email your comments to <xref href="curriculum@nccer.org" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="xref:2;13:42"><?ditaot usertext?>curriculum@nccer.org</xref>, send general comments and
+        inquiries to <xref href="info@nccer.org" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="xref:3;15:12"><?ditaot usertext?>info@nccer.org</xref>, or fill in the User Update form at the back of this module.</p>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:3;16:10">This information is general in nature and intended for training purposes only. Actual
+        performance of activities described in this manual requires compliance with all applicable
+        operating, service, maintenance, and safety procedures under the direction of qualified
+        personnel. References in this manual to patented or proprietary devices do not constitute a
+        recommendation of their use.</p>
+    </section>
+    <section id="lp_overview" class="- topic/section " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="section:2;22:31">
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:4;23:10">This Lesson Plan (LP) is divided into sections that correspond to the sections in the
+        Trainee Guide module. As you plan your class times, review the objectives, content, and
+        lesson plan outline for the section you plan to teach. Allow sufficient class time for
+        demonstrations, laboratories, field trips, and testing. Each class period should also
+        include time for administrative tasks and periodic breaks.</p>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:5;28:10">Be sure to gather the required equipment, materials, visual aids, and answer keys. Using
+        your access code, download the PowerPoint<sup class="+ topic/ph hi-d/sup " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="sup:1;29:55">®</sup> presentations and Performance Sheets for this
+        module from NCCER’s Instructor Resource Center at <xref href="www.nccerirc.com" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="xref:4;31:42"><?ditaot usertext?>www.nccerirc.com</xref>.</p>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:6;32:10">It is advisable to assign the reading of a module section prior to the classroom
+        instruction. The Section Review and Module Review questions may be assigned as homework. At
+        their discretion, instructors may assign additional homework to meet the teaching
+        objectives.</p>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:7;36:10">Performance Testing may be administered at any suitable time in the course of the module
+        training. Tasks are graded pass/fail. Trainee performance and proficiency during practice
+        sessions that meets or exceeds the standards for a task can be accepted as Performance Task
+        completion. Complete the Performance Profile Sheet for each trainee.</p>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:8;40:10">The final class is generally reserved for a brief review and the Module Examination. For
+        information and updates about accessing the Module Examinations, visit
+        <xref href="www.nccer.org/testing" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="xref:5;43:42"><?ditaot usertext?>www.nccer.org/testing</xref>. The passing score for submission into NCCER’s Registry is 70% or
+        above for the Module Exam. Record the testing results for each trainee on the Registration
+        of Training Modules form and submit the form to the Training Program Sponsor.</p>
+    </section>
+    <section id="lp_prereqs" class="- topic/section " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="section:3;47:30">
+      <title class="- topic/title " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="title:2;48:14">Prerequisites</title>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:9;49:10">None. Knowledge of previous levels is recommended.</p>
+    </section>
+    <section id="lp_safety" class="- topic/section " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="section:4;51:29">
+      <title outputclass="t-wh" class="- topic/title " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="title:3;52:33">Safety Considerations</title>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:10;53:10">This module will likely be taught exclusively in the classroom environment. However,
+        instructors may teach or demonstrate portions of it in the shop or in the vicinity of
+        functioning equipment. Electrical and mechanical safety must be emphasized at all times.
+        Trainees should be carefully observed to ensure that they wear the proper PPE, follow safe
+        practices, and give due respect to the hazards of energized and operating systems. Any work
+        performed on functioning equipment must be completed under the direct supervision of the
+        instructor.</p>
+    </section>
+    <section id="lp_equipment" class="- topic/section " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="section:5;61:32">
+      <title outputclass="t-wh" class="- topic/title " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="title:4;62:33">Classroom Equipment and Materials</title>
+      <ul class="- topic/ul " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="ul:1;63:11">
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:1;64:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:11;65:14">Whiteboard and markers</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:2;67:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:12;68:14">Pencils and paper</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:3;70:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:13;71:14">PowerPoint<sup class="+ topic/ph hi-d/sup " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="sup:2;71:29">®</sup> Presentations for Module 02101</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:4;73:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:14;74:14">A variety of standard marker sizes</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:5;76:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:15;77:14">Poster board</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:6;79:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:16;80:14">Flip chart</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:7;82:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:17;83:14">LCD projector and screen</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:8;85:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:18;86:14">Computer with Internet access</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:9;88:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:19;89:14">Module Review answer key</p>
+        </li>
+        <li class="- topic/li " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="li:10;91:13">
+          <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:20;92:14">Module Examinations</p>
+        </li>
+       
+      </ul>
+    </section>
+    <section id="lp_resources" class="- topic/section " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="section:6;97:32">
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:21;98:10">There are a number of online resources available for trainees who would like more
+        information about the module topic. A search for additional information may be assigned as
+        homework to interested trainees.</p>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:22;101:10">Instructors should view any videos that may be identified in the lesson plan before using
+        them to ensure their suitability. The videos can provide examples of both proper and
+        improper work processes and behaviors. Be prepared to stop the videos at appropriate times
+        to point out and discuss both proper and improper conduct and techniques.</p>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:23;105:10">Instructors are also encouraged to locate additional audiovisual aids available on the
+        Internet, make personal videos, and take still pictures related to the subject matter and
+        add them to the PowerPoint<sup class="+ topic/ph hi-d/sup " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="sup:3;107:40">®</sup> presentations throughout the program.</p>
+    </section>
+    <section id="lp_safety2" class="- topic/section " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="section:7;109:30">
+      <title class="- topic/title " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="title:5;110:14">Safety Considerations</title>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:24;111:10">This module is designed for classroom instruction. As a result, safety considerations are
+        typically limited to that environment. Be sure to comply with any safety guidelines and
+        policies of the host organization and facility, and emphasize the importance of wearing the
+        required PPE any time trainees are in a shop or job-site environment.</p>
+    </section>
+    <section id="lp_instructional" class="- topic/section " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="section:8;116:36">
+      <title outputclass="t-wh" class="- topic/title " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="title:6;117:33">Instructional Methods</title>
+      <p class="- topic/p " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="p:25;118:10">Instructional methods research has shown that varying instructional methods periodically
+        throughout class sessions helps to engage and hold trainees’ attention. The PowerPoint<sup class="+ topic/ph hi-d/sup " xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml" xtrc="sup:4;119:100">®</sup>
+        presentation that you received with this lesson plan is keyed to the sections of the Trainee
+        Guide indicated below and has been designed for use with this Lesson Plan. </p>
+    </section>
+  </body>
+</topic>

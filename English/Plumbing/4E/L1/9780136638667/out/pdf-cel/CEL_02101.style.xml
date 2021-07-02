@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<css:root xmlns:chfox="http://www.oxygenxml.com/chemistry/extensions/fop"
+    xmlns:css="http://www.w3.org/1998/CSS" xmlns:oxy="oxy" xmlns:xsi="xsi">
+    <css:pages>
+        <css:page>
+            <css:footnote>
+                <css:property name="border-top-style" value="solid"/>
+                <css:property name="border-top-color" value="black"/>
+                <css:property name="border-top-width" value="thin"/>
+                <css:property name="padding-top" value="8pt"/>
+            </css:footnote>
+        </css:page>
+        <css:page>
+            <css:property name="padding-top" value="0.2em"/>
+            <css:property name="padding-bottom" value="0.2em"/>
+            <css:property name="width" value="8.5in"/>
+            <css:property name="height" value="11.0in"/>
+            <css:property name="margin-top" value="1in"/>
+            <css:property name="margin-right" value="1in"/>
+            <css:property name="margin-left" value="1in"/>
+            <css:property name="margin-bottom" value="1in"/>
+        </css:page>
+        <css:page>
+            <css:property name="margin-top" value="2cm"/>
+            <css:property name="margin-right" value="2cm"/>
+            <css:property name="margin-left" value="2cm"/>
+            <css:property name="margin-bottom" value="2cm"/>
+        </css:page>
+        <css:page pseudo="left ">
+            <css:top-left>
+                <css:property name="content">
+                    <css:string name="maptitle" position="first"/>
+                    <css:string name="parttitle" position="first"/>
+                    <css:string name="chaptertitle" position="first"/>
+                    <css:string name="sectiontitle" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="decimal" name="page"/>
+                </css:property>
+                <css:property name="font-size" value="8pt"/>
+            </css:top-left>
+        </css:page>
+        <css:page pseudo="right ">
+            <css:top-right>
+                <css:property name="content">
+                    <css:string name="maptitle" position="first"/>
+                    <css:string name="parttitle" position="first"/>
+                    <css:string name="chaptertitle" position="first"/>
+                    <css:string name="sectiontitle" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="decimal" name="page"/>
+                </css:property>
+                <css:property name="font-size" value="8pt"/>
+            </css:top-right>
+        </css:page>
+        <css:page pseudo="right ">
+            <css:bottom-right>
+                <css:property name="content">
+                    <css:text>Copyright © 2019 NCCER. Permission is granted to reproduce this page
+                        provided that copies are for local use only and that each copy contains this
+                        notice.</css:text>
+                </css:property>
+                <css:property name="font-size" value="0.5em"/>
+                <css:property name="color" value="silver"/>
+            </css:bottom-right>
+            <css:top-right>
+                <css:property name="content">
+                    <css:string name="maptitle" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="decimal" name="page"/>
+                </css:property>
+            </css:top-right>
+        </css:page>
+        <css:page pseudo="left ">
+            <css:bottom-left>
+                <css:property name="content">
+                    <css:text>Copyright © 2019 NCCER. Permission is granted to reproduce this page
+                        provided that copies are for local use only and that each copy contains this
+                        notice.</css:text>
+                </css:property>
+                <css:property name="font-size" value="0.5em"/>
+                <css:property name="color" value="silver"/>
+            </css:bottom-left>
+            <css:top-left>
+                <css:property name="content">
+                    <css:string name="maptitle" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="decimal" name="page"/>
+                </css:property>
+            </css:top-left>
+        </css:page>
+        <css:page pseudo="blank ">
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+        </css:page>
+        <css:page pseudo="first ">
+            <css:property name="margin-top" value="0cm"/>
+            <css:property name="margin-left" value="0cm"/>
+            <css:property name="margin-right" value="0cm"/>
+            <css:property name="margin-bottom" value="0cm"/>
+            <css:property name="padding-top" value="0px"/>
+            <css:property name="padding-right" value="0px"/>
+            <css:property name="padding-left" value="0px"/>
+            <css:property name="padding-bottom" value="0px"/>
+            <css:property name="background-color" value="rgb(19 , 60 , 104)"/>
+            <css:property name="color" value="white"/>
+        </css:page>
+        <css:page name="front-page">
+            <css:top-left-corner>
+                <css:property name="content"/>
+            </css:top-left-corner>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:top-right-corner>
+                <css:property name="content"/>
+            </css:top-right-corner>
+            <css:bottom-left-corner>
+                <css:property name="content"/>
+            </css:bottom-left-corner>
+            <css:bottom-left>
+                <css:property name="content"/>
+            </css:bottom-left>
+            <css:bottom-center>
+                <css:property name="content"/>
+            </css:bottom-center>
+            <css:bottom-right>
+                <css:property name="content"/>
+            </css:bottom-right>
+            <css:bottom-right-corner>
+                <css:property name="content"/>
+            </css:bottom-right-corner>
+        </css:page>
+        <css:page name="table-of-contents">
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:bottom-left>
+                <css:property name="content"/>
+            </css:bottom-left>
+            <css:bottom-center>
+                <css:property name="content"/>
+            </css:bottom-center>
+            <css:bottom-right>
+                <css:property name="content"/>
+            </css:bottom-right>
+        </css:page>
+        <css:page name="index">
+            <css:top-left-corner>
+                <css:property name="content"/>
+            </css:top-left-corner>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:top-right-corner>
+                <css:property name="content"/>
+            </css:top-right-corner>
+            <css:bottom-left-corner>
+                <css:property name="content"/>
+            </css:bottom-left-corner>
+            <css:bottom-left>
+                <css:property name="content"/>
+            </css:bottom-left>
+            <css:bottom-center>
+                <css:property name="content">
+                    <css:counter format="lower-alpha" name="page"/>
+                </css:property>
+            </css:bottom-center>
+            <css:bottom-right>
+                <css:property name="content"/>
+            </css:bottom-right>
+            <css:bottom-right-corner>
+                <css:property name="content"/>
+            </css:bottom-right-corner>
+        </css:page>
+        <css:page name="index">
+            <css:property name="column-count" value="2"/>
+            <css:property name="column-fill" value="auto"/>
+        </css:page>
+        <css:page name="chapter"/>
+        <css:page name="matter-page">
+            <css:top-left-corner>
+                <css:property name="content"/>
+            </css:top-left-corner>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:top-right-corner>
+                <css:property name="content"/>
+            </css:top-right-corner>
+            <css:bottom-left-corner>
+                <css:property name="content"/>
+            </css:bottom-left-corner>
+            <css:bottom-left>
+                <css:property name="content"/>
+            </css:bottom-left>
+            <css:bottom-center>
+                <css:property name="content"/>
+            </css:bottom-center>
+            <css:bottom-right>
+                <css:property name="content"/>
+            </css:bottom-right>
+            <css:bottom-right-corner>
+                <css:property name="content"/>
+            </css:bottom-right-corner>
+        </css:page>
+        <css:page name="portrait-page">
+            <css:property name="orientation" value="portrait"/>
+        </css:page>
+        <css:page name="table-of-contents" pseudo="left ">
+            <css:top-left>
+                <css:property name="content">
+                    <css:string name="toc-header" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="lower-roman" name="page"/>
+                </css:property>
+                <css:property name="font-size" value="8pt"/>
+            </css:top-left>
+        </css:page>
+        <css:page name="table-of-contents" pseudo="right ">
+            <css:top-right>
+                <css:property name="content">
+                    <css:string name="toc-header" position="first"/>
+                    <css:text> | </css:text>
+                    <css:counter format="lower-roman" name="page"/>
+                </css:property>
+                <css:property name="font-size" value="8pt"/>
+            </css:top-right>
+        </css:page>
+        <css:page name="landscape-page" pseudo="right ">
+            <css:property name="orientation" value="landscape"/>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:right-bottom>
+                <css:property name="content">
+                    <css:reference-orientation-container-pmb reference-orientation="270">
+                        <css:string name="maptitle" position="first"/>
+                        <css:string name="parttitle" position="first"/>
+                        <css:string name="chaptertitle" position="first"/>
+                        <css:string name="sectiontitle" position="first"/>
+                        <css:text> | </css:text>
+                        <css:counter format="decimal" name="page"/>
+                    </css:reference-orientation-container-pmb>
+                </css:property>
+                <css:property name="font-size" value="8pt"/>
+                <css:property name="vertical-align" value="middle"/>
+                <css:property name="text-align" value="right"/>
+            </css:right-bottom>
+        </css:page>
+        <css:page name="landscape-page" pseudo="left ">
+            <css:property name="orientation" value="landscape"/>
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+            <css:top-center>
+                <css:property name="content"/>
+            </css:top-center>
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+            <css:right-top>
+                <css:property name="content">
+                    <css:reference-orientation-container-pmb reference-orientation="270">
+                        <css:string name="maptitle" position="first"/>
+                        <css:string name="parttitle" position="first"/>
+                        <css:string name="chaptertitle" position="first"/>
+                        <css:string name="sectiontitle" position="first"/>
+                        <css:text> | </css:text>
+                        <css:counter format="decimal" name="page"/>
+                    </css:reference-orientation-container-pmb>
+                </css:property>
+                <css:property name="font-size" value="8pt"/>
+                <css:property name="vertical-align" value="middle"/>
+                <css:property name="text-align" value="left"/>
+            </css:right-top>
+        </css:page>
+        <css:page name="table-of-contents" pseudo="first left ">
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+        </css:page>
+        <css:page name="table-of-contents" pseudo="first right ">
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+        </css:page>
+        <css:page name="chapter" pseudo="first left ">
+            <css:top-left>
+                <css:property name="content"/>
+            </css:top-left>
+        </css:page>
+        <css:page name="chapter" pseudo="first right ">
+            <css:top-right>
+                <css:property name="content"/>
+            </css:top-right>
+        </css:page>
+    </css:pages>
+    <css:page-sequence initial-page-number="1" page="chapter">
+        <html css:counter-reset=" page 1" css:display="block"
+            css:font-family="serif, Times, Times New Roman, Symbol, MingLiU, MS Mincho, Arial Unicode MS"
+            css:font-size="12px">
+            <head css:border-bottom-color="white" css:border-bottom-style="solid"
+                css:border-bottom-width="1pt" css:border-left-color="white"
+                css:border-left-style="solid" css:border-left-width="1pt"
+                css:border-right-color="white" css:border-right-style="solid"
+                css:border-right-width="1pt" css:border-top-color="white"
+                css:border-top-style="solid" css:border-top-width="1pt" css:display="none"
+                css:padding-bottom="1em" css:padding-left="1em" css:padding-right="1em"
+                css:padding-top="1em">
+                <meta charset="UTF-8" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px"/>
+                <meta content="(C) Copyright 2020" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="copyright"/>
+                <meta content="(C) Copyright 2020" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px"
+                    name="DC.rights.owner"/>
+                <meta content="map" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.Type"/>
+                <meta content="XHTML" css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller" css:margin-bottom="1px"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="1px" name="DC.Format"/>
+                <link css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller"
+                    css:link="file:/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page.css"
+                    css:margin-bottom="1px" css:margin-left="0" css:margin-right="0"
+                    css:margin-top="1px"
+                    href="file:/Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page.css"
+                    rel="stylesheet" type="text/css"/>
+                <link css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller"
+                    css:link="file:/Applications/Oxygen XML Editor/frameworks/dita/css/print/p-dita.css"
+                    css:margin-bottom="1px" css:margin-left="0" css:margin-right="0"
+                    css:margin-top="1px"
+                    href="file:/Applications/Oxygen XML Editor/frameworks/dita/css/print/p-dita.css"
+                    rel="stylesheet" type="text/css"/>
+                <link css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller"
+                    css:link="file:/Applications/Oxygen%20XML%20Editor/frameworks/nccer/resources/CEL.css"
+                    css:margin-bottom="1px" css:margin-left="0" css:margin-right="0"
+                    css:margin-top="1px"
+                    href="file:/Applications/Oxygen%20XML%20Editor/frameworks/nccer/resources/CEL.css"
+                    rel="stylesheet" type="text/css"/>
+                <link css:background-color="rgb(238 , 238 , 255)"
+                    css:border-bottom-color="rgb(204 , 204 , 238)" css:border-bottom-style="solid"
+                    css:border-bottom-width="1px" css:border-left-color="rgb(204 , 204 , 238)"
+                    css:border-left-style="solid" css:border-left-width="1px"
+                    css:border-right-color="rgb(204 , 204 , 238)" css:border-right-style="solid"
+                    css:border-right-width="1px" css:border-top-color="rgb(204 , 204 , 238)"
+                    css:border-top-style="solid" css:border-top-width="1px" css:display="none"
+                    css:font-family="monospace" css:font-size="smaller"
+                    css:link="file:/Users/jmckay/Documents/Content/ncs_content/9780136638667/maps/english/../../resources/CEL_02101.css"
+                    css:margin-bottom="1px" css:margin-left="0" css:margin-right="0"
+                    css:margin-top="1px"
+                    href="file:/Users/jmckay/Documents/Content/ncs_content/9780136638667/maps/english/../../resources/CEL_02101.css"
+                    rel="stylesheet" type="text/css"/>
+                <title css:border-bottom-color="rgb(0 , 68 , 119)" css:border-bottom-style="solid"
+                    css:border-bottom-width="2px" css:color="rgb(0 , 34 , 68)" css:display="none"
+                    css:font-size="2.2em" css:font-weight="bold" css:margin-bottom="0.5em"
+                    css:margin-left="0" css:margin-right="0" css:margin-top="0.5em"
+                            ><css:oxy-pdf-meta-title><css:content source="text"
+                        /></css:oxy-pdf-meta-title>Competencies/Equipment Lists | Introduction to
+                    the Plumbing Profession</title>
+            </head>
+            <body class="wh_topic_page" css:display="block" css:font-size="11.5pt"
+                css:margin-left="auto" css:margin-right="auto">
+                <div class="wh_content_area" css:display="block" css:min-height="500px">
+                    <div class="wh_topic_body" css:display="block">
+                        <div class="wh_topic_content" css:display="block">
+                            <div xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                                cascade="merge" class="- map/map map"
+                                css:counter-reset=" toc-chapter 0 chapter 0 figcount 0 tablecount 0"
+                                css:display="block" ditaarchversion="1.2"
+                                domains="(map mapgroup-d)                                              (topic delay-d)                                             (topic hazard-d)                                             (topic hi-d)                                              (topic indexing-d)                                              (topic ut-d)"
+                                title="Competencies/Equipment Lists | Introduction to the Plumbing Profession"
+                                xsi:nonamespaceschemalocation="urn:nccer:names:ncs:xsd:NCS_map.xsd">
+                                <css:string-set name="maptitle">
+                                    <css:text>Competencies/Equipment Lists | Introduction to the
+                                        Plumbing Profession</css:text>
+                                </css:string-set>
+                                <css:oxy-pdf-meta-title>
+                                    <css:text>Competencies/Equipment Lists | Introduction to the
+                                        Plumbing Profession</css:text>
+                                </css:oxy-pdf-meta-title>
+                                <div class="front-page/front-page front-page" css:display="none"
+                                    css:page="front-page">
+                                    <div class="front-page/front-page-title front-page-title"
+                                        css:display="none"
+                                        css:font-family="Arial, Helvetica, sans-serif"
+                                        css:font-size="2em" css:font-weight="bold"
+                                        css:margin-top="3in" css:text-align="center"
+                                        >Competencies/Equipment Lists | Introduction to the Plumbing
+                                        Profession</div>
+                                </div>
+                                <div class="toc/toc toc" css:display="none"
+                                    css:page="table-of-contents">
+                                    <div class="toc/titletitle" css:display="none" empty="true"/>
+                                    <div class="- map/topicref topicref" css:display="none"
+                                        css:font-weight="bold" css:margin-bottom="0.5em"
+                                        css:margin-top="0.5em" href="#unique_1" is-chapter="true"
+                                        type="topic">
+                                        <div class="- map/topicmeta topicmeta"
+                                            css:border-bottom-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-color="transparent"
+                                            css:border-left-style="none"
+                                            css:border-right-color="transparent"
+                                            css:border-right-style="none"
+                                            css:border-top-color="transparent"
+                                            css:border-top-style="none" css:display="none"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0"
+                                            data-topic-id="CELCoverPage">
+                                            <div appid="CELCoverPage"
+                                                class="- topic/resourceid resourceid"
+                                                css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle"
+                                                css:display="none" css:link="#unique_1"
+                                                href="#unique_1"/>
+                                        </div>
+                                    </div>
+                                    <div class="- map/topicref topicref" css:display="none"
+                                        css:font-weight="bold" css:margin-bottom="0.5em"
+                                        css:margin-top="0.5em" href="#unique_2" is-chapter="true"
+                                        type="topic">
+                                        <div class="- map/topicmeta topicmeta"
+                                            css:border-bottom-color="transparent"
+                                            css:border-bottom-style="none"
+                                            css:border-left-color="transparent"
+                                            css:border-left-style="none"
+                                            css:border-right-color="transparent"
+                                            css:border-right-style="none"
+                                            css:border-top-color="transparent"
+                                            css:border-top-style="none" css:display="none"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0"
+                                            css:padding-bottom="0" css:padding-left="0"
+                                            css:padding-right="0" css:padding-top="0"
+                                            data-topic-id="lp_topic">
+                                            <div appid="lp_topic"
+                                                class="- topic/resourceid resourceid"
+                                                css:display="none" oxy-source="topic"/>
+                                            <div class="- topic/navtitle navtitle"
+                                                css:display="none" css:link="#unique_2"
+                                                href="#unique_2">02101Introduction to Plumbing</div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <article xmlns:oxy="http://www.oxygenxml.com/extensions/author"
+                                    aria-labelledby="ariaid-title1" break-before="true"
+                                    class="- topic/topic topic nested0" css:display="block"
+                                    css:margin-bottom="0px" css:margin-left="0px"
+                                    css:margin-right="0px" css:margin-top="0px"
+                                    css:oxy-pdf-tag-type="Sect" css:padding-bottom="0px"
+                                    css:padding-left="0px" css:padding-right="0px"
+                                    css:padding-top="0px" css:page-break-after="always"
+                                    ditaarchversion="1.2" id="unique_1" is-chapter="true"
+                                    oid="CELCoverPage" oxy:topicref-class="- map/topicref"
+                                    xsi:nonamespaceschemalocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd">
+                                    <h1 class="- topic/title title topictitle1"
+                                        css:bookmark-level="1" css:display="none"
+                                        css:font-family="Arial, Arial, sans-serif"
+                                        css:font-size="2em" css:margin-bottom="6px"
+                                        css:margin-left="0" css:margin-right="0"
+                                        css:margin-top="0px" css:oxy-pdf-tag-type="H1"
+                                        css:page-break-after="avoid" id="ariaid-title1">
+                                        <css:string-set name="chaptertitle">
+                                            <css:text> | </css:text>
+                                            <css:counter name="chapter" value="1"/>
+                                            <css:text> - </css:text>
+                                            <css:content source="text"/>
+                                        </css:string-set>
+                                        <css:bookmark-label>
+                                            <css:content source="before"/>
+                                            <css:content source="text"/>
+                                        </css:bookmark-label>
+                                    </h1>
+                                    <div class="- topic/body body" css:display="block"
+                                        css:margin-bottom="0px" css:margin-left="0"
+                                        css:margin-right="0px" css:margin-top="0px"
+                                        css:padding-bottom="0px" css:padding-left="0px"
+                                        css:padding-right="0px" css:padding-top="0px">
+                                        <section class="- topic/section section" css:display="block"
+                                            css:margin-bottom="1em" css:margin-top="1em"
+                                            css:oxy-pdf-tag-type="Sect"
+                                            id="unique_1_Connect_42_cp-title">
+                                            <h2 class="- topic/title title sectiontitle cp-title"
+                                                css:bookmark-level="2"
+                                                css:color="rgb(255 , 255 , 255)" css:display="block"
+                                                css:font-family="Arial, Arial, sans-serif"
+                                                css:font-size="2em" css:font-weight="bold"
+                                                css:margin-bottom="6px" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0px"
+                                                css:oxy-pdf-tag-type="H2" css:padding-bottom="20px"
+                                                css:padding-top="40px" css:page-break-after="avoid"
+                                                css:text-align="center" outputclass="cp-title"
+                                                  ><css:before css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="text"/></css:bookmark-label>Introduction
+                                                to the Plumbing Profession</h2>
+                                        </section>
+                                        <section class="- topic/section section cp-graphic"
+                                            css:display="block" css:margin-bottom="20px"
+                                            css:margin-top="20px" css:oxy-pdf-tag-type="Sect"
+                                            css:padding-bottom="20px" css:padding-top="20px"
+                                            css:text-align="center"
+                                            id="unique_1_Connect_42_cp-graphic"
+                                            outputclass="cp-graphic">
+                                            <figure class="- topic/fig fig fignone"
+                                                css:display="block" css:page-break-inside="avoid"
+                                                id="unique_1_Connect_42_cpFig">
+                                                <img class="- topic/image image cpFig"
+                                                  css:background-color="rgb(19 , 60 , 104)"
+                                                  css:background-repeat="no-repeat"
+                                                  css:display="block" css:image-resolution="120dpi"
+                                                  css:margin-left="auto" css:margin-right="auto"
+                                                  css:max-width="100%" css:padding-bottom="0px"
+                                                  css:padding-left="0px" css:padding-right="0px"
+                                                  css:padding-top="0px" css:width="92%" format="pdf"
+                                                  href="file:/Users/jmckay/Documents/Content/ncs_content/9780136638667/graphics/print/02101-18_MO.tif"
+                                                  outputclass="cpFig" scalefit="yes"
+                                                  src="file:/Users/jmckay/Documents/Content/ncs_content/9780136638667/graphics/print/02101-18_MO.tif">
+                                                  <css:content-on-element>
+                                                  <css:uri extracted-image-height="786"
+                                                  extracted-image-width="1024"
+                                                  uri="file:/Users/jmckay/Documents/Content/ncs_content/9780136638667/graphics/print/02101-18_MO.tif"
+                                                  />
+                                                  </css:content-on-element>
+                                                </img>
+                                                <br css:display="block">
+                                                  <css:after css:display="inline">
+                                                  <css:text/>
+                                                  </css:after>
+                                                </br>
+                                            </figure>
+                                        </section>
+                                        <section class="- topic/section section cpt"
+                                            css:color="rgb(255 , 255 , 255)" css:display="block"
+                                            css:font-size="2em" css:margin-bottom="20px"
+                                            css:margin-top="20px" css:oxy-pdf-tag-type="Sect"
+                                            css:padding-bottom="20px" css:padding-top="20px"
+                                            css:text-align="center" id="unique_1_Connect_42_cpt"
+                                            outputclass="cpt">
+                                            <h2 class="- topic/title title sectiontitle"
+                                                css:bookmark-level="2" css:display="block"
+                                                css:font-family="Arial, Arial, sans-serif"
+                                                css:font-size="1.17em" css:font-weight="bold"
+                                                css:margin-bottom="6px" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0px"
+                                                css:oxy-pdf-tag-type="H2"
+                                                css:page-break-after="avoid"><css:before
+                                                  css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="text"/></css:bookmark-label>Course
+                                                Planning Tools</h2>
+                                        </section>
+                                        <section class="- topic/section section module-no"
+                                            css:background-color="rgb(4 , 25 , 47)"
+                                            css:color="rgb(255 , 255 , 255)" css:display="block"
+                                            css:font-size="2em" css:margin-bottom="20px"
+                                            css:margin-top="20px" css:oxy-pdf-tag-type="Sect"
+                                            css:padding-bottom="20px" css:padding-top="20px"
+                                            css:text-align="center"
+                                            id="unique_1_Connect_42_module-no"
+                                            outputclass="module-no">
+                                            <h2 class="- topic/title title sectiontitle"
+                                                css:background-color="#04192f"
+                                                css:bookmark-level="2" css:display="block"
+                                                css:font-family="Arial, Arial, sans-serif"
+                                                css:font-size="1.17em" css:font-weight="bold"
+                                                css:margin-bottom="6px" css:margin-left="0"
+                                                css:margin-right="0" css:margin-top="0px"
+                                                css:oxy-pdf-tag-type="H2"
+                                                css:page-break-after="avoid"><css:before
+                                                  css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="text"/></css:bookmark-label>Module
+                                                02101</h2>
+                                        </section>
+                                    </div>
+                                </article>
+                                <article xmlns:oxy="http://www.oxygenxml.com/extensions/author"
+                                    aria-labelledby="ariaid-title2ariaid-title3" break-before="true"
+                                    class="- topic/topic topic nested0" css:display="block"
+                                    css:margin-top="1em" css:oxy-pdf-tag-type="Sect"
+                                    ditaarchversion="1.2" id="unique_2" is-chapter="true"
+                                    oid="lp_topic" oxy:topicref-class="- map/topicref"
+                                    xsi:nonamespaceschemalocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd">
+                                    <h1 class="- topic/title title topictitle1 t-first"
+                                        css:background-color="rgb(19 , 60 , 104)"
+                                        css:bookmark-level="1" css:color="rgb(255 , 255 , 255)"
+                                        css:display="block"
+                                        css:font-family="Arial, Arial, sans-serif"
+                                        css:font-size="2em" css:margin-bottom="0px"
+                                        css:margin-left="0" css:margin-right="0"
+                                        css:margin-top="0px" css:oxy-pdf-tag-type="H1"
+                                        css:padding-bottom="8px" css:padding-left="8px"
+                                        css:padding-right="8px" css:padding-top="8px"
+                                        css:page-break-after="avoid" id="ariaid-title2"
+                                        outputclass="t-first"><css:string-set name="chaptertitle"
+                                                ><css:text> | </css:text><css:counter name="chapter"
+                                                value="2"/><css:text> - </css:text><css:content
+                                                source="text"
+                                                /></css:string-set><css:bookmark-label><css:content
+                                                source="before"/><css:content source="text"
+                                            /></css:bookmark-label><css:before css:display="inline"
+                                            ><css:text/></css:before>02101</h1>
+                                    <h1 class="- topic/title title topictitle1 t-mid"
+                                        css:background-color="rgb(19 , 60 , 104)"
+                                        css:bookmark-level="1" css:color="rgb(255 , 255 , 255)"
+                                        css:display="block"
+                                        css:font-family="Arial, Arial, sans-serif"
+                                        css:font-size="2em" css:margin-bottom="0px"
+                                        css:margin-left="0" css:margin-right="0"
+                                        css:margin-top="0px" css:oxy-pdf-tag-type="H1"
+                                        css:padding-bottom="8px" css:padding-left="8px"
+                                        css:padding-right="8px" css:padding-top="8px"
+                                        css:page-break-after="avoid" id="ariaid-title3"
+                                        outputclass="t-mid"><css:string-set name="chaptertitle"
+                                                ><css:text> | </css:text><css:counter name="chapter"
+                                                value="2"/><css:text> - </css:text><css:content
+                                                source="text"
+                                                /></css:string-set><css:bookmark-label><css:content
+                                                source="before"/><css:content source="text"
+                                            /></css:bookmark-label><css:before css:display="inline"
+                                            ><css:text/></css:before>Introduction to Plumbing</h1>
+                                    <article aria-labelledby="ariaid-title4"
+                                        class="- topic/topic topic nested1" css:display="block"
+                                        css:oxy-pdf-tag-type="Sect" ditaarchversion="1.2"
+                                        id="unique_3" oid="LpBookTitle">
+                                        <h2 class="- topic/title title topictitle2 t-last"
+                                            css:background-color="rgb(19 , 60 , 104)"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:color="rgb(255 , 255 , 255)" css:display="block"
+                                            css:font-family="Arial, Arial, sans-serif"
+                                            css:font-size="1.7em" css:font-style="italic"
+                                            css:margin-bottom="6px" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0px"
+                                            css:oxy-pdf-tag-type="H2" css:padding-bottom="8px"
+                                            css:padding-left="8px" css:padding-right="8px"
+                                            css:padding-top="8px" css:page-break-after="avoid"
+                                            id="ariaid-title4" outputclass="t-last"><css:before
+                                                css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Plumbing</h2>
+                                        <div class="- topic/body body" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0">
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <h3 class="- topic/title title sectiontitle"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="1.17em" css:font-weight="bold"
+                                                  css:margin-bottom="6px" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0px"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid"><css:before
+                                                  css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="text"/></css:bookmark-label>Overview</h3>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Plumbers protect the health,
+                                                  safety, and comfort of people. Training and
+                                                  critical-thinking skills are essential to being a
+                                                  good plumber. A professional work ethic and good
+                                                  safety habits go a long way toward adding to the
+                                                  success of a plumber.</p>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title5"
+                                        class="- topic/topic topic nested1" css:display="block"
+                                        css:oxy-pdf-tag-type="Sect" ditaarchversion="1.2"
+                                        id="unique_4" oid="d7e21">
+                                        <h2 class="- topic/title title topictitle2 LO"
+                                            css:background-color="rgb(19 , 60 , 104)"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:color="rgb(255 , 255 , 255)" css:display="block"
+                                            css:font-family="Arial, Arial, sans-serif"
+                                            css:font-size="1.7em" css:font-style="italic"
+                                            css:margin-bottom="6px" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0px"
+                                            css:oxy-pdf-tag-type="H2" css:padding-bottom="8px"
+                                            css:padding-left="8px" css:padding-right="8px"
+                                            css:padding-top="8px" css:page-break-after="avoid"
+                                            id="ariaid-title5" outputclass="LO"><css:before
+                                                css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Learning Objective 1</h2>
+                                        <div class="- topic/body body" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0">
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">
+                                                  <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Successful completion of this module prepares
+                                                  trainees to:</em>
+                                                </p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Describe the plumbing
+                                                  profession.</p>
+                                                <ol class="- topic/ol ol" css:display="block"
+                                                  css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  type="a">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Describe the history of the
+                                                  plumbing profession.</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Describe the plumbing
+                                                  profession today.</p>
+                                                  </li>
+                                                </ol>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title6"
+                                        class="- topic/topic topic nested1" css:display="block"
+                                        css:oxy-pdf-tag-type="Sect" ditaarchversion="1.2"
+                                        id="unique_5" oid="d7e38">
+                                        <h2 class="- topic/title title topictitle2 LO"
+                                            css:background-color="rgb(19 , 60 , 104)"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:color="rgb(255 , 255 , 255)" css:display="block"
+                                            css:font-family="Arial, Arial, sans-serif"
+                                            css:font-size="1.7em" css:font-style="italic"
+                                            css:margin-bottom="6px" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0px"
+                                            css:oxy-pdf-tag-type="H2" css:padding-bottom="8px"
+                                            css:padding-left="8px" css:padding-right="8px"
+                                            css:padding-top="8px" css:page-break-after="avoid"
+                                            id="ariaid-title6" outputclass="LO"><css:before
+                                                css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Learning Objective 2</h2>
+                                        <div class="- topic/body body" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0">
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">
+                                                  <em class="+ topic/ph hi-d/i ph i"
+                                                  css:display="inline" css:font-style="italic"
+                                                  >Successful completion of this module prepares
+                                                  trainees to:</em>
+                                                </p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Identify the responsibilities
+                                                  of a person working in the plumbing industry.</p>
+                                                <ol class="- topic/ol ol" css:display="block"
+                                                  css:list-style-type="decimal"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em"
+                                                  type="a">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">State the personal
+                                                  characteristics of a professional.</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:list-style-type="lower-alpha"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Identify career opportunities
+                                                  in plumbing.</p>
+                                                  </li>
+                                                </ol>
+                                            </section>
+                                        </div>
+                                    </article>
+                                    <article aria-labelledby="ariaid-title7"
+                                        class="- topic/topic topic nested1" css:display="block"
+                                        css:oxy-pdf-tag-type="Sect" ditaarchversion="1.2"
+                                        id="unique_6" oid="NcsPerformanceTasks">
+                                        <h2 class="- topic/title title topictitle2 PT"
+                                            css:background-color="rgb(19 , 60 , 104)"
+                                            css:bookmark-level="2" css:bookmark-state="closed"
+                                            css:color="rgb(255 , 255 , 255)" css:display="block"
+                                            css:font-family="Arial, Arial, sans-serif"
+                                            css:font-size="1.7em" css:font-style="italic"
+                                            css:margin-bottom="6px" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0px"
+                                            css:oxy-pdf-tag-type="H2" css:padding-bottom="8px"
+                                            css:padding-left="8px" css:padding-right="8px"
+                                            css:padding-top="8px" css:page-break-after="avoid"
+                                            id="ariaid-title7" outputclass="PT"><css:before
+                                                css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="before"/><css:content source="text"
+                                                /></css:bookmark-label>Performance Tasks</h2>
+                                        <div class="- topic/body body" css:display="block"
+                                            css:margin-bottom="0" css:margin-left="0"
+                                            css:margin-right="0" css:margin-top="0">
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect">
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">This is a knowledge-based
+                                                  module; there are no Performance Tasks.</p>
+                                                <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px"
+                                                  id="unique_6_Connect_42_LpTeachingTime"
+                                                  >Recommended Teaching Time: 5 hours</p>
+                                            </section>
+                                            <section class="- topic/section section"
+                                                css:display="block" css:margin-bottom="1em"
+                                                css:margin-top="1em" css:oxy-pdf-tag-type="Sect"
+                                                id="unique_6_Connect_42_lp_equipment">
+                                                <h3 class="- topic/title title sectiontitle t-wh"
+                                                  css:bookmark-level="3" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="140%" css:font-weight="bold"
+                                                  css:margin-bottom="6px" css:margin-left="0"
+                                                  css:margin-right="0" css:margin-top="0px"
+                                                  css:oxy-pdf-tag-type="H3"
+                                                  css:page-break-after="avoid" outputclass="t-wh"
+                                                  ><css:before css:display="inline"
+                                                  ><css:text/></css:before><css:bookmark-label><css:content
+                                                  source="text"/></css:bookmark-label>Classroom
+                                                  Equipment and Materials</h3>
+                                                <ul class="- topic/ul ul" css:display="block"
+                                                  css:list-style-type="disc"
+                                                  css:margin-bottom="1.33em" css:margin-top="1.33em">
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Whiteboard and markers</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Pencils and paper</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">PowerPoint<sup
+                                                  class="+ topic/ph hi-d/sup ph sup"
+                                                  css:display="inline" css:font-size="small"
+                                                  css:vertical-align="super">®</sup> Presentations
+                                                  for Module 02101</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">A variety of standard marker
+                                                  sizes</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Poster board</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Flip chart</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">LCD projector and screen</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Computer with Internet
+                                                  access</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Module Review answer key</p>
+                                                  </li>
+                                                  <li class="- topic/li li" css:display="list-item"
+                                                  css:margin-left="2em">
+                                                  <p class="- topic/p p" css:display="block"
+                                                  css:font-family="Arial, Arial, sans-serif"
+                                                  css:font-size="95%" css:margin-bottom="6px"
+                                                  css:margin-left="0" css:margin-right="0"
+                                                  css:margin-top="0px">Module Examinations</p>
+                                                  </li>
+                                                </ul>
+                                            </section>
+                                        </div>
+                                    </article>
+                                </article>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </body>
+        </html>
+    </css:page-sequence>
+</css:root>

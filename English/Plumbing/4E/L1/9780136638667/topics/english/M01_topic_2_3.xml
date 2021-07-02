@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_2_3"
+            xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningAssessment.xsd"
+            xml:lang="en"
+            sourcetype="practice">
+   <title>1.0.0 Section Review</title>
+   <interactions>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Philadelphia began using cast-iron piping for water mains in the early _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>1600s </answer>
+               </answerOption>
+               <answerOption>
+                  <answer>1700s</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>1800s</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>1900s</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>1.1.1</lcSectionRef>
+            <lcObjectiveRef>1a</lcObjectiveRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Softening may be added to a water supply in order to _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>prevent scale</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>improve flavor</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>reduce bacteria</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>prevent tooth decay</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>1.2.3</lcSectionRef>
+            <lcObjectiveRef>1b</lcObjectiveRef>
+         </single>
+      </interaction>
+   </interactions>
+</assessment>

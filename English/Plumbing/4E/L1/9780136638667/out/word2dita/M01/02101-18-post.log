@@ -1,0 +1,431 @@
+     [echo] Running dita2word-2-ncs-ld...
+  [foreach] The nested fileset element is deprectated, use a nested path instead
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_1_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_1_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_1_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_1_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_0.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_0.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_0.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_0.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Seeking 'Figure 1'
+     [xslt] file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_1.xml
+     [xslt] rawtitle: Figure 1 The evolution of plumbing.
+     [xslt] [Figure 1]
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_1_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_1_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_1_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_1_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_1_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_1_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_1_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_1_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_1_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_1_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_1_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_1_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_2_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_2_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_2_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_2_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_2_5.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_5.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Seeking 'Figure 2'
+     [xslt] file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_2_5.xml
+     [xslt] rawtitle: Figure 2 Examples of plumbing licenses.
+     [xslt] [Figure 2]
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_5.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_5.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_2_6.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_6.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_2_6.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_6.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_2_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_0.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_0.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_0.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_0.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_5.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_5.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_5.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_5.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_6.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_6.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_6.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_6.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_7.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_7.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_7.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_7.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_8.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_8.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_8.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_8.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_1_9.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_9.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_1_9.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_9.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Seeking 'Figure 3'
+     [xslt] file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2.xml
+     [xslt] Seeking 'Figure 3'
+     [xslt] file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2.xml
+     [xslt] rawtitle: Figure 3 Opportunities in the construction industry.
+     [xslt] [Figure 3]
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2_5.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_5.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_5.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_5.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2_6.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_6.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_6.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_6.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_2_7.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_7.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_2_7.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_7.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_3_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_4_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_4_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_4_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] 
+     [xslt]                        [DOT_WordToNCS][WARN] Please verify - LcInstruction.Para style was used, but should probably be Section.Para: "Fill in the blank with the correct term that you learned from your study of this module."
+     [xslt]                    
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_4_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_4_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_4_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_4_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] rawtitle: 
+     [xslt] []
+     [xslt] rawtitle: 
+     [xslt] []
+     [xslt] rawtitle: 
+     [xslt] []
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_4.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_4_4.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_4_4_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_4_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_4_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_4_4_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_4_4_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_4_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_4_2.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_4_4_2.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_4_4_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_4_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp/M01_topic_4_4_3.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_4_4_3.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+  [foreach] The nested fileset element is deprectated, use a nested path instead
+
+postprocessmaps:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/02101-18.ditamap to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/maps/english/02101-18.ditamap.1st
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] M01 M01_02101-18_TG
+     [xslt] supertitle: 
+     [xslt] supertitle: <supertitle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Section One</supertitle>
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: <supertitle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">Section Two</supertitle>
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] supertitle: 
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_1_1.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_1_1.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] HIYA  file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_2.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_1.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_0.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_2.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_1.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_2_1.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_1_1.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_2_2.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_1_2.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_2_3.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_1_3.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_3.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_3_1.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_1.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_3_2.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_2.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_3_3.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_3.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_3_4.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_4.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_3_5.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_5.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_3_6.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_2_6.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_2_4.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_2_3.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] HIYA  file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/M01_topic_3.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_1.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_0.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_1.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_1.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_2.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_2.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_3.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_3.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_4.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_4.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_5.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_5.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_6.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_6.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_7.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_7.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_8.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_8.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_2_9.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_1_9.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_3.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_3_1.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_1.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_3_2.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_2.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_3_3.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_3.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_3_4.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_4.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_3_5.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_5.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_3_6.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_6.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_3_7.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_2_7.xml true
+     [xslt] M01 M01_02101-18_TG
+     [xslt] CHECK TOPICREF NUMBERS: topics/M01_topic_3_4.xml
+     [xslt] file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/english/M01_topic_3_3.xml true
+     [echo] in='/Users/jmckay/Documents/Content/ncs_content/9780130210100/NCSword/english/../../out/word2dita/M01/maps/english/02101-18.ditamap.1st'             out='/Users/jmckay/Documents/Content/ncs_content/9780130210100/NCSword/english/../../out/word2dita/M01/maps/english/02101-18.ditamap'             inputdir='/Users/jmckay/Documents/Content/ncs_content/9780130210100/NCSword/english/../../out/word2dita/M01/maps/english/'
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/maps/english/02101-18.ditamap.1st to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/maps/english/02101-18.ditamap
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsgrouptopicrefs.xsl
+   [delete] Deleting: /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/maps/english/02101-18.ditamap.1st
+   [delete] Deleting directory /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/M01/topics/temp

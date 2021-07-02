@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><map xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" DITAArchVersion="1.2" cascade="merge" class="- map/map " domains="(map mapgroup-d)                                              (topic delay-d)                                             (topic hazard-d)                                             (topic hi-d)                                              (topic indexing-d)                                              (topic ut-d)" title="Lesson Plan | Introduction to the Plumbing Profession" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_map.xsd" xtrc="map:1;1:228" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/maps/english/LP_02101.ditamap"><opentopic:map xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder">
+    <topicref xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " first_topic_id="#unique_1" href="#unique_1" id="unique_1" ohref="../../topics/english/LP_02101_Cover.xml" type="topic" xtrc="topicref:1;2:63" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/maps/english/LP_02101.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="LpCoverPage"><resourceid appid="LpCoverPage" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle "/><?ditaot gentext?><linktext class="- map/linktext "/></topicmeta></topicref>
+    <topicref xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" class="- map/topicref " first_topic_id="#unique_2" href="#unique_2" id="unique_2" ohref="../../topics/english/LP_02101.xml" type="topic" xtrc="topicref:2;3:57" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/maps/english/LP_02101.ditamap"><topicmeta class="- map/topicmeta " data-topic-id="lp_topic"><resourceid appid="lp_topic" class="- topic/resourceid " oxy-source="topic"/><navtitle class="- topic/navtitle ">02101Introduction to Plumbing</navtitle><?ditaot gentext?><linktext class="- map/linktext ">02101Introduction to Plumbing</linktext></topicmeta></topicref>
+</opentopic:map><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_1" oid="LpCoverPage" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" xtrc="topic:1;3:92" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_Cover.xml">
+   <title class="- topic/title " xtrc="title:1;4:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_Cover.xml"/>
+    <body class="- topic/body " xtrc="body:1;5:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_Cover.xml">
+        <fig class="- topic/fig " id="unique_1_Connect_42_cpFig" xtrc="fig:1;6:25" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_Cover.xml">
+            <image class="- topic/image " href="graphics/web/LP_02101_Cover.jpg" scalefit="yes" xtrc="image:1;7:81" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_Cover.xml"/>
+        </fig>
+    </body>
+</topic><topic xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_2" oid="lp_topic" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" xtrc="topic:1;3:87" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+  <supertitle class="- topic/title " outputclass="t-first" xtrc="supertitle:1;4:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">02101</supertitle>
+  <title class="- topic/title " outputclass="t-mid" xtrc="title:1;5:30" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Introduction to Plumbing</title>
+  <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_3" oid="LpBookTitle" xtrc="topic:2;6:27" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+    <supertitle class="- topic/title " outputclass="t-mid" xtrc="supertitle:2;7:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Plumbing</supertitle>
+    <title class="- topic/title " outputclass="t-last" xtrc="title:2;8:33" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Lesson Plans for Instructors</title>
+    <body class="- topic/body " xtrc="body:1;9:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      <section class="- topic/section " xtrc="section:1;6:28" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+      <p class="- topic/p " xtrc="p:1;7:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Trainees with successful module completions may be eligible for credentialing through the
+        NCCER Registry. To learn more, go to <xref class="- topic/xref " format="html" href="www.nccer.org" scope="external" xtrc="xref:1;9:28" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml"><?ditaot usertext?>www.nccer.org</xref> or contact us at 1.888.622.3720. Our website has
+        information on the latest product releases and training, as well as online versions of our
+        Cornerstone magazine and Pearson’s product catalog.</p>
+      <p class="- topic/p " xtrc="p:2;12:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Your feedback is welcome. You may email your comments to <xref class="- topic/xref " format="html" href="curriculum@nccer.org" scope="external" xtrc="xref:2;13:42" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml"><?ditaot usertext?>curriculum@nccer.org</xref>, send general comments and
+        inquiries to <xref class="- topic/xref " format="html" href="info@nccer.org" scope="external" xtrc="xref:3;15:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml"><?ditaot usertext?>info@nccer.org</xref>, or fill in the User Update form at the back of this module.</p>
+      <p class="- topic/p " xtrc="p:3;16:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">This information is general in nature and intended for training purposes only. Actual
+        performance of activities described in this manual requires compliance with all applicable
+        operating, service, maintenance, and safety procedures under the direction of qualified
+        personnel. References in this manual to patented or proprietary devices do not constitute a
+        recommendation of their use.</p>
+    </section>
+      <section class="- topic/section " xtrc="section:2;11:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:3;12:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Overview</title>
+        <p class="- topic/p " xtrc="p:1;13:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Plumbers protect the health, safety, and comfort of people. Training and
+          critical-thinking skills are essential to being a good plumber. A professional work ethic
+          and good safety habits go a long way toward adding to the success of a plumber.</p>
+      </section>
+    </body>
+  </topic>
+  <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_4" oid="gen_22978fe9-64a3-41b7-9c9a-9c78facdfb3e" xtrc="topic:3;19:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+    <title class="- topic/title " outputclass="LO" xtrc="title:4;20:29" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Learning Objective 1</title>
+    <body class="- topic/body " xtrc="body:2;21:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      <section class="- topic/section " xtrc="section:3;22:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <p class="- topic/p " xtrc="p:2;23:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Successful completion of this module prepares trainees to:</p>
+        <p class="- topic/p " xtrc="p:3;24:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the plumbing profession.</p>
+        <ol class="- topic/ol " type="a" xtrc="ol:1;25:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <li class="- topic/li " xtrc="li:1;26:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:4;27:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the history of the plumbing profession.</p>
+          </li>
+          <li class="- topic/li " xtrc="li:2;29:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:5;30:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the plumbing profession today.</p>
+          </li>
+        </ol>
+      </section>
+    </body>
+  </topic>
+  <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_5" oid="gen_e867e901-f731-45d7-9dd1-5aa215ffdb9a" xtrc="topic:4;36:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+    <title class="- topic/title " outputclass="LO" xtrc="title:5;37:29" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Learning Objective 2</title>
+    <body class="- topic/body " xtrc="body:3;38:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      <section class="- topic/section " xtrc="section:4;39:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <p class="- topic/p " xtrc="p:6;40:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Successful completion of this module prepares trainees to:</p>
+        <p class="- topic/p " xtrc="p:7;41:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Identify the responsibilities of a person working in the plumbing industry.</p>
+        <ol class="- topic/ol " type="a" xtrc="ol:2;42:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <li class="- topic/li " xtrc="li:3;43:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:8;44:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">State the personal characteristics of a professional.</p>
+          </li>
+          <li class="- topic/li " xtrc="li:4;46:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:9;47:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Identify career opportunities in plumbing.</p>
+          </li>
+        </ol>
+      </section>
+    </body>
+  </topic>
+
+  <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_6" oid="NcsPerformanceTasks" xtrc="topic:5;54:35" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+    <title class="- topic/title " outputclass="PT" xtrc="title:6;55:29" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Performance Tasks</title>
+    <body class="- topic/body " xtrc="body:4;56:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      <section class="- topic/section " xtrc="section:5;57:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <ol class="- topic/ol " xtrc="ol:3;58:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <li class="- topic/li " xtrc="li:5;59:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:10;60:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">This is a knowledge-based module; there are no Performance Tasks.</p>
+          </li>
+        </ol>
+        <p class="- topic/p " id="unique_6_Connect_42_LpTeachingTime" xtrc="p:11;63:32" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Recommended Teaching Time: 5 hours</p>
+      </section>
+      <section class="- topic/section " xtrc="section:2;22:31" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+      <p class="- topic/p " xtrc="p:4;23:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">This Lesson Plan (LP) is divided into sections that correspond to the sections in the
+        Trainee Guide module. As you plan your class times, review the objectives, content, and
+        lesson plan outline for the section you plan to teach. Allow sufficient class time for
+        demonstrations, laboratories, field trips, and testing. Each class period should also
+        include time for administrative tasks and periodic breaks.</p>
+      <p class="- topic/p " xtrc="p:5;28:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Be sure to gather the required equipment, materials, visual aids, and answer keys. Using
+        your access code, download the PowerPoint<sup class="+ topic/ph hi-d/sup " xtrc="sup:1;29:55" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">®</sup> presentations and Performance Sheets for this
+        module from NCCER’s Instructor Resource Center at <xref class="- topic/xref " format="html" href="www.nccerirc.com" scope="external" xtrc="xref:4;31:42" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml"><?ditaot usertext?>www.nccerirc.com</xref>.</p>
+      <p class="- topic/p " xtrc="p:6;32:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">It is advisable to assign the reading of a module section prior to the classroom
+        instruction. The Section Review and Module Review questions may be assigned as homework. At
+        their discretion, instructors may assign additional homework to meet the teaching
+        objectives.</p>
+      <p class="- topic/p " xtrc="p:7;36:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Performance Testing may be administered at any suitable time in the course of the module
+        training. Tasks are graded pass/fail. Trainee performance and proficiency during practice
+        sessions that meets or exceeds the standards for a task can be accepted as Performance Task
+        completion. Complete the Performance Profile Sheet for each trainee.</p>
+      <p class="- topic/p " xtrc="p:8;40:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">The final class is generally reserved for a brief review and the Module Examination. For
+        information and updates about accessing the Module Examinations, visit
+        <xref class="- topic/xref " format="html" href="www.nccer.org/testing" scope="external" xtrc="xref:5;43:42" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml"><?ditaot usertext?>www.nccer.org/testing</xref>. The passing score for submission into NCCER’s Registry is 70% or
+        above for the Module Exam. Record the testing results for each trainee on the Registration
+        of Training Modules form and submit the form to the Training Program Sponsor.</p>
+    </section>
+      <section class="- topic/section " xtrc="section:3;47:30" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+      <title class="- topic/title " xtrc="title:2;48:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Prerequisites</title>
+      <p class="- topic/p " xtrc="p:9;49:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">None. Knowledge of previous levels is recommended.</p>
+    </section>
+      <section class="- topic/section " xtrc="section:4;51:29" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+      <title class="- topic/title " outputclass="t-wh" xtrc="title:3;52:33" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Safety Considerations</title>
+      <p class="- topic/p " xtrc="p:10;53:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">This module will likely be taught exclusively in the classroom environment. However,
+        instructors may teach or demonstrate portions of it in the shop or in the vicinity of
+        functioning equipment. Electrical and mechanical safety must be emphasized at all times.
+        Trainees should be carefully observed to ensure that they wear the proper PPE, follow safe
+        practices, and give due respect to the hazards of energized and operating systems. Any work
+        performed on functioning equipment must be completed under the direct supervision of the
+        instructor.</p>
+    </section>
+      <section class="- topic/section " xtrc="section:5;61:32" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+      <title class="- topic/title " outputclass="t-wh" xtrc="title:4;62:33" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Classroom Equipment and Materials</title>
+      <ul class="- topic/ul " xtrc="ul:1;63:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+        <li class="- topic/li " xtrc="li:1;64:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:11;65:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Whiteboard and markers</p>
+        </li>
+        <li class="- topic/li " xtrc="li:2;67:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:12;68:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Pencils and paper</p>
+        </li>
+        <li class="- topic/li " xtrc="li:3;70:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:13;71:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">PowerPoint<sup class="+ topic/ph hi-d/sup " xtrc="sup:2;71:29" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">®</sup> Presentations for Module 02101</p>
+        </li>
+        <li class="- topic/li " xtrc="li:4;73:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:14;74:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">A variety of standard marker sizes</p>
+        </li>
+        <li class="- topic/li " xtrc="li:5;76:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:15;77:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Poster board</p>
+        </li>
+        <li class="- topic/li " xtrc="li:6;79:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:16;80:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Flip chart</p>
+        </li>
+        <li class="- topic/li " xtrc="li:7;82:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:17;83:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">LCD projector and screen</p>
+        </li>
+        <li class="- topic/li " xtrc="li:8;85:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:18;86:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Computer with Internet access</p>
+        </li>
+        <li class="- topic/li " xtrc="li:9;88:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:19;89:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Module Review answer key</p>
+        </li>
+        <li class="- topic/li " xtrc="li:10;91:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+          <p class="- topic/p " xtrc="p:20;92:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Module Examinations</p>
+        </li>
+       
+      </ul>
+    </section>
+      <section class="- topic/section " xtrc="section:8;116:36" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+      <title class="- topic/title " outputclass="t-wh" xtrc="title:6;117:33" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Instructional Methods</title>
+      <p class="- topic/p " xtrc="p:25;118:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Instructional methods research has shown that varying instructional methods periodically
+        throughout class sessions helps to engage and hold trainees’ attention. The PowerPoint<sup class="+ topic/ph hi-d/sup " xtrc="sup:4;119:100" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">®</sup>
+        presentation that you received with this lesson plan is keyed to the sections of the Trainee
+        Guide indicated below and has been designed for use with this Lesson Plan. </p>
+    </section>
+      <section class="- topic/section " id="unique_6_Connect_42_LpResources" xtrc="section:11;73:33" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " outputclass="t-wh" xtrc="title:7;74:35" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Additional Resources</title>
+        <p class="- topic/p " sourcetype="bibliomixed" xtrc="p:12;75:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <i class="+ topic/ph hi-d/i " xtrc="i:1;76:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Plumbing a House</i>, 1998. Peter A. Hemp. Newtown, CT: Taunton Press.</p>
+        <p class="- topic/p " sourcetype="bibliomixed" xtrc="p:13;77:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <i class="+ topic/ph hi-d/i " xtrc="i:2;78:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">The National Standard Plumbing Code</i>, Current edition. Falls Church, VA:
+          Plumbing-Heating-Cooling Contractors Association.</p>
+        <p class="- topic/p " sourcetype="bibliomixed" xtrc="p:14;80:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <i class="+ topic/ph hi-d/i " xtrc="i:3;81:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">The National Standard Plumbing Code</i>, Current edition. Falls Church, VA:
+          Plumbing-Heating-Cooling Contractors Association.</p>
+        <p class="- topic/p " sourcetype="bibliomixed" xtrc="p:15;83:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">This module presents thorough resources for task training. The
+          following resource material is suggested for further study.</p>
+        <p class="- topic/p " sourcetype="bibliomixed" xtrc="p:16;85:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <i class="+ topic/ph hi-d/i " xtrc="i:4;86:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Plumbing a House</i>, 1998. Peter A. Hemp. Newtown, CT: Taunton Press.</p>
+        <p class="- topic/p " sourcetype="bibliomixed" xtrc="p:17;87:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <i class="+ topic/ph hi-d/i " xtrc="i:5;88:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">The National Standard Plumbing Code</i>, current edition. Falls Church, VA:
+          Plumbing-Heating-Cooling Contractors Association.</p>
+      </section>
+      <section class="- topic/section " xtrc="section:6;97:32" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+      <p class="- topic/p " xtrc="p:21;98:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">There are a number of online resources available for trainees who would like more
+        information about the module topic. A search for additional information may be assigned as
+        homework to interested trainees.</p>
+      <p class="- topic/p " xtrc="p:22;101:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Instructors should view any videos that may be identified in the lesson plan before using
+        them to ensure their suitability. The videos can provide examples of both proper and
+        improper work processes and behaviors. Be prepared to stop the videos at appropriate times
+        to point out and discuss both proper and improper conduct and techniques.</p>
+      <p class="- topic/p " xtrc="p:23;105:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Instructors are also encouraged to locate additional audiovisual aids available on the
+        Internet, make personal videos, and take still pictures related to the subject matter and
+        add them to the PowerPoint<sup class="+ topic/ph hi-d/sup " xtrc="sup:3;107:40" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">®</sup> presentations throughout the program.</p>
+    </section>
+    </body>
+  </topic>
+
+  <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_7" oid="gen_21ca7dfc-a68a-4162-affc-9c0c5859b6d8" xtrc="topic:6;96:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+    <supertitle class="- topic/title " outputclass="t-mid" xtrc="supertitle:3;97:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section One</supertitle>
+    <title class="- topic/title " outputclass="t-last" xtrc="title:8;98:33" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">The Plumbing Profession</title>
+    <body class="- topic/body " xtrc="body:5;99:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      
+      <section class="- topic/section " xtrc="section:13;101:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:9;102:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Objective</title>
+        <p class="- topic/p " xtrc="p:18;103:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Successful completion of this module prepares trainees to:</p>
+        <p class="- topic/p " xtrc="p:19;104:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the plumbing profession.</p>
+        <ol class="- topic/ol " xtrc="ol:4;105:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <li class="- topic/li " xtrc="li:6;106:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:20;107:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the history of the plumbing profession.</p>
+          </li>
+          <li class="- topic/li " xtrc="li:7;109:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:21;110:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the plumbing profession today.</p>
+          </li>
+        </ol>
+      </section>
+      
+      <section class="- topic/section " xtrc="section:14;115:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:10;116:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Kickoff Activities</title>
+        <p class="- topic/p " xtrc="p:22;117:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Have your trainees get into groups of three for three to four minutes and have each one
+          discuss their interest in plumbing, prior experience, and knowledge they already have.
+          Once the discussion is over, give them your background in plumbing and why you're
+          teaching.</p>
+      </section>
+      <section class="- topic/section " xtrc="section:15;122:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:11;123:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Sections 1.0.0–1.1.3</title>
+        <p class="- topic/p " xtrc="p:23;124:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe how plumbing evolved from ancient times to modern times. </p>
+      </section>
+      <section class="- topic/section " xtrc="section:16;126:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:12;127:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Teaching Tip</title>
+        <p class="- topic/p " xtrc="p:24;128:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Select a few of the trade terms for Section 1.0.0 and write them on the board. Ask
+          individual trainees to give broad definitions of the terms. Ask if there are any terms
+          they would like to have further explained.</p>
+      </section>
+      <section class="- topic/section " xtrc="section:17;132:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:13;133:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Sections 1.2.0–1.2.3</title>
+        <p class="- topic/p " xtrc="p:25;134:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the responsibilities of plumbers and discuss the other crafts that require
+          similar skills, such as pipefitters and sprinkler fitters. Describe the types of work
+          performed by plumbers.</p>
+      </section>
+      <section class="- topic/section " xtrc="section:18;138:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:14;139:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section 1.2.4–1.2.5</title>
+        <p class="- topic/p " xtrc="p:26;140:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">There are three phases of plumbing: underground rough-in, aboveground rough-in, and
+          finish. Discuss the three phases and the importance of each phase.</p>
+      </section>
+      <section class="- topic/section " xtrc="section:19;143:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:15;144:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Teaching Tip</title>
+        <p class="- topic/p " xtrc="p:27;145:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Break students into three groups and assign each group one of the phases of a plumbing
+          project. Have them determine what codes they would need to be prepared to know for their
+          particular phase and how it impacts a job.</p>
+      </section>
+      <section class="- topic/section " xtrc="section:20;149:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:16;150:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Wrap Up Activities</title>
+        <p class="- topic/p " xtrc="p:28;151:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Exit Slip: have your students fill-out a notecard with one thing they learned and one
+          question they have about plumbing after teaching section one.</p>
+      </section>
+    </body>
+  </topic>
+  <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_8" oid="gen_17dad279-319b-4967-a9fb-c0aad845f8bb" xtrc="topic:7;156:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+    <supertitle class="- topic/title " outputclass="t-mid" xtrc="supertitle:4;157:37" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section Two</supertitle>
+    <title class="- topic/title " outputclass="t-last" xtrc="title:17;158:33" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Responsibilities of a Plumbing Professional</title>
+    <body class="- topic/body " xtrc="body:6;159:11" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      
+      <section class="- topic/section " xtrc="section:21;161:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:18;162:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Objective</title>
+        <p class="- topic/p " xtrc="p:29;163:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Successful completion of this module prepares trainees to:</p>
+        <p class="- topic/p " xtrc="p:30;164:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Identify the responsibilities of a person working in the plumbing industry.</p>
+        <ol class="- topic/ol " xtrc="ol:5;165:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <li class="- topic/li " xtrc="li:8;166:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:31;167:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">State the personal characteristics of a professional.</p>
+          </li>
+          <li class="- topic/li " xtrc="li:9;169:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:32;170:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Identify career opportunities in plumbing.</p>
+          </li>
+        </ol>
+      </section>
+      <section class="- topic/section " xtrc="section:8;116:36" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">
+      <title class="- topic/title " outputclass="t-wh" xtrc="title:6;117:33" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Instructional Methods</title>
+      <p class="- topic/p " xtrc="p:25;118:10" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">Instructional methods research has shown that varying instructional methods periodically
+        throughout class sessions helps to engage and hold trainees’ attention. The PowerPoint<sup class="+ topic/ph hi-d/sup " xtrc="sup:4;119:100" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/warehouse/topics/english/lp_warehouse.xml">®</sup>
+        presentation that you received with this lesson plan is keyed to the sections of the Trainee
+        Guide indicated below and has been designed for use with this Lesson Plan. </p>
+    </section>
+      <section class="- topic/section " xtrc="section:23;176:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:19;177:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Sections 2.0.0–2.1.9</title>
+        <p class="- topic/p " xtrc="p:33;178:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the personal characteristics needed for someone to become successful.</p>
+      </section>
+      <section class="- topic/section " xtrc="section:24;180:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:20;181:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Teaching Tip</title>
+        <p class="- topic/p " xtrc="p:34;182:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Have trainees break into groups based on what they identify as their <i class="+ topic/ph hi-d/i " xtrc="i:6;182:84" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">weakest</i>
+          quality out of the eight qualities a plumber must exhibit. Have them discuss ways in which
+          they can improve this quality to become a well-rounded plumber.</p>
+      </section>
+      <section class="- topic/section " xtrc="section:25;186:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:21;187:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Sections 2.2.0–2.2.6</title>
+        <p class="- topic/p " xtrc="p:35;188:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Describe the range of opportunities available to someone who becomes a journey-level
+          plumber. Explain the roles and responsibilities of different job positions in the
+          industry. Explain how an apprentice program is structured and discuss the responsibilities
+          of the apprentice and the sponsor</p>
+      </section>
+      <section class="- topic/section " xtrc="section:26;193:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <title class="- topic/title " xtrc="title:22;194:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Wrap Up Activities</title>
+        <p class="- topic/p " xtrc="p:36;195:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Based on the various career possibilities, ask individual trainees which one they think
+          they might pursue in the long term and why they chose it. </p>
+      </section>
+    </body>
+  </topic>
+
+
+
+  <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_9" oid="gen_cc84fcac-0897-4c87-84ab-7219b95d11e4" xtrc="topic:6;87:35" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">
+      <title class="- topic/title " xtrc="title:17;88:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Review and Testing</title>
+      <body class="- topic/body " xtrc="body:4;89:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">
+         <section class="- topic/section " xtrc="section:14;90:19" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">
+            <title class="- topic/title " xtrc="title:18;91:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Module Review</title>
+            <p class="- topic/p " xtrc="p:19;92:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Have the trainees complete the Review Questions and Trade Terms Quiz at the end of the module. Alternatively, if this was assigned as homework, have them retrieve their answers for both assignments. Go over the answers to both assignments prior to administering the Module Examination. Ask the trainees if they need clarification of any particular knowledge areas.</p>
+         </section>
+         <section class="- topic/section " xtrc="section:15;94:19" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">
+            <title class="- topic/title " xtrc="title:19;95:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Examination</title>
+            <p class="- topic/p " xtrc="p:20;96:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Administer the Module Examination. Allow one to two minutes per test item for the written exam. Remind the trainees that they must answer at least 70 percent of the questions correctly to pass the Module Examination.</p>
+         </section>
+         <section class="- topic/section " xtrc="section:16;98:19" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">
+            <title class="- topic/title " xtrc="title:20;99:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Wrap Up Activities</title>
+            <p class="- topic/p " xtrc="p:21;100:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Ask the trainees if there were any trouble areas on the exam. Ask each trainee about their favorite and least favorite parts of the module. As an alternative or if time allows, briefly introduce the next topic in your planned teaching sequence.</p>
+         </section>
+         <section class="- topic/section " xtrc="section:17;102:19" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">
+            <title class="- topic/title " xtrc="title:21;103:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Instructor</title>
+            <p class="- topic/p " xtrc="p:22;104:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml">Record the testing results as required for paper-based exams. The results for exams administered through the Testing Management System are recorded automatically in the Registry System.</p>
+         </section>
+      </body>
+   </topic>
+  <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_10" oid="NcsAnswerKey" xtrc="topic:9;204:28" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+    <title class="- topic/title " xtrc="title:23;205:12" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Answer Keys</title>
+    <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_11" oid="sectionReview" xtrc="topic:10;206:31" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      <title class="- topic/title " xtrc="title:24;207:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section Review Answer Key</title>
+      <body class="- topic/body " xtrc="body:7;208:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <section class="- topic/section " xtrc="section:27;209:18" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <title class="- topic/title " xtrc="title:25;210:18" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section 1.0.0</title>
+          <table class="- topic/table " colsep="0" frame="none" id="unique_11_Connect_42_sectionReview001" rowsep="0" xtrc="table:1;211:75" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <tgroup align="left" class="- topic/tgroup " cols="3" xtrc="tgroup:1;212:43" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+              <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;213:63" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"/>
+              <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;214:63" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"/>
+              <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;215:63" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"/>
+              <thead class="- topic/thead " xtrc="thead:1;216:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <row class="- topic/row " xtrc="row:1;217:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                  <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:1;218:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Answer</entry>
+                  <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:2;219:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section Reference</entry>
+                  <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:3;220:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Objective</entry>
+                </row>
+              </thead>
+              <tbody class="- topic/tbody " xtrc="tbody:1;223:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <row class="- topic/row " xtrc="row:2;224:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                  <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:4;225:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.  c</entry>
+                  <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:5;226:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.1.1</entry>
+                  <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:6;227:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1a</entry>
+                </row>
+                <row class="- topic/row " xtrc="row:3;229:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                  <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:7;230:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.  a</entry>
+                  <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:8;231:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.2.3</entry>
+                  <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:9;232:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1b</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+        <section class="- topic/section " xtrc="section:28;238:18" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <title class="- topic/title " xtrc="title:26;239:18" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section 2.0.0</title>
+          <table class="- topic/table " colsep="0" frame="none" id="unique_11_Connect_42_sectionReview002" rowsep="0" xtrc="table:2;240:75" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <tgroup align="left" class="- topic/tgroup " cols="3" xtrc="tgroup:2;241:43" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+              <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:4;242:63" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"/>
+              <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:5;243:63" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"/>
+              <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:6;244:63" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"/>
+              <thead class="- topic/thead " xtrc="thead:2;245:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <row class="- topic/row " xtrc="row:4;246:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                  <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:10;247:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Answer</entry>
+                  <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:11;248:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section Reference</entry>
+                  <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1" xtrc="entry:12;249:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Objective</entry>
+                </row>
+              </thead>
+              <tbody class="- topic/tbody " xtrc="tbody:2;252:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <row class="- topic/row " xtrc="row:5;253:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                  <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:13;254:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.  d</entry>
+                  <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:14;255:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.1.9</entry>
+                  <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2" xtrc="entry:15;256:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2a</entry>
+                </row>
+                <row class="- topic/row " xtrc="row:6;258:22" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                  <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:16;259:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.  d</entry>
+                  <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:17;260:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.2.1</entry>
+                  <entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3" xtrc="entry:18;261:26" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2b</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+        </section>
+      </body>
+    </topic>
+    <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_12" oid="moduleReview" xtrc="topic:11;269:30" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      <title class="- topic/title " xtrc="title:27;270:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Module Review Answer Key</title>
+      <body class="- topic/body " xtrc="body:8;271:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <table class="- topic/table " colsep="0" frame="none" id="unique_12_Connect_42_moduleReview001" rowsep="0" xtrc="table:3;272:72" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <tgroup align="left" class="- topic/tgroup " cols="2" xtrc="tgroup:3;273:41" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:7;274:61" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"/>
+            <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:8;275:61" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"/>
+            <thead class="- topic/thead " xtrc="thead:3;276:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+              <row class="- topic/row " xtrc="row:7;277:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1" xtrc="entry:19;278:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Answer</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1" xtrc="entry:20;279:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Section Reference</entry>
+              </row>
+            </thead>
+            <tbody class="- topic/tbody " xtrc="tbody:3;282:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+              <row class="- topic/row " xtrc="row:8;283:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2" xtrc="entry:21;284:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.  b</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2" xtrc="entry:22;285:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.1.1</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:9;287:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3" xtrc="entry:23;288:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.  d</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3" xtrc="entry:24;289:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.2.0</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:10;291:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4" xtrc="entry:25;292:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">3.  c</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4" xtrc="entry:26;293:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.2.0</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:11;295:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5" xtrc="entry:27;296:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">4.  b</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5" xtrc="entry:28;297:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.2.5</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:12;299:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6" xtrc="entry:29;300:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">5.  a</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6" xtrc="entry:30;301:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.1.3</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:13;303:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="7" xtrc="entry:31;304:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">6.  d</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="7" xtrc="entry:32;305:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.1.5</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:14;307:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="8" xtrc="entry:33;308:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">7.  c</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="8" xtrc="entry:34;309:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.2.0</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:15;311:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="9" xtrc="entry:35;312:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">8.  c</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="9" xtrc="entry:36;313:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.2.0</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:16;315:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="10" xtrc="entry:37;316:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">9.  d</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="10" xtrc="entry:38;317:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.2.1</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:17;319:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="11" xtrc="entry:39;320:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">10.  c</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="11" xtrc="entry:40;321:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.2.1</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:18;323:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="12" xtrc="entry:41;324:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">11.  a</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="12" xtrc="entry:42;325:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.2.0</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:19;327:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="13" xtrc="entry:43;328:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">12.  d</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="13" xtrc="entry:44;329:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.2.3</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:20;331:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="14" xtrc="entry:45;332:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">13.  c</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="14" xtrc="entry:46;333:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">1.2.5</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:21;335:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="15" xtrc="entry:47;336:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">14.  b</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="15" xtrc="entry:48;337:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.2.1</entry>
+              </row>
+              <row class="- topic/row " xtrc="row:22;339:20" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+                <entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="16" xtrc="entry:49;340:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">15.  a</entry>
+                <entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="16" xtrc="entry:50;341:24" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">2.2.0</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </body>
+    </topic>
+    <topic DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" id="unique_13" oid="tradeTermsQuiz" xtrc="topic:12;348:32" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+      <title class="- topic/title " xtrc="title:28;349:14" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Trade Terms Quiz Answer Key</title>
+      <body class="- topic/body " xtrc="body:9;350:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+        <ol class="- topic/ol " xtrc="ol:6;351:13" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+          <li class="- topic/li " xtrc="li:10;352:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:37;353:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Underground rough-in</p>
+          </li>
+          <li class="- topic/li " xtrc="li:11;355:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:38;356:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Filtration</p>
+          </li>
+          <li class="- topic/li " xtrc="li:12;358:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:39;359:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Polyvinyl chloride (PVC)</p>
+          </li>
+          <li class="- topic/li " xtrc="li:13;361:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:40;362:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Plumber</p>
+          </li>
+          <li class="- topic/li " xtrc="li:14;364:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:41;365:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Drain, waste, and vent (DWV)</p>
+          </li>
+          <li class="- topic/li " xtrc="li:15;367:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:42;368:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Chlorine</p>
+          </li>
+          <li class="- topic/li " xtrc="li:16;370:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:43;371:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Softening</p>
+          </li>
+          <li class="- topic/li " xtrc="li:17;373:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:44;374:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">On-the-job training (OJT)</p>
+          </li>
+          <li class="- topic/li " xtrc="li:18;376:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:45;377:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Potable</p>
+          </li>
+          <li class="- topic/li " xtrc="li:19;379:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:46;380:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Model codes</p>
+          </li>
+          <li class="- topic/li " xtrc="li:20;382:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:47;383:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Finish </p>
+          </li>
+          <li class="- topic/li " xtrc="li:21;385:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:48;386:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Cross-connection</p>
+          </li>
+          <li class="- topic/li " xtrc="li:22;388:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:49;389:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Disinfection</p>
+          </li>
+          <li class="- topic/li " xtrc="li:23;391:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:50;392:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Aqueduct</p>
+          </li>
+          <li class="- topic/li " xtrc="li:24;394:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:51;395:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Plumbarius</p>
+          </li>
+          <li class="- topic/li " xtrc="li:25;397:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:52;398:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Ethics</p>
+          </li>
+          <li class="- topic/li " xtrc="li:26;400:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:53;401:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Backflow</p>
+          </li>
+          <li class="- topic/li " xtrc="li:27;403:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:54;404:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Thermoset</p>
+          </li>
+          <li class="- topic/li " xtrc="li:28;406:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:55;407:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Aboveground rough-in</p>
+          </li>
+          <li class="- topic/li " xtrc="li:29;409:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:56;410:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Thermoplastic</p>
+          </li>
+          <li class="- topic/li " xtrc="li:30;412:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:57;413:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Code</p>
+          </li>
+          <li class="- topic/li " xtrc="li:31;415:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:58;416:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Fixtures</p>
+          </li>
+          <li class="- topic/li " xtrc="li:32;418:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:59;419:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Plumbum</p>
+          </li>
+          <li class="- topic/li " xtrc="li:33;421:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:60;422:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Backflow preventer</p>
+          </li>
+          <li class="- topic/li " xtrc="li:34;424:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:61;425:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Plumbing</p>
+          </li>
+          <li class="- topic/li " xtrc="li:35;427:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:62;428:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Journey plumber</p>
+          </li>
+          <li class="- topic/li " xtrc="li:36;430:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:63;431:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Appurtenances</p>
+          </li>
+          <li class="- topic/li " xtrc="li:37;433:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:64;434:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Geothermal</p>
+          </li>
+          <li class="- topic/li " xtrc="li:38;436:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:65;437:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Solar hot water</p>
+          </li>
+          <li class="- topic/li " xtrc="li:39;439:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:66;440:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Aquifer depletion</p>
+          </li>
+          <li class="- topic/li " xtrc="li:40;442:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:67;443:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml"> United States Green Building Council (USGBC); Leadership in Energy and Environmental
+              Design (LEED); Water efficiency</p>
+          </li>
+          <li class="- topic/li " xtrc="li:41;446:15" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">
+            <p class="- topic/p " xtrc="p:68;447:16" xtrf="file:/Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101.xml">Rainwater harvesting; Graywater; Bioswale; Reclaimed water</p>
+          </li>
+        </ol>
+      </body>
+    </topic>
+  </topic>
+</topic><opentopic-index:index.groups/></map>

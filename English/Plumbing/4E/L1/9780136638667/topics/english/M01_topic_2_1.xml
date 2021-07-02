@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><learningContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_2_1" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningContent.xsd" xml:lang="en">
+   <title>1.1.0 History of Plumbing</title>
+   <learningContentbody>
+      <lcInstruction>
+         <p>Plumbing is the result of thousands of years of improvements, inventions, and innovations. <xref href="#M01_topic_2_1/M01_02101-18_TG-figure1">Figure 1</xref> illustrates how plumbing systems have evolved since ancient times.</p>
+      </lcInstruction>
+      <fig id="M01_02101-18_TG-figure1">
+         <title>Figure 1 The evolution of plumbing.</title>
+         <image keyref="02101-18_F01">
+            <alt>The evolution of plumbing using a timeline starting at 2900 BC up to Medieval “Privy To OutHouse of 1800s”.</alt>
+         </image>
+      </fig>
+      <section>
+         <p>Plumbing systems, including <term keyref="M01_trade_definitions/drain_waste_and_vent_dwv">drain, waste, and vent (DWV)</term> systems, have been essential to the protection of public health and safety. These systems have evolved over time to the point where, today, many common water-borne diseases are rare in the United States.</p>
+      </section>
+   </learningContentbody>
+</learningContent>

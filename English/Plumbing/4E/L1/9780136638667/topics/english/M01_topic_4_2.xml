@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_4_2"
+   xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningAssessment.xsd" xml:lang="en">
+   <supertitle>Trade Terms Quiz</supertitle>
+   <interactions>
+
+      <section>
+         <p><i>Fill in the blank with the correct term that you learned from your study of this
+               module</i>.</p>
+      </section>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>During the <correct>Underground rough-in</correct> phase of a
+                  plumbing project, plumbers locate all supply and waste connections from the
+                  building systems to public utilities.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent> <correct>Filtration</correct> is the process of cleansing water to
+                  remove chemicals and particles.</questionContent>
+            </question>
+         </fillin>
+
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>You can use <correct>Polyvinyl chloride (PVC)</correct>
+                  thermoplastic pipe as tubing for cold water systems.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Someone who installs or repairs plumbing systems and fixtures is
+                  called a(n) <correct>Plumber</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Water supply systems provide fresh water; <correct>Drain, waste, and
+                     vent (DWV)</correct> systems remove wastewater.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Always wear appropriate personal protective equipment when
+                  disinfecting water with <correct>Chlorine</correct>, a heavy, greenish-yellow
+                  gas.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>You are <correct>Softening</correct> water when you remove magnesium
+                  and sodium salts from it.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Office of Apprenticeship requires apprentices to have 2,000 hours of
+                     <correct>On-the-job training (OJT)</correct> per year.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Water that is safe to drink is referred to as
+                     <correct>Potable</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Construction ordinances written by national construction
+                  organizations and based on suggested national plumbing standards are called
+                     <correct>Model codes</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>During the <correct>Finish </correct> phase of a plumbing project,
+                  plumbers install fixtures, appliances, water purification systems, water heaters,
+                  and controls.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>When a potable water system and a nonpotable water system are
+                  arranged so that an accidental pressure differential between the two systems would
+                  cause contaminated water to flow into the freshwater system, it is called a(n)
+                     <correct>Cross-connection</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Plumbers destroy harmful organisms in potable water through
+                     <correct>Disinfection</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>During the Roman Empire, a(n) <correct>Aqueduct</correct> were used
+                  to carry water from rivers and lakes to cities.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>In ancient Rome, a person who worked with lead was called a(n)
+                     <correct>Plumbarius</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>As a construction professional, you must ensure that your conduct is
+                  in accordance with your profession’s principles and values, which are called
+                     <correct>Ethics</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>One of the most important safety concerns for plumbers is
+                     <correct>Backflow</correct>, which is the flow of contaminated water into the
+                  freshwater system through a cross-connection.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Plastic that becomes substantially infusible and insoluble when
+                  treated by heat or chemicals is called
+                  <correct>Thermoset</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>During the <correct>Aboveground rough-in</correct> phase of a
+                  plumbing project, plumbers cut holes in walls, ceilings, and floors to attached or
+                  hang pipe runs.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Plastic that is soft and pliable when heated and hard and rigid when
+                  cooled is called <correct>Thermoplastic</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>A(n) <correct>Code</correct> is a legally binding requirement
+                  published by state and local governments to establish minimum standards for
+                  various types of construction.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Sinks, shower stalls, and toilets are common examples of
+                     <correct>Fixtures</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>The Latin word for lead is
+                  <correct>Plumbum</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Plumbers install a <correct>Backflow preventer</correct> to keep
+                  nonpotable water from contaminating a potable supply system.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>If you are installing piping for a system that is designed
+                  exclusively for environmental control, you are not engaged in
+                     <correct>Plumbing</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>To become a(n) <correct>Journey plumber</correct>, you must first
+                  complete an apprenticeship training program.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Plumbing <correct>Appurtenances</correct> are types of apparatus
+                  used in such trades as installing drainage systems.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Heat that comes from below the surface of the earth is called
+                     <correct>Geothermal</correct>.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>A system that directly or indirectly uses the heat of the sun to
+                  heat water is called a(n) <correct>Solar hot water</correct>
+                  system.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>The process of <correct>Aquifer depletion</correct> is the
+                  consumption of fresh water from underground sources faster than the water can be
+                  naturally replenished.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>The non-profit construction trade organization <correct> United
+                     States Green Building Council (USGBC)</correct> developed a system for
+                  certifying that buildings have been designed and constructed to green standards
+                  called <correct>Leadership in Energy and Environmental Design (LEED)</correct>
+                  that includes between 10 and 14 points that are categorized as <correct>Water
+                     efficiency</correct>, which is the managed use of drinkable water to reduce
+                  waste.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <interaction>
+         <fillin>
+            <question>
+               <questionContent>Efforts to preserve natural resources include a number of water
+                  preservation techniques including <correct>Rainwater harvesting</correct> to
+                  collect and store rainwater, the reuse of <correct>Graywater</correct> from
+                  laundries and bath/showers, artificial depressions in the ground that filter
+                  pollutants from stormwater called a <correct>Bioswale</correct>, and the use of
+                  treated wastewater called <correct>Reclaimed water</correct> in flushing fixtures
+                  and other non-potable systems.</questionContent>
+            </question>
+         </fillin>
+      </interaction>
+      <section sourcetype="keywordset">
+         <title>Trade Terms</title>
+         <p>Aboveground rough-in</p>
+         <p>Appurtenances</p>
+         <p>Aqueduct</p>
+         <p>Aquifer depletion</p>
+         <p>Backflow</p>
+         <p>Backflow preventer</p>
+         <p>Bioswale</p>
+         <p>Chlorine</p>
+         <p>Code</p>
+         <p>Cross-connection</p>
+         <p>Disinfection</p>
+         <p>Drain, waste, and vent (DWV)</p>
+         <p>Ethics</p>
+         <p>Filtration</p>
+         <p>Finish</p>
+         <p>Fixture</p>
+         <p>Geothermal</p>
+         <p>Graywater</p>
+         <p>Journey plumber</p>
+         <p>Leadership in Energy and Environmental Design (LEED)</p>
+         <p>Model code</p>
+         <p>On-the-job learning (OJL)</p>
+         <p>Plumbarius</p>
+         <p>Plumber</p>
+         <p>Plumbing</p>
+         <p>Plumbum</p>
+         <p>Polyvinyl chloride (PVC)</p>
+         <p>Potable</p>
+         <p>Rainwater harvesting</p>
+         <p>Reclaimed water</p>
+         <p>Solar hot water</p>
+         <p>Softening</p>
+         <p>Thermoplastic</p>
+         <p>Thermoset</p>
+         <p>Underground rough-in</p>
+         <p>United States Green Building Council (USGBC)</p>
+         <p>Water efficiency</p>
+      </section>
+   </interactions>
+</assessment>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_4_1"
+            xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningAssessment.xsd"
+            xml:lang="en"
+            sourcetype="practice">
+   <supertitle>Review Questions</supertitle>
+   <interactions>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>The modern word plumber is derived from the Latin word for _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>the water channels that supplied Rome</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>a person who works with lead</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>doctors who treated lead poisoning</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>a person who repaired bathhouses</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>1.1.1</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>LEED applies to all areas of the plumbing profession, <i>except </i>_____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>construction</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>design</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>maintenance</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>renovation</answer>
+                  <correct/>
+               </answerOption>
+            </options>
+            <lcSectionRef>1.2.0</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Water that comes from laundry and bathtubs and reused is known as
+                  _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>blackwater</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>stormwater</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>graywater</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>potable water</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>1.2.0</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Suggested national plumbing standards are called _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>ordinances</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>model codes</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>regulations</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>uniform codes</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>1.2.5</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>You are offered a job by another contractor before you have fulfilled your current obligations. The professional response is to _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>ask the contractor to wait until you have met your obligations</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>notify your current employer of your intention to leave immediately</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>ask your current employer to let you divide your time between both projects</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>determine if your current employer is willing to negotiate better terms</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.1.3</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Your supervisor points out that you forgot to complete a step in the assembly of a drain in a DWV system. One of the apprentices that you are supervising was the person installing the drain. The responsible action is to _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>explain that one of the apprentices was responsible</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>ask the apprentice to explain to your supervisor</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>explain to your supervisor why the apprentice did the work that way</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>take responsibility for work done under your supervision</answer>
+                  <correct/>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.1.5</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>People who develop, design, manufacture, and test mechanical devices are called _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>contractors or owners</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>inspectors</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>mechanical engineers</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>master estimators</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.2.0</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Project managers are responsible for _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>assessing the materials and labor needed on projects</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>ensuring that projects are in compliance with safety regulations</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>controlling the scope and direction of a plumbing business</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>instructing all new apprentices on a job site</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.2.0</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>The minimum standards for training programs in the United States are set by _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>NCCER</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>NEMA</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>OSHA</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>Office of Apprenticeship</answer>
+                  <correct/>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.2.1</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Participants in an NCCER training program receive all of the following, <i>except</i> _____.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>training transcripts for your employer</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>a listing in the National Registry</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>certification as a master plumber</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>certificates for each completed training level</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.2.1</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>The non-profit _____ developed a system in 2000 that will certify a
+                  building as “green,” meaning it is energy efficient.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>United States Green Building Council</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>United States Energy Conservation Association</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>United States Green Construction Council</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>United States Energy and Environmental Design Association</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>1.2.0</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>Which of the following does NOT cause backflow?</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>Failure of a pump</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>Injection of air into the system</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>Cuts in the water main</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>Insufficient levels of water</answer>
+                  <correct/>
+               </answerOption>
+            </options>
+            <lcSectionRef>1.2.3</lcSectionRef>
+         </single>
+      </interaction>
+ 
+      <interaction>
+         <single>
+            <question>
+               <questionContent>A student must complete ____ hours of OJL per year, according to the Office of Apprenticeship.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>200</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>2000</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>100</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>1000</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.2.1</lcSectionRef>
+         </single>
+      </interaction>
+      <interaction>
+         <single>
+            <question>
+               <questionContent>_____ is the highest level of skill a craftsman can become in their craft profession.</questionContent>
+            </question>
+            <options>
+               <answerOption>
+                  <answer>Master craftsman</answer>
+                  <correct/>
+               </answerOption>
+               <answerOption>
+                  <answer>Elite craftsman</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>Certified pro craftsman</answer>
+               </answerOption>
+               <answerOption>
+                  <answer>Site foreman</answer>
+               </answerOption>
+            </options>
+            <lcSectionRef>2.2.0</lcSectionRef>
+         </single>
+      </interaction>
+   </interactions>
+</assessment>

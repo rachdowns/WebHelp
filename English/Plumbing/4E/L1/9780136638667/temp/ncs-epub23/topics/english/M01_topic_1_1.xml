@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/ncs-epub23/topics/english?><?workdir-uri file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/ncs-epub23/topics/english/?><?path2project ../../../../?><?path2project-uri ../../../../?><?path2rootmap-uri ../../maps/english/?><learningContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="M01_topic_1_1" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningContent.xsd" xml:lang="en" DITAArchVersion="1.2" class="- topic/topic learningBase/learningBase learningContent/learningContent " domains="(topic hi-d)           (topic indexing-d)          (topic ut-d)         (topic learningmeta-d)          (topic learningInteractionBase-d learning-d)          (topic learningBase+learningInteractionBase-d)         (topic learningBase+learningInteractionBase-d learningAssessment)         (topic learningBase+learningInteractionBase-d learningContent)           (topic learningBase+learningInteractionBase-d learningSummary)          (topic concept)          (topic reference)         (topic task)" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="learningContent:1;1:223">
+   <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="title:1;2:11">Front</title>
+   <prolog class="- topic/prolog " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="prolog:1;3:12">
+      <data name="role" value="fm" class="- topic/data " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="data:1;4:37"/>
+   </prolog>
+   <learningContentbody class="- topic/body learningBase/learningBasebody learningContent/learningContentbody " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="learningContentbody:1;6:25">
+      <fig sourcetype="informalfigure" class="- topic/fig " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="fig:1;7:40">
+         <data name="role" value="openingart" class="- topic/data " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="data:2;8:48"/>
+         <data name="float" value="0" class="- topic/data " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="data:3;9:40"/>
+         <image keyref="02101-18_MO" class="- topic/image " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="image:1;10:39" href="../../graphics/web/02101-18_MO.jpg" format="pdf">../../graphics/web/02101-18_MO.jpg</image>
+      </fig>
+      <section class="- topic/section " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="section:1;12:16">
+         <title sourcetype="introduction" class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="title:2;13:43">Overview</title>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:1;14:13">Plumbers protect the health, safety, and comfort of people. Training and critical-thinking skills are essential to being a good plumber. A professional work ethic and good safety habits go a long way toward adding to the success of a plumber.</p>
+      </section>
+      <section sourcetype="source" class="- topic/section " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="section:2;16:36">
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:2;17:13">Trainees with successful module completions may be eligible for credentialing through NCCER’s National Registry. To learn more, go to <xref href="http://www.nccer.org" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="xref:1;17:212"><?ditaot usertext?>www.nccer.org</xref> or contact us at 1.888.622.3720. Our website has information on the latest product releases and training, our <i class="+ topic/ph hi-d/i " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="i:1;17:346">Breaking Ground</i> digital newsroom, and Pearson’s product catalog.</p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:3;18:13">Your feedback is welcome. You may email your comments to <xref href="mailto:curriculum@nccer.org" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="xref:2;18:142"><?ditaot usertext?>curriculum@nccer.org</xref>, send general comments and inquiries to <xref href="mailto:info@nccer.org" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="xref:3;18:276"><?ditaot usertext?>info@nccer.org</xref>, or fill in the User Update form at the back of this module.</p>
+         <p sourcetype="copyright" class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:4;19:36">
+            <b class="+ topic/ph hi-d/b " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="b:1;20:16">Copyright © 2019 by NCCER, Alachua, FL 32615, and published by Pearson Education, Inc., New York, NY 10013. All rights reserved</b>. Printed in the United States of America. This publication is protected by Copyright, and permission should be obtained from NCCER prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means, electronic, mechanical, photocopying, recording, or likewise. To obtain permission(s) to use material from this work, please submit a written request to NCCER Product Development, 13614 Progress Blvd., Alachua, FL 32615.</p>
+      </section>
+      <lcObjectives class="- topic/section  learningBase/lcObjectives " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="lcObjectives:1;22:21">
+         <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="title:3;23:17">Objectives</title>
+         <lcObjectivesStem class="- topic/ph     learningBase/lcObjectivesStem " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="lcObjectivesStem:1;24:28">Successful completion of this module prepares trainees to:</lcObjectivesStem>
+         <lcObjectivesGroup class="- topic/ol  learningBase/lcObjectivesGroup " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="lcObjectivesGroup:1;25:29">
+            <lcObjective props="1." class="- topic/li     learningBase/lcObjective " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="lcObjective:1;26:37">
+               <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:5;27:19">Describe the plumbing profession.</p>
+               <ol class="- topic/ol " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="ol:1;28:20">
+                  <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="li:1;29:23">
+                     <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:6;30:25">Describe the history of the plumbing profession.</p>
+                  </li>
+                  <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="li:2;32:23">
+                     <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:7;33:25">Describe the plumbing profession today.</p>
+                  </li>
+               </ol>
+            </lcObjective>
+            <lcObjective props="2." class="- topic/li     learningBase/lcObjective " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="lcObjective:2;37:37">
+               <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:8;38:19">Identify the responsibilities of a person working in the plumbing industry.</p>
+               <ol class="- topic/ol " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="ol:2;39:20">
+                  <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="li:3;40:23">
+                     <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:9;41:25">State the personal characteristics of a professional.</p>
+                  </li>
+                  <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="li:4;43:23">
+                     <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:10;44:25">Identify career opportunities in plumbing.</p>
+                  </li>
+               </ol>
+            </lcObjective>
+         </lcObjectivesGroup>
+      </lcObjectives>
+      <lcObjectives sourcetype="practice" class="- topic/section  learningBase/lcObjectives " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="lcObjectives:2;50:43">
+         <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="title:4;51:17">Performance Tasks</title>
+         <lcObjectivesGroup class="- topic/ol  learningBase/lcObjectivesGroup " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="lcObjectivesGroup:2;52:29">
+            <lcObjective class="- topic/li     learningBase/lcObjective " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="lcObjective:3;53:26">
+               <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:11;54:19">This is a knowledge-based module; there are no Performance Tasks.</p>
+            </lcObjective>
+         </lcObjectivesGroup>
+      </lcObjectives>
+      <section sourcetype="keywordset" class="- topic/section " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="section:3;58:40">
+         <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="title:5;59:17">Trade Terms</title>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:12;60:13">
+            <term keyref="M01_trade_definitions/aboveground_rough-in" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:1;61:71" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/aboveground_rough-in" type="dlentry"><?ditaot usertext?>Aboveground rough-in</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:13;63:13">
+            <term keyref="M01_trade_definitions/appurtenances" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:2;64:64" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/appurtenances" type="dlentry"><?ditaot usertext?>Appurtenances</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:14;66:13">
+            <term keyref="M01_trade_definitions/aqueduct" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:3;67:59" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/aqueduct" type="dlentry"><?ditaot usertext?>Aqueduct</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:15;69:13">
+            <term keyref="M01_trade_definitions/aquifer_depletion" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:4;70:68" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/aquifer_depletion" type="dlentry"><?ditaot usertext?>Aquifer depletion</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:16;72:13">
+            <term keyref="M01_trade_definitions/backflow" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:5;73:59" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/backflow" type="dlentry"><?ditaot usertext?>Backflow</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:17;75:13">
+            <term keyref="M01_trade_definitions/backflow_preventer" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:6;76:69" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/backflow_preventer" type="dlentry"><?ditaot usertext?>Backflow preventer</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:18;78:13">
+            <term keyref="M01_trade_definitions/bioswale" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:7;79:59" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/bioswale" type="dlentry"><?ditaot usertext?>Bioswale</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:19;81:13">
+            <term keyref="M01_trade_definitions/chlorine" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:8;82:59" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/chlorine" type="dlentry"><?ditaot usertext?>Chlorine</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:20;84:13">
+            <term keyref="M01_trade_definitions/code" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:9;85:55" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/code" type="dlentry"><?ditaot usertext?>Code</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:21;87:13">
+            <term keyref="M01_trade_definitions/cross-connection" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:10;88:67" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/cross-connection" type="dlentry"><?ditaot usertext?>Cross-connection</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:22;90:13">
+            <term keyref="M01_trade_definitions/disinfection" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:11;91:63" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/disinfection" type="dlentry"><?ditaot usertext?>Disinfection</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:23;93:13">
+            <term keyref="M01_trade_definitions/drain_waste_and_vent_dwv" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:12;94:75" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/drain_waste_and_vent_dwv" type="dlentry"><?ditaot usertext?>Drain, waste, and vent (DWV)</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:24;96:13">
+            <term keyref="M01_trade_definitions/ethics" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:13;97:57" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/ethics" type="dlentry"><?ditaot usertext?>Ethics</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:25;99:13">
+            <term keyref="M01_trade_definitions/filtration" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:14;100:61" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/filtration" type="dlentry"><?ditaot usertext?>Filtration</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:26;102:13">
+            <term keyref="M01_trade_definitions/finish" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:15;103:57" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/finish" type="dlentry"><?ditaot usertext?>Finish</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:27;105:13">
+            <term keyref="M01_trade_definitions/fixtures" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:16;106:59" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/fixtures" type="dlentry"><?ditaot usertext?>Fixtures</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:28;108:13">
+            <term keyref="M01_trade_definitions/geothermal" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:17;109:61" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/geothermal" type="dlentry"><?ditaot usertext?>Geothermal</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:29;111:13">
+            <term keyref="M01_trade_definitions/graywater" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:18;112:60" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/graywater" type="dlentry"><?ditaot usertext?>Graywater</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:30;114:13">
+            <term keyref="M01_trade_definitions/journey_plumber" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:19;115:66" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/journey_plumber" type="dlentry"><?ditaot usertext?>Journey plumber</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:31;117:13">
+            <term keyref="M01_trade_definitions/leadership_in_energy_and_environmental_design_leed" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:20;118:101" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/leadership_in_energy_and_environmental_design_leed" type="dlentry"><?ditaot usertext?>Leadership in Energy and Environmental Design (LEED)</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:32;120:13">
+            <term keyref="M01_trade_definitions/model_codes" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:21;121:62" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/model_codes" type="dlentry"><?ditaot usertext?>Model codes</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:33;123:13">
+            <term keyref="M01_trade_definitions/on-the-job_learning_ojl" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:22;124:74" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/on-the-job_learning_ojl" type="dlentry"><?ditaot usertext?>On-the-job learning (OJL)</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:34;126:13">
+            <term keyref="M01_trade_definitions/plumbarius" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:23;127:61" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/plumbarius" type="dlentry"><?ditaot usertext?>Plumbarius</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:35;129:13">
+            <term keyref="M01_trade_definitions/plumber" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:24;130:58" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/plumber" type="dlentry"><?ditaot usertext?>Plumber</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:36;132:13">
+            <term keyref="M01_trade_definitions/plumbing" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:25;133:59" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/plumbing" type="dlentry"><?ditaot usertext?>Plumbing</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:37;135:13">
+            <term keyref="M01_trade_definitions/plumbum" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:26;136:58" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/plumbum" type="dlentry"><?ditaot usertext?>Plumbum</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:38;138:13">
+            <term keyref="M01_trade_definitions/polyvinyl_chloride_pvc" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:27;139:73" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/polyvinyl_chloride_pvc" type="dlentry"><?ditaot usertext?>Polyvinyl chloride (PVC)</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:39;141:13">
+            <term keyref="M01_trade_definitions/potable" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:28;142:58" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/potable" type="dlentry"><?ditaot usertext?>Potable</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:40;144:13">
+            <term keyref="M01_trade_definitions/rainwater_harvesting" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:29;145:71" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/rainwater_harvesting" type="dlentry"><?ditaot usertext?>Rainwater harvesting</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:41;147:13">
+            <term keyref="M01_trade_definitions/reclaimed_water" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:30;148:66" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/reclaimed_water" type="dlentry"><?ditaot usertext?>Reclaimed water</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:42;150:13">
+            <term keyref="M01_trade_definitions/softening" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:31;151:60" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/softening" type="dlentry"><?ditaot usertext?>Softening</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:43;153:13">
+            <term keyref="M01_trade_definitions/solar_hot_water" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:32;154:66" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/solar_hot_water" type="dlentry"><?ditaot usertext?>Solar hot water</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:44;156:13">
+            <term keyref="M01_trade_definitions/thermoplastic" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:33;157:64" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/thermoplastic" type="dlentry"><?ditaot usertext?>Thermoplastic</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:45;159:13">
+            <term keyref="M01_trade_definitions/thermoset" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:34;160:60" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/thermoset" type="dlentry"><?ditaot usertext?>Thermoset</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:46;162:13">
+            <term keyref="M01_trade_definitions/underground_rough-in" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:35;163:71" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/underground_rough-in" type="dlentry"><?ditaot usertext?>Underground rough-in</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:47;165:13">
+            <term keyref="M01_trade_definitions/united_states_green_building_council_usgbc" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:36;166:93" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/united_states_green_building_council_usgbc" type="dlentry"><?ditaot usertext?>United States Green Building Council (USGBC)</term>
+         </p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:48;168:13">
+            <term keyref="M01_trade_definitions/water_efficiency" class="- topic/term " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="term:37;169:67" href="M01_topic_4_4_1.xml#M01_topic_4_4_1/water_efficiency" type="dlentry"><?ditaot usertext?>Water efficiency</term>
+         </p>
+      </section>
+      <section class="- topic/section " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="section:4;172:16">
+         <supertitle class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="supertitle:1;173:22">Industry Recognized Credentials</supertitle>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:49;174:13">If you’re training through an NCCER-accredited sponsor you may be eligible for credentials from NCCER’s Registry. The ID number for this module is 02101. Note that this module may have been used in other NCCER curricula and may apply to other level completions. Contact NCCER’s Registry at 888.622.3720 or go to <xref href="http://www.nccer.org" format="html" scope="external" class="- topic/xref " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="xref:4;174:390"><?ditaot usertext?>www.nccer.org</xref> for more information.</p>
+      </section>
+      <note class="- topic/note " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="note:1;176:13">
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:50;177:13">Code Note</p>
+         <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_1_1.xml" xtrc="p:51;178:13">Codes vary among jurisdictions. Because of the variations in code, consult the applicable code whenever regulations are in question. Referring to an incorrect set of codes can cause as much trouble as failing to reference codes altogether. Obtain, review, and familiarize yourself with your local adopted code. Safety codes are developed by the US Occupational Safety and Health Administration (OSHA).</p>
+      </note>
+   </learningContentbody>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:1;9:61" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/02101.ditamap"><link class="- topic/link " format="dita" href="../../topics/english/M01_topic_4.xml" mapclass="- map/topicref " role="sibling" scope="local" type="topic" xtrc="topicref:38;64:58" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/02101.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Rear</linktext></link></linkpool></related-links></learningContent>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Lev1 .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>1.1.2 A New Professional Organization</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Lev1 .Title">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>By the late nineteenth century, plumbing technology and practices were recognizably modern. Manufacturers and wholesale dealers of new plumbing devices sold them over the counter as separate components. They ignored the fact that these components would have to be combined and installed into a properly designed plumbing system in order to work. Dealers claimed no responsibility for the proper installation of plumbing systems. The results were predictable. People suffered from shoddy and unsafe plumbing systems that possibly made sanitary conditions worse instead of better. And plumbers were usually blamed—unfairly—when things went wrong. Plumbers had the knowledge and ability to install safe and efficient plumbing systems, but the manufacturers and dealers completely dominated the trade.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Content>Accordingly, at the association’s second annual convention in Baltimore in 1884, the attendees adopted a set of professional guidelines that became famous as the Baltimore Resolutions. The resolutions succeeded at last in putting plumbers in charge of the profession. They helped ensure that plumbing installations in the United States would be safe and sanitary, and that plumbers would be held to rigorous professional standards.</Content>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+   <ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/.Chap .Back P">
+      <CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+         <Br/>
+      </CharacterStyleRange>
+   </ParagraphStyleRange>
+</manifest>

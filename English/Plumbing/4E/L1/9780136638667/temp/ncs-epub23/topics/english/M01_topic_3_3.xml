@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/ncs-epub23/topics/english?><?workdir-uri file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/ncs-epub23/topics/english/?><?path2project ../../../../?><?path2project-uri ../../../../?><?path2rootmap-uri ../../maps/english/?><assessment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="M01_topic_3_3" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningAssessment.xsd" xml:lang="en" sourcetype="practice" DITAArchVersion="1.2" class="- topic/topic learningBase/learningBase learningAssessment/learningAssessment " domains="(topic hi-d)         (topic ut-d)         (topic indexing-d)         (topic learningInteractionBase-d)         (topic learningInteractionBase-d learning-d)         (topic learningmeta-d)         (topic learningBase+learningInteractionBase-d)         (topic learningBase+learningInteractionBase-d learningAssessment)" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="assessment:1;5:35">
+   <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="title:1;6:11">2.0.0 Section Review</title>
+   <interactions class="- topic/body  learningBase/learningBasebody learningAssessment/learningAssessmentbody " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="interactions:1;7:18">
+      <interaction class="- topic/section learningBase/lcInteraction " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="interaction:1;8:20">
+         <single class="+ topic/fig learningInteractionBase-d/lcInteractionBase learning-d/lcSingleSelect " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="single:1;9:18">
+            <question class="+ topic/p learningInteractionBase-d/p learning-d/lcQuestion " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="question:1;10:23">
+               <questionContent class="+ topic/p learningInteractionBase-d/p learning-d/lcQuestionContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="questionContent:1;11:33">Which of the following is true with regard to professionalism?</questionContent>
+            </question>
+            <options class="+ topic/ul learningInteractionBase-d/ul learning-d/lcAnswerOptionGroup " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="options:1;13:22">
+               <answerOption class="+ topic/li learningInteractionBase-d/li learning-d/lcAnswerOption " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answerOption:1;14:30">
+                  <answer class="+ topic/p learningInteractionBase-d/p learning-d/lcAnswerContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answer:1;15:27">It is okay to speak poorly of your employer as long as you are being honest. </answer>
+               </answerOption>
+               <answerOption class="+ topic/li learningInteractionBase-d/li learning-d/lcAnswerOption " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answerOption:2;17:30">
+                  <answer class="+ topic/p learningInteractionBase-d/p learning-d/lcAnswerContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answer:2;18:27">It is acceptable to cheat if it benefits your employer.</answer>
+               </answerOption>
+               <answerOption class="+ topic/li learningInteractionBase-d/li learning-d/lcAnswerOption " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answerOption:3;20:30">
+                  <answer class="+ topic/p learningInteractionBase-d/p learning-d/lcAnswerContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answer:3;21:27">It is better to maintain the same procedures rather than adapt to new methods.</answer>
+               </answerOption>
+               <answerOption class="+ topic/li learningInteractionBase-d/li learning-d/lcAnswerOption " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answerOption:4;23:30">
+                  <answer class="+ topic/p learningInteractionBase-d/p learning-d/lcAnswerContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answer:4;24:27">You should do what is right even when there is pressure to do otherwise.</answer>
+                  <correct class="- topic/ph " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="correct:1;25:29"/>
+               </answerOption>
+            </options>
+            <lcSectionRef class="- topic/data " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="lcSectionRef:1;28:27">2.1.9</lcSectionRef>
+            <lcObjectiveRef class="- topic/data " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="lcObjectiveRef:1;29:29">2a</lcObjectiveRef>
+         </single>
+      </interaction>
+      <interaction class="- topic/section learningBase/lcInteraction " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="interaction:2;32:20">
+         <single class="+ topic/fig learningInteractionBase-d/lcInteractionBase learning-d/lcSingleSelect " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="single:2;33:18">
+            <question class="+ topic/p learningInteractionBase-d/p learning-d/lcQuestion " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="question:2;34:23">
+               <questionContent class="+ topic/p learningInteractionBase-d/p learning-d/lcQuestionContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="questionContent:2;35:33">The Department of Labor’s Office of Apprenticeship program requires _____.</questionContent>
+            </question>
+            <options class="+ topic/ul learningInteractionBase-d/ul learning-d/lcAnswerOptionGroup " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="options:2;37:22">
+               <answerOption class="+ topic/li learningInteractionBase-d/li learning-d/lcAnswerOption " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answerOption:5;38:30">
+                  <answer class="+ topic/p learningInteractionBase-d/p learning-d/lcAnswerContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answer:5;39:27">500 hours of OJL per year</answer>
+               </answerOption>
+               <answerOption class="+ topic/li learningInteractionBase-d/li learning-d/lcAnswerOption " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answerOption:6;41:30">
+                  <answer class="+ topic/p learningInteractionBase-d/p learning-d/lcAnswerContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answer:6;42:27">750 hours of OJL per year</answer>
+               </answerOption>
+               <answerOption class="+ topic/li learningInteractionBase-d/li learning-d/lcAnswerOption " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answerOption:7;44:30">
+                  <answer class="+ topic/p learningInteractionBase-d/p learning-d/lcAnswerContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answer:7;45:27">1,000 hours of OJL per year</answer>
+               </answerOption>
+               <answerOption class="+ topic/li learningInteractionBase-d/li learning-d/lcAnswerOption " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answerOption:8;47:30">
+                  <answer class="+ topic/p learningInteractionBase-d/p learning-d/lcAnswerContent " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="answer:8;48:27">2,000 hours of OJL per year</answer>
+                  <correct class="- topic/ph " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="correct:2;49:29"/>
+               </answerOption>
+            </options>
+            <lcSectionRef class="- topic/data " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="lcSectionRef:2;52:27">2.2.1</lcSectionRef>
+            <lcObjectiveRef class="- topic/data " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_3_3.xml" xtrc="lcObjectiveRef:2;53:29">2b</lcObjectiveRef>
+         </single>
+      </interaction>
+   </interactions>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:37;57:70" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/02101.ditamap"><link class="- topic/link " format="dita" href="../../topics/english/M01_topic_3_0.xml" mapclass="- map/topicref " role="parent" scope="local" type="learningContent" xtrc="topicref:18;36:66" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/02101.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Section Two2.0.0 Responsibilities of a Plumbing Professional</linktext></link></linkpool></related-links></assessment>

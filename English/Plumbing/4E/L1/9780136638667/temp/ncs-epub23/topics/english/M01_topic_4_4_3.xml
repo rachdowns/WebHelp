@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/ncs-epub23/topics/english?><?workdir-uri file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/ncs-epub23/topics/english/?><?path2project ../../../../?><?path2project-uri ../../../../?><?path2rootmap-uri ../../maps/english/?><topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="M01_topic_4_4_3" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" xml:lang="en" sourcetype="credset" DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="topic:1;5:29">
+   <supertitle class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="supertitle:1;6:16">Figure Credits</supertitle>
+   <body class="- topic/body " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="body:1;7:10">
+      <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="p:1;8:10">© Lloyd Wolf for SkillsUSA, Module opener</p>
+   </body>
+   <related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:45;71:66" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/02101.ditamap"><link class="- topic/link " format="dita" href="../../topics/english/M01_topic_4.xml" mapclass="- map/topicref " role="parent" scope="local" type="topic" xtrc="topicref:38;64:58" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/02101.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Rear</linktext></link></linkpool></related-links><topic id="sectionReview" DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="topic:2;10:30">
+      <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="title:1;11:14">Section Review Answer Key</title>
+      <body class="- topic/body " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="body:2;12:13">
+         <section class="- topic/section " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="section:1;13:19">
+            <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="title:2;14:20">Section 1.0.0</title>
+            <table frame="none" rowsep="0" colsep="0" id="sectionReview001" class="- topic/table " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="table:1;16:38">
+               <tgroup cols="3" align="left" class="- topic/tgroup " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="tgroup:1;17:46">
+                  <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="colspec:1;18:67"/>
+                  <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="colspec:2;19:67"/>
+                  <colspec colname="col3" colnum="3" colwidth="1*" class="- topic/colspec " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="colspec:3;20:67"/>
+                  <thead class="- topic/thead " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="thead:1;21:26">
+                     <row class="- topic/row " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="row:1;22:27">
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:1;23:32" colname="col1" dita-ot:x="1" dita-ot:y="1">Answer</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:2;24:32" colname="col2" dita-ot:x="2" dita-ot:y="1">Section Reference</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:3;25:32" colname="col3" dita-ot:x="3" dita-ot:y="1">Objective</entry>
+                     </row>
+                  </thead>
+                  <tbody class="- topic/tbody " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="tbody:1;28:26">
+                     <row class="- topic/row " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="row:2;29:27">
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:4;30:32" colname="col1" dita-ot:x="1" dita-ot:y="2">1.  c</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:5;31:32" colname="col2" dita-ot:x="2" dita-ot:y="2">1.1.1</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:6;32:32" colname="col3" dita-ot:x="3" dita-ot:y="2">1a</entry>
+                     </row>
+                     <row class="- topic/row " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="row:3;34:27">
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:7;35:32" colname="col1" dita-ot:x="1" dita-ot:y="3">2.  a</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:8;36:32" colname="col2" dita-ot:x="2" dita-ot:y="3">1.2.3</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:9;37:32" colname="col3" dita-ot:x="3" dita-ot:y="3">1b</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </section>
+         <section class="- topic/section " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="section:2;43:19">
+            <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="title:3;44:20">Section 2.0.0</title>
+            <table frame="none" rowsep="0" colsep="0" id="sectionReview002" class="- topic/table " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="table:2;46:38">
+               <tgroup cols="3" align="left" class="- topic/tgroup " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="tgroup:2;47:46">
+                  <colspec colname="col1" colnum="1" colwidth="1*" class="- topic/colspec " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="colspec:4;48:67"/>
+                  <colspec colname="col2" colnum="2" colwidth="1*" class="- topic/colspec " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="colspec:5;49:67"/>
+                  <colspec colname="col3" colnum="3" colwidth="1*" class="- topic/colspec " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="colspec:6;50:67"/>
+                  <thead class="- topic/thead " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="thead:2;51:26">
+                     <row class="- topic/row " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="row:4;52:27">
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:10;53:32" colname="col1" dita-ot:x="1" dita-ot:y="1">Answer</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:11;54:32" colname="col2" dita-ot:x="2" dita-ot:y="1">Section Reference</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:12;55:32" colname="col3" dita-ot:x="3" dita-ot:y="1">Objective</entry>
+                     </row>
+                  </thead>
+                  <tbody class="- topic/tbody " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="tbody:2;58:26">
+                     <row class="- topic/row " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="row:5;59:27">
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:13;60:32" colname="col1" dita-ot:x="1" dita-ot:y="2">1.  d</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:14;61:32" colname="col2" dita-ot:x="2" dita-ot:y="2">2.1.9</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:15;62:32" colname="col3" dita-ot:x="3" dita-ot:y="2">2a</entry>
+                     </row>
+                     <row class="- topic/row " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="row:6;64:27">
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:16;65:32" colname="col1" dita-ot:x="1" dita-ot:y="3">2.  d</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:17;66:32" colname="col2" dita-ot:x="2" dita-ot:y="3">2.2.1</entry>
+                        <entry class="- topic/entry " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/M01_topic_4_4_3.xml" xtrc="entry:18;67:32" colname="col3" dita-ot:x="3" dita-ot:y="3">2b</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </section>
+      </body>
+   </topic>
+</topic>

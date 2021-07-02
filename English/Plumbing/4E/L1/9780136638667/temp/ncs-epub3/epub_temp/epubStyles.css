@@ -1,0 +1,282 @@
+/*Common CSS for the default EPUB transformation. Used to wrap programlistings to page width.*/
+pre{
+ white-space:pre-wrap;
+}
+body {
+  font-family: sans-serif;
+  margin-left: 15px;
+}
+/* no conditions don't need no stinkin' list marker! (nor safecond) */
+li.noconds { list-style-type: none }
+li.safecond { list-style-type: none }
+
+ul {list-style-type: circle;}
+
+ul.ul_none{list-style-type: none;}
+ol.ol-toc {list-style-type: none;}
+
+li.html-toc-entry {
+    list-style-type: none;
+    text-align: left;
+}
+
+h1.topictitle1{
+    background-color: #556680;
+    color: white;
+    padding: 5px;
+    border-bottom: #CC2326 solid 2px;
+}
+
+h2.title {
+    color: #CC2326;
+    border-bottom: #CC2326 solid 2px;
+    text-align: left;
+}
+
+.title {
+    text-align: left;
+}
+
+.sub-title{
+    font-size: small;    
+}
+
+.sectiontitle {
+    text-align: left;
+}
+
+.topictitle1 {
+    text-align: left;
+}
+
+.topictitle2 {
+    text-align: left;
+}
+
+.topictitle3 {
+    text-align: left;
+}
+
+.topictitle4 {
+    text-align: left;
+}
+
+.topictitle5 {
+    text-align: left;
+}
+
+.topictitle6 {
+    text-align: left;
+}
+
+/* green */
+div.note {
+    background-color: #D7E3CD;
+    border: #579741 solid 2px;
+}
+
+/* red */
+div.warning {
+    background-color: #F7E9E6;
+    border: #CC2326 solid 2px;
+}
+
+/* yellow */
+div.caution {
+    background-color: #FDFBEC;
+    border: #EDCD46 solid 2px;
+    padding: 5px;
+}
+
+div.warning, div.note {
+    padding: 5px;
+}
+
+div.caution p:first-child, div.warning p:first-child, div.note p:first-child{
+    padding: 0px;
+    margin: 0px;
+}
+
+div.caution p, div.warning p, div.note p{
+    padding: 0px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.caution {
+  font-weight: normal;
+}
+
+h1 h2 h3 h4 {page-break-after: avoid;}
+
+p {
+  widows: 2;
+  orphans: 2;
+  }
+
+/*h1, h2, h3, h4, .lcQuestion{page-break-after: avoid;} */
+h1, h2, h3, h4 {page-break-after: avoid;}
+
+
+*[class ~= "lcAnswerOptionGroup"]{
+  page-break-inside: avoid;
+}
+
+p {
+  widows: 2;
+  orphans: 2;
+  }
+
+.entry .p{
+    margin:0px;
+    padding:0px;
+    text-align:left;
+    line-height: 11px;
+    font-size:10px;
+}
+
+.entry {
+    padding:3px;
+    margin:0px;
+}
+
+.table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid black;
+}
+  
+th {
+   font-weight:bold;
+}  
+
+.props_props_thead {
+   font-weight:bold;
+}
+
+.props_props_PHPhrase {
+    color:#4d823b;
+    font-style: italic;
+}
+
+*[ncs_props="PHPhrase"] {
+    color:#4d823b;
+    font-style: italic;
+}
+
+*[outputclass ~= "PHPhrase"] {
+    color:#4d823b;
+    font-style: italic;
+}
+
+*.props_props_PHItalic {
+    font-style: italic;
+}
+
+*[mathvariant="bold"] {
+  font-weight: bold;
+}
+
+*[mathvariant="bold-italic"] {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.cellrowborder {
+  border-left: solid 1px black;
+  border-top: solid 1px black;
+  border-right: solid 1px black;
+  border-bottom: solid 1px black;
+}
+.row-nocellborder {
+  border-left: solid 1px black;
+  border-top: solid 1px black;
+  border-right: solid 1px black;
+  border-bottom: solid 1px black;
+}
+.cell-norowborder {
+  border-top: solid 1px black;
+  border-left: solid 1px black;
+  border-right: solid 1px black;
+  border-bottom: solid 1px black;
+}
+.nocellnorowborder {
+  border-top: solid 1px black;
+  border-left: solid 1px black;
+  border-right: solid 1px black;
+  border-bottom: solid 1px black;
+}
+
+/* this is duplicate! Why? */
+ol.lcAnswerOptionGroup, ol.lcAnswerOptionGroup {
+  list-style-type: lower-alpha;
+}
+
+ol.step, ol.no-style {
+    list-style-type: none;
+}
+
+ol ol {
+  list-style-type: lower-alpha;
+}
+
+ol.ol_upper-roman {
+  list-style-type: upper-Roman;
+}
+
+ol.ol_upper-alpha {
+  list-style-type: upper-alpha;
+}
+
+ol.ol_upper-roman ol.ol, ol.ol_upper-alpha ol.ol{
+  list-style-type: decimal;
+}
+
+hr[class ~= "feature"] {
+    display: none;
+}
+
+div[class ~= "OnSite"] {
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #FDEDEC;
+}
+
+div[class ~= "CaseHistory"] {
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #FBEEE6;
+}
+
+div[class ~= "DidYouKnow"] {
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #F4ECF7;
+}
+
+div[class ~= "GoingGreen"] {
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #EAFAF1;
+}
+
+div[class ~= "WhatsWrong"] {
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #FEF5E7;
+}
+
+div[class ~= "ThinkAboutIt"] {
+    padding: 5px;
+    border-style: solid;
+    border-width: 1px;
+    background-color: #EBF5FB;
+}
+

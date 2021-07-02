@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><learningContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_2_0" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningContent.xsd" xml:lang="en">
+   <supertitle>Section One</supertitle>
+   <title>1.0.0 The Plumbing Profession</title>
+   <learningContentbody>
+      <lcObjectives>
+         <title>Objective</title>
+         <lcObjectivesStem>Describe the plumbing profession.</lcObjectivesStem>
+         <lcObjectivesGroup>
+            <lcObjective props="a.">
+               <p>Describe the history of the plumbing profession.</p>
+            </lcObjective>
+            <lcObjective props="b.">
+               <p>Describe the plumbing profession today.</p>
+            </lcObjective>
+         </lcObjectivesGroup>
+      </lcObjectives>
+      <section sourcetype="glossary">
+         <title>Trade Terms</title>
+         <dl>
+            <dlentry>
+               <dt>Aboveground rough-in</dt>
+               <dd>: The second phase of a plumbing project. During this phase, holes are cut in walls, ceilings, and floors. Then, supply and waste pipes are attached or hung so they can be connected to fixtures. Also referred to as stack out, top out, or in-wall rough-in.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Appurtenances</dt>
+               <dd>: Accessories or apparatus that require no demand from the water supply side and add no load to the waste side.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Aqueduct</dt>
+               <dd>: A man-made channel used to carry water.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Aquifer depletion</dt>
+               <dd>: The use of underground fresh water at a rate faster than it can be replenished.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Backflow</dt>
+               <dd>: The flow of contaminated water into the freshwater system resulting from a cross-connection between potable and nonpotable water systems.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Backflow preventer</dt>
+               <dd>: A device that prevents nonpotable water from entering a potable supply system.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Bioswale</dt>
+               <dd>: A depression in the ground that filters pollutants from stormwater.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Chlorine</dt>
+               <dd>: A heavy, greenish-yellow gas used as a disinfectant in water treatment. Chlorine should be handled only when wearing appropriate personal protective equipment.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Code</dt>
+               <dd>: A requirement published by state and local governments to establish minimum standards for various types of construction. A code carries the force of law.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Cross-connection</dt>
+               <dd>: An arrangement between a potable water system and a nonpotable water system in which an accidental pressure differential between the two systems causes backflow of contaminated water into the freshwater system.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Disinfection</dt>
+               <dd>: The process of destroying harmful organisms in potable water.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Drain, waste, and vent (DWV)</dt>
+               <dd>: A piping system that combines sanitary drainage with venting.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Filtration</dt>
+               <dd>: The process of cleansing water to remove particles and chemicals.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Finish</dt>
+               <dd>: The third phase of a plumbing project. During the finish phase, plumbers install fixtures, appliances, water purification systems, water heaters, and controls. Also referred to as trim-out or trim finish.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Fixtures</dt>
+               <dd>: Devices that receive water from a water supply line. Common fixtures include sinks, shower stalls, and toilets.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Geothermal</dt>
+               <dd>: Heat that is generated below the earth’s surface.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Graywater</dt>
+               <dd>: Water that comes from baths and washing machines.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Journey plumber</dt>
+               <dd>: A plumber who has successfully completed an apprenticeship-training program.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Leadership in Energy and Environmental Design (LEED)</dt>
+               <dd>: A system for certifying that buildings have been designed and constructed to environmental standards.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Model codes</dt>
+               <dd>: Construction ordinances that are written by a national construction organization according to suggested national plumbing standards. Model codes that have not been adopted by a jurisdiction do not have the force of law.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>On-the-job learning (OJL)</dt>
+               <dd>: Field experience used in conjunction with classroom lessons in an apprenticeship program. OFFICE OF APPRENTICESHIP requires 144 hours of classroom instruction per year and 2,000 hours of OJL per year.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Plumbarius</dt>
+               <dd>: The Roman term for someone who works with lead. The root of the modern word plumber.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Plumber</dt>
+               <dd>: One who installs or repairs plumbing systems and fixtures.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Plumbing</dt>
+               <dd>: According to the National Standard Plumbing Code, plumbing is “the practice, materials, and fixtures within or adjacent to any building structure or conveyance, used in the installation, maintenance, extension, alteration, and removal of all piping, plumbing fixtures, plumbing appliances, and plumbing appurtenances... ."</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Plumbum</dt>
+               <dd>: Latin word for lead.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Polyvinyl chloride (PVC)</dt>
+               <dd>: A thermoplastic material frequently used in tubing for cold water systems and the first type of plastic approved for use in plumbing.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Potable</dt>
+               <dd>: Water that is safe for cooking and drinking.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Rainwater harvesting</dt>
+               <dd>: The collection and storage of rainwater for irrigation.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Reclaimed water</dt>
+               <dd>: Wastewater that has had impurities and solids removed from it so that it can be reused for non-potable purposes.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Softening</dt>
+               <dd>: The process of removing magnesium and sodium salts that cause scale on the inside of pipes and fittings.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Solar hot water</dt>
+               <dd>: Water that has been directly or indirectly heated by sunlight.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Thermoplastic</dt>
+               <dd>: A plastic material used in plumbing and sanitary systems that is soft and pliable when heated and hard and rigid when cooled.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Thermoset</dt>
+               <dd>: A plastic material used in plumbing and sanitary systems that becomes substantially infusible and insoluble when treated by heat or chemicals.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Underground rough-in</dt>
+               <dd>: The phase of a plumbing project during which the plumber locates all supply and waste connections from the building systems to public utilities, and establishes where these systems will enter or leave the building.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>United States Green Building Council (USGBC)</dt>
+               <dd>: The non-profit construction trade organization responsible for the development of LEED.</dd>
+            </dlentry>
+            <dlentry>
+               <dt>Water efficiency</dt>
+               <dd>: The managed use of drinkable water to reduce waste.</dd>
+            </dlentry>
+         </dl>
+      </section>
+      <lcInstruction>
+         <p>
+            <term keyref="M01_trade_definitions/plumbing">Plumbing</term> has profoundly influenced the development of modern society by improving public health and safety. Plumbing systems allow people to have safe, healthy, fresh water for drinking, washing, cooking, and many other uses. Additionally, plumbing reduces the spread of disease by safely draining away wastewater that contains harmful organisms. Improved sanitation contributes to longer life expectancies for men, women, and children. Plumbing systems also allow people to fight fires, water their lawns, fill their pools, and perform many daily activities.</p>
+      </lcInstruction>
+   </learningContentbody>
+</learningContent>

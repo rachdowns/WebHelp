@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" id="LpCoverPage">
+    <title></title>
+    <body>
+        <fig id="cpFig">
+            <image href="../../graphics/web/CEL_02101_Cover.jpg" scalefit="yes"/>
+        </fig>
+    </body>
+</topic>
+

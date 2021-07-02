@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><learningContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_1_1" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningContent.xsd" xml:lang="en">
+   <title>Front</title>
+   <prolog>
+      <data name="role" value="fm"/>
+   </prolog>
+   <learningContentbody>
+      <fig sourcetype="informalfigure">
+         <data name="role" value="openingart"/>
+         <data name="float" value="0"/>
+         <image keyref="02101-18_MO"/>
+      </fig>
+      <section>
+         <title sourcetype="introduction">Overview</title>
+         <p>Plumbers protect the health, safety, and comfort of people. Training and critical-thinking skills are essential to being a good plumber. A professional work ethic and good safety habits go a long way toward adding to the success of a plumber.</p>
+      </section>
+      <section sourcetype="source">
+         <p>Trainees with successful module completions may be eligible for credentialing through NCCER’s National Registry. To learn more, go to <xref href="http://www.nccer.org" format="html" scope="external">www.nccer.org</xref> or contact us at 1.888.622.3720. Our website has information on the latest product releases and training, our <i>Breaking Ground</i> digital newsroom, and Pearson’s product catalog.</p>
+         <p>Your feedback is welcome. You may email your comments to <xref href="mailto:curriculum@nccer.org" format="html" scope="external">curriculum@nccer.org</xref>, send general comments and inquiries to <xref href="mailto:info@nccer.org" format="html" scope="external">info@nccer.org</xref>, or fill in the User Update form at the back of this module.</p>
+         <p sourcetype="copyright">
+            <b>Copyright © 2019 by NCCER, Alachua, FL 32615, and published by Pearson Education, Inc., New York, NY 10013. All rights reserved</b>. Printed in the United States of America. This publication is protected by Copyright, and permission should be obtained from NCCER prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means, electronic, mechanical, photocopying, recording, or likewise. To obtain permission(s) to use material from this work, please submit a written request to NCCER Product Development, 13614 Progress Blvd., Alachua, FL 32615.</p>
+      </section>
+      <lcObjectives>
+         <title>Objectives</title>
+         <lcObjectivesStem>Successful completion of this module prepares trainees to:</lcObjectivesStem>
+         <lcObjectivesGroup>
+            <lcObjective props="1.">
+               <p>Describe the plumbing profession.</p>
+               <ol>
+                  <li>
+                     <p>Describe the history of the plumbing profession.</p>
+                  </li>
+                  <li>
+                     <p>Describe the plumbing profession today.</p>
+                  </li>
+               </ol>
+            </lcObjective>
+            <lcObjective props="2.">
+               <p>Identify the responsibilities of a person working in the plumbing industry.</p>
+               <ol>
+                  <li>
+                     <p>State the personal characteristics of a professional.</p>
+                  </li>
+                  <li>
+                     <p>Identify career opportunities in plumbing.</p>
+                  </li>
+               </ol>
+            </lcObjective>
+         </lcObjectivesGroup>
+      </lcObjectives>
+      <lcObjectives sourcetype="practice">
+         <title>Performance Tasks</title>
+         <lcObjectivesGroup>
+            <lcObjective>
+               <p>This is a knowledge-based module; there are no Performance Tasks.</p>
+            </lcObjective>
+         </lcObjectivesGroup>
+      </lcObjectives>
+      <section sourcetype="keywordset">
+         <title>Trade Terms</title>
+         <p>
+            <term keyref="M01_trade_definitions/aboveground_rough-in">Aboveground rough-in</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/appurtenances">Appurtenances</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/aqueduct">Aqueduct</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/aquifer_depletion">Aquifer depletion</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/backflow">Backflow</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/backflow_preventer">Backflow preventer</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/bioswale">Bioswale</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/chlorine">Chlorine</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/code">Code</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/cross-connection">Cross-connection</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/disinfection">Disinfection</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/drain_waste_and_vent_dwv">Drain, waste, and vent (DWV)</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/ethics">Ethics</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/filtration">Filtration</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/finish">Finish</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/fixtures">Fixtures</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/geothermal">Geothermal</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/graywater">Graywater</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/journey_plumber">Journey plumber</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/leadership_in_energy_and_environmental_design_leed">Leadership in Energy and Environmental Design (LEED)</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/model_codes">Model codes</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/on-the-job_learning_ojl">On-the-job learning (OJL)</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/plumbarius">Plumbarius</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/plumber">Plumber</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/plumbing">Plumbing</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/plumbum">Plumbum</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/polyvinyl_chloride_pvc">Polyvinyl chloride (PVC)</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/potable">Potable</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/rainwater_harvesting">Rainwater harvesting</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/reclaimed_water">Reclaimed water</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/softening">Softening</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/solar_hot_water">Solar hot water</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/thermoplastic">Thermoplastic</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/thermoset">Thermoset</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/underground_rough-in">Underground rough-in</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/united_states_green_building_council_usgbc">United States Green Building Council (USGBC)</term>
+         </p>
+         <p>
+            <term keyref="M01_trade_definitions/water_efficiency">Water efficiency</term>
+         </p>
+      </section>
+      <section>
+         <supertitle>Industry Recognized Credentials</supertitle>
+         <p>If you’re training through an NCCER-accredited sponsor you may be eligible for credentials from NCCER’s Registry. The ID number for this module is 02101. Note that this module may have been used in other NCCER curricula and may apply to other level completions. Contact NCCER’s Registry at 888.622.3720 or go to <xref href="http://www.nccer.org" format="html" scope="external">www.nccer.org</xref> for more information.</p>
+      </section>
+      <note>
+         <p>Code Note</p>
+         <p>Codes vary among jurisdictions. Because of the variations in code, consult the applicable code whenever regulations are in question. Referring to an incorrect set of codes can cause as much trouble as failing to reference codes altogether. Obtain, review, and familiarize yourself with your local adopted code. Safety codes are developed by the US Occupational Safety and Health Administration (OSHA).</p>
+      </note>
+   </learningContentbody>
+</learningContent>

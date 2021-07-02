@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?><?workdir /Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/ncs2IDML/topics/english?><?workdir-uri file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/../../temp/ncs2IDML/topics/english/?><?path2project ../../out/ncs2IDML/?><?path2project-uri ../../out/ncs2IDML/?><?path2rootmap-uri ../../maps/english/?><topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" id="A01_topic_1_2" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" xml:lang="en" DITAArchVersion="1.2" class="- topic/topic " domains="(topic abbrev-d)         (topic hazard-d)         (topic hi-d)         (topic indexing-d)         (topic pr-d)         (topic sw-d)         (topic ui-d)         (topic ut-d)" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="topic:1;4:22">
+   <title class="- topic/title " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="title:1;5:11">NCCER Partners</title>
+   <body class="- topic/body " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="body:1;6:10">
+      <ul class="- topic/ul " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="ul:1;7:11">
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:1;8:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:1;9:16">American Council for Construction Education</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:2;11:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:2;12:16">American Fire Sprinkler Association</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:3;14:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:3;15:16">Associated Builders and Contractors, Inc.</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:4;17:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:4;18:16">Associated General Contractors of America</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:5;20:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:5;21:16">Association for Career and Technical Education</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:6;23:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:6;24:16">Association for Skilled and Technical Sciences</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:7;26:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:7;27:16">Construction Industry Institute</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:8;29:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:8;30:16">Construction Users Roundtable</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:9;32:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:9;33:16">Design Build Institute of America</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:10;35:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:10;36:16">GSSC – Gulf States Shipbuilders Consortium</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:11;38:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:11;39:16">ISN</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:12;41:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:12;42:16">Manufacturing Institute</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:13;44:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:13;45:16">Mason Contractors Association of America</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:14;47:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:14;48:16">Merit Contractors Association of Canada</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:15;50:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:15;51:16">NACE International</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:16;53:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:16;54:16">National Association of Women in Construction</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:17;56:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:17;57:16">National Insulation Association</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:18;59:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:18;60:16">National Technical Honor Society</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:19;62:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:19;63:16">National Utility Contractors Association</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:20;65:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:20;66:16">NAWIC Education Foundation</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:21;68:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:21;69:16">North American Crane Bureau</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:22;71:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:22;72:16">North American Technician Excellence</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:23;74:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:23;75:16">Pearson</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:24;77:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:24;78:16">Prov</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:25;80:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:25;81:16">SkillsUSA<sup class="+ topic/ph hi-d/sup " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="sup:1;81:30">®</sup>
+            </p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:26;84:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:26;85:16">Steel Erectors Association of America</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:27;87:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:27;88:16">U.S. Army Corps of Engineers</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:28;90:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:28;91:16">University of Florida, M. E. Rinker Sr., School of Construction Management</p>
+         </li>
+         <li class="- topic/li " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="li:29;93:14">
+            <p class="- topic/p " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="p:29;94:16">Women Construction Owners &amp; Executives, USA</p>
+            <fig class="- topic/fig " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="fig:1;95:18">
+               <image keyref="Business_Partners" class="- topic/image " xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/topics/english/A01_topic_1_2.xml" xtrc="image:1;96:51" href="../../graphics/print/Business_Partners.eps" format="pdf">../../graphics/print/Business_Partners.eps</image>
+            </fig>
+         </li>
+      </ul>
+   </body>
+<related-links class="- topic/related-links "><linkpool class="- topic/linkpool " xtrc="topicref:3;16:64" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/Frontmatter_02101.ditamap"><link class="- topic/link " format="dita" href="../../topics/english/A01_topic_1.xml" mapclass="- map/topicref " role="parent" scope="local" type="topic" xtrc="topicref:1;14:58" xtrf="file:/Users/gpage/Documents/Content/ncs_content/9780130210100/maps/english/Frontmatter_02101.ditamap"><?ditaot usertext?><linktext class="- topic/linktext "><?ditaot gentext?>Plumbing Level 1Module 02101</linktext></link></linkpool></related-links></topic>

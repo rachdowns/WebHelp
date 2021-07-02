@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_map.xsd"
+     xml:lang="en">
+   <mapref href="glosskeyrefs.ditamap" format="ditamap"/>
+   <topichead processing-role="resource-only" navtitle="Image Keyrefs">
+      <!--Print images:-->
+      <mapref href="A01_Image_Keyrefs_PDF.ditamap" props="print" format="ditamap"/>
+      <mapref href="M01_Image_Keyrefs_PDF.ditamap" props="print" format="ditamap"/>
+      <!--Web images:-->
+      <mapref href="A01_Image_Keyrefs_Web.ditamap" props="web" format="ditamap"/>
+      <mapref href="M01_Image_Keyrefs_Web.ditamap" props="web" format="ditamap"/>
+   </topichead>
+   <topicref href="../../topics/english/A01_topic_1.xml">
+      <topicref href="../../topics/english/A01_topic_1_1.xml"/>
+      <topicref href="../../topics/english/A01_topic_1_2.xml"/>
+      <topicref href="../../topics/english/A01_topic_1_3.xml"/>
+   </topicref>
+</map>

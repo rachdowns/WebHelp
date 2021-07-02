@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><learningContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_2_2_4" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningContent.xsd" xml:lang="en">
+   <title>1.2.4 The Three Phases of a Plumbing Project</title>
+   <learningContentbody>
+      <lcInstruction>
+         <p>Plumbing can be divided into three broad phases:</p>
+      </lcInstruction>
+      <ul>
+         <li>
+            <p>
+               <term keyref="M01_trade_definitions/underground_rough-in">Underground rough-in</term>
+            </p>
+         </li>
+         <li>
+            <p>
+               <term keyref="M01_trade_definitions/aboveground_rough-in">Aboveground rough-in</term> (also called <i>top-out</i>, <i>stack-out</i>, or <i>in-wall rough-in</i>)</p>
+         </li>
+         <li>
+            <p>
+               <term keyref="M01_trade_definitions/finish">Finish</term> (also called <i>trim-out</i> or <i>trim finish</i>)</p>
+         </li>
+      </ul>
+      <section>
+         <p>During the underground rough-in phase, the plumber locates all supply and waste connections from the building systems to public utilities and establishes where these systems enter or leave the building. During the aboveground rough-in phase, the plumber cuts holes in walls, ceilings, or floors to attach or hang pipe for connection to fixtures. Then the plumber installs the pipe for the building’s various supply and waste systems. To join pipe runs, a plumber might use welding tools, soldering equipment, or special chemicals for plastic pipe. The plumber may operate power threading machines, propane torches, and other power tools during this phase.</p>
+      </section>
+      <note>
+         <p>Note</p>
+         <p>Many plumbing terms are used interchangeably in some areas. Be sure you are using the terms the way they are typically used where you work.</p>
+      </note>
+      <section>
+         <p>Finally, in the finish phase, the plumber installs fixtures such as sinks, showers, and toilets, and appliances such as dishwashers, water purification systems, and water heaters. The plumber may be called upon to install the automatic controls that regulate pressurized pipe systems as well.</p>
+         <p>During each of the three stages, you must ensure that the system is tight and safe. Do not let your customers discover leaks behind the walls after you have completed your work. Callbacks are expensive and can hurt your reputation as a professional.</p>
+         <p>Regardless of how well a plumbing system is installed, it must be maintained and periodically repaired. You could even think of service and maintenance as a fourth phase of a plumbing project. Plumbers perform a variety of tasks as part of service and maintenance, including the following:</p>
+      </section>
+      <ul>
+         <li>
+            <p>Checking lubrication levels in pumps, test gauges, and meters</p>
+         </li>
+         <li>
+            <p>Repairing faulty fixtures and components</p>
+         </li>
+         <li>
+            <p>Verifying operating systems</p>
+         </li>
+         <li>
+            <p>Regulating flow and usage rates</p>
+         </li>
+      </ul>
+      <section>
+         <p>Additionally, plumbers must ensure that the drain, waste, and vent (DWV) system for each project is installed and working properly. DWV systems, which are discussed in greater depth later, are essential to protect public safety.</p>
+      </section>
+   </learningContentbody>
+</learningContent>

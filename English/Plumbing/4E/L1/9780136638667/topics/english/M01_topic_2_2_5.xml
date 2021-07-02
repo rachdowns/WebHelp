@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><learningContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" id="M01_topic_2_2_5" xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_learningContent.xsd" xml:lang="en">
+   <title>1.2.5 Plumbing Codes and Licenses</title>
+   <learningContentbody>
+      <lcInstruction>
+         <p>Plumbing codes have grown increasingly comprehensive to accommodate new developments in technology and materials. Municipalities throughout the United States adopt ordinances based on suggested national plumbing standards, called <term keyref="M01_trade_definitions/model_codes">model codes</term>. They often modify or interpret these model codes to reflect local conditions. For instance, a city that is prone to earthquakes, such as Los Angeles, would incorporate standards to protect installations from earthquake damage. Likewise, a city that is subject to flooding, such as Houston, would add special requirements to guard against contamination from floodwater.</p>
+      </lcInstruction>
+      <section>
+         <p>The three primary model codes associated with plumbing are the International Plumbing Code (IPC), the Uniform Plumbing Code (UPC), and the National Standard Plumbing Code (NSPC). You will learn how codes are developed and implemented later in the Plumbing curriculum.</p>
+         <p>Although model codes act as guidelines, municipal ordinances have the force of law. As an apprentice plumber, you need to know the applicable plumbing code that applies to the area where you work. Your local plumbing code covers the installation, alteration, repair, replacement, additions to, and use of plumbing systems. It establishes standards for many things, including the following:</p>
+      </section>
+      <ul>
+         <li>
+            <p>Materials commonly used in plumbing systems</p>
+         </li>
+         <li>
+            <p>Fixtures, joints, and connections</p>
+         </li>
+         <li>
+            <p>Hangers and supports</p>
+         </li>
+         <li>
+            <p>Water supply and distribution</p>
+         </li>
+         <li>
+            <p>Vents</p>
+         </li>
+         <li>
+            <p>Storm water and sanitary drainage systems</p>
+         </li>
+         <li>
+            <p>Potable water supply systems</p>
+         </li>
+      </ul>
+      <section>
+         <p>All states require plumbers to be licensed. Many states require completion of an apprenticeship program and/or <term keyref="M01_trade_definitions/on-the-job_learning_ojl">on-the-job learning (OJL)</term>, or field experience, before testing for a license. When you apply for a license (<xref href="#M01_topic_2_2_5/M01_02101-18_TG-figure2">Figure 2</xref>), you will be tested on your knowledge of both your profession and the local plumbing ordinances.</p>
+      </section>
+      <fig id="M01_02101-18_TG-figure2">
+         <title>Figure 2 Examples of plumbing licenses.</title>
+         <image keyref="02101-18_F02">
+            <alt>Examples of different plumbing licenses.</alt>
+         </image>
+      </fig>
+   </learningContentbody>
+</learningContent>

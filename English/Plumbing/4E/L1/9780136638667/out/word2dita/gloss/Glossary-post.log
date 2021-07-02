@@ -1,0 +1,58 @@
+     [echo] Running dita2word-2-ncs-ld...
+  [foreach] The nested fileset element is deprectated, use a nested path instead
+
+postprocesstopics:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/topics/gloss_topic_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/topics/temp/gloss_topic_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Found glossentry.
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/topics/temp/gloss_topic_1.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/topics/english/gloss_topic_1.xml
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsfinalpass.xsl
+  [foreach] The nested fileset element is deprectated, use a nested path instead
+
+postprocessmaps:
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/Glossary.ditamap to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/maps/english/Glossary.ditamap.1st
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncspostproc.xsl
+     [xslt] Z01 Z01_Glossary_02101_V4-5
+     [xslt] supertitle: 
+     [xslt] HIYA  file:////Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/topics/gloss_topic_1.xml true
+     [echo] in='/Users/jmckay/Documents/Content/ncs_content/9780130210100/NCSword/english/../../out/word2dita/gloss/maps/english/Glossary.ditamap.1st'             out='/Users/jmckay/Documents/Content/ncs_content/9780130210100/NCSword/english/../../out/word2dita/gloss/maps/english/Glossary.ditamap'             inputdir='/Users/jmckay/Documents/Content/ncs_content/9780130210100/NCSword/english/../../out/word2dita/gloss/maps/english/'
+     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/maps/english/Glossary.ditamap.1st to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/maps/english/Glossary.ditamap
+     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.word2ncs/xsl/ncsgrouptopicrefs.xsl
+   [delete] Deleting: /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/maps/english/Glossary.ditamap.1st
+   [delete] Deleting directory /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/word2dita/gloss/topics/temp

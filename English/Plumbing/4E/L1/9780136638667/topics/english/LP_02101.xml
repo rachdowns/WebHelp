@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_topic.xsd" id="lp_topic">
+   <supertitle outputclass="t-first">02101</supertitle>
+   <title outputclass="t-mid">Introduction to the Plumbing Profession</title>
+   <topic id="LpBookTitle">
+      <supertitle outputclass="t-mid">Plumbing</supertitle>
+      <title outputclass="t-last">Lesson Plans for Instructors</title>
+      <body>
+         <section
+            conref="../../warehouse/topics/english/lp_warehouse.xml#lp_warehouse_0001/lp_intro"/>
+         <section>
+            <title>Overview</title>
+            <p>Plumbers protect the health, safety, and comfort of people. Training and
+               critical-thinking skills are essential to being a good plumber. A professional work
+               ethic and good safety habits go a long way toward adding to the success of a
+               plumber.</p>
+         </section>
+      </body>
+   </topic>
+   <topic id="d6e21">
+      <title outputclass="LO">Learning Objective 1</title>
+      <body>
+         <section>
+            <p><i>Successful completion of this module prepares trainees to:</i></p>
+            <p>Describe the plumbing profession.</p>
+            <ol type="a">
+               <li>
+                  <p>Describe the history of the plumbing profession.</p>
+               </li>
+               <li>
+                  <p>Describe the plumbing profession today.</p>
+               </li>
+            </ol>
+         </section>
+      </body>
+   </topic>
+   <topic id="d6e38">
+      <title outputclass="LO">Learning Objective 2</title>
+      <body>
+         <section>
+            <p><i>Successful completion of this module prepares trainees to:</i></p>
+            <p>Identify the responsibilities of a person working in the plumbing industry.</p>
+            <ol type="a">
+               <li>
+                  <p>State the personal characteristics of a professional.</p>
+               </li>
+               <li>
+                  <p>Identify career opportunities in plumbing.</p>
+               </li>
+            </ol>
+         </section>
+      </body>
+   </topic>
+
+   <topic id="NcsPerformanceTasks">
+      <title outputclass="PT">Performance Tasks</title>
+      <body>
+         <section>
+            <p>This is a knowledge-based module; there are no Performance Tasks.</p>
+            <p>&#x2002;</p>
+            <p id="LpTeachingTime">Recommended Teaching Time: 5 hours</p>
+         </section>
+         <section
+            conref="../../warehouse/topics/english/lp_warehouse.xml#lp_warehouse_0001/lp_overview"/>
+         <section
+            conref="../../warehouse/topics/english/lp_warehouse.xml#lp_warehouse_0001/lp_prereqs"/>
+         <section
+            conref="../../warehouse/topics/english/lp_warehouse.xml#lp_warehouse_0001/lp_safety"/>
+         <section
+            conref="../../warehouse/topics/english/lp_warehouse.xml#lp_warehouse_0001/lp_equipment"/>
+         <section
+            conref="../../warehouse/topics/english/lp_warehouse.xml#lp_warehouse_0001/lp_instructional"/>
+         <section id="LpResources">
+            <title outputclass="t-wh">Additional Resources</title>
+            
+            <p sourcetype="bibliomixed">This module presents thorough resources for task training.
+               The following resource material is suggested for further study.</p>
+            <p sourcetype="bibliomixed">
+               <i>Plumbing a House</i>, 1998. Peter A. Hemp. Newtown, CT: Taunton Press.</p>
+            <p sourcetype="bibliomixed">
+               <i>The National Standard Plumbing Code</i>, current edition. Falls Church, VA:
+               Plumbing-Heating-Cooling Contractors Association.</p>
+         </section>
+         <section
+            conref="../../warehouse/topics/english/lp_warehouse.xml#lp_warehouse_0001/lp_resources"
+         />
+      </body>
+   </topic>
+
+   <topic>
+      <supertitle outputclass="t-mid">Section One</supertitle>
+      <title outputclass="t-last">The Plumbing Profession</title>
+      <body>
+         
+         <section>
+            <title>Objective</title>
+            <p><i>Successful completion of this module prepares trainees to</i>:</p>
+            <p>Describe the plumbing profession.</p>
+            <ol type="a">
+               <li>
+                  <p>Describe the history of the plumbing profession.</p>
+               </li>
+               <li>
+                  <p>Describe the plumbing profession today.</p>
+               </li>
+            </ol>
+         </section>
+         
+         <section>
+            <title>Kickoff Activity</title>
+            <p>Have your trainees get into groups of three for three to four minutes and have each
+               one discuss their interest in plumbing, prior experience, and knowledge they already
+               have. Once the discussion is over, give them your background in plumbing and why
+               you're teaching.</p>
+         </section>
+         <section>
+            <title>Sections 1.0.0–1.1.3</title>
+            <p>Describe how plumbing evolved from ancient times to modern times. </p>
+         </section>
+         <section>
+            <title>Teaching Tip</title>
+            <p>Select a few of the trade terms for Section 1.0.0 and write them on the board. Ask
+               individual trainees to give broad definitions of the terms. Ask if there are any
+               terms they would like to have further explained.</p>
+         </section>
+         <section>
+            <title>Sections 1.2.0–1.2.3</title>
+            <p>Describe the responsibilities of plumbers and discuss the other crafts that require
+               similar skills, such as pipefitters and sprinkler fitters. Describe the types of work
+               performed by plumbers.</p>
+         </section>
+         <section>
+            <title>Section 1.2.4–1.2.5</title>
+            <p>There are three phases of plumbing: underground rough-in, aboveground rough-in, and
+               finish. Discuss the three phases and the importance of each phase.</p>
+         </section>
+         <section>
+            <title>Teaching Tip</title>
+            <p>Break students into three groups and assign each group one of the phases of a
+               plumbing project. Have them determine what codes they would need to be prepared to
+               know for their particular phase and how it impacts a job.</p>
+         </section>
+         <section>
+            <title>Wrap Up Activity</title>
+            <p>Exit Slip: have your students fill-out a notecard with one thing they learned and one
+               question they have about plumbing after teaching section one.</p>
+         </section>
+      </body>
+   </topic>
+   <topic>
+      <supertitle outputclass="t-mid">Section Two</supertitle>
+      <title outputclass="t-last">Responsibilities of a Plumbing Professional</title>
+      <body>
+         
+         <section>
+            <title>Objective</title>
+            <p><i>Successful completion of this module prepares trainees to</i>:</p>
+            <p>Identify the responsibilities of a person working in the plumbing industry.</p>
+            <ol type="a">
+               <li>
+                  <p>State the personal characteristics of a professional.</p>
+               </li>
+               <li>
+                  <p>Identify career opportunities in plumbing.</p>
+               </li>
+            </ol>
+         </section>
+         
+         <section>
+            <title>Sections 2.0.0–2.1.9</title>
+            <p>Describe the personal characteristics needed for someone to become successful.</p>
+         </section>
+         <section>
+            <title>Teaching Tip</title>
+            <p>Have trainees break into groups based on what they identify as their <i>weakest</i>
+               quality out of the eight qualities a plumber must exhibit. Have them discuss ways in
+               which they can improve this quality to become a well-rounded plumber.</p>
+         </section>
+         <section>
+            <title>Sections 2.2.0–2.2.6</title>
+            <p>Describe the range of opportunities available to someone who becomes a journey-level
+               plumber. Explain the roles and responsibilities of different job positions in the
+               industry. Explain how an apprentice program is structured and discuss the
+               responsibilities of the apprentice and the sponsor.</p>
+         </section>
+         <section>
+            <title>Wrap Up Activity</title>
+            <p>Based on the various career possibilities, ask individual trainees which one they
+               think they might pursue in the long term and why they chose it. </p>
+         </section>
+      </body>
+   </topic>
+
+   <topic props="customsection" outputclass="customsection">
+      <title>Laboratories/Performance Tasks</title>
+      <body>
+         <section>
+            <title>Safety Considerations</title>
+            <p>The following safety considerations should be emphasized as trainees complete the
+               required Performance Tasks:</p>
+            <ul>
+               <li props="LI_1_bullet" outputclass="LI_1_bullet">
+                  <p>Trainees will be required to handle and use various hand tools, power tools,
+                     and shop equipment. It is essential that instructors closely supervise each
+                     trainee as they use tools and operate equipment at this stage of training. Use
+                     each unsafe action observed as a teachable moment and demonstrate the safe use
+                     of tools and equipment at every opportunity.</p>
+               </li>
+               <li props="LI_1_bullet" outputclass="LI_1_bullet">
+                  <p>Ensure trainees have and wear the appropriate PPE for the tasks. Also ensure
+                     that they are properly clothed for operating power tools and shop
+                     equipment.</p>
+               </li>
+               <li props="LI_1_bullet" outputclass="LI_1_bullet">
+                  <p>Ensure that trainees wear gloves whenever possible to reduce the frequency of
+                     cuts and scrapes. This will help trainees become used to working with gloves in
+                     the future.</p>
+               </li>
+            </ul>
+         </section>
+         <section>
+            <title>Module Performance Requirements</title>
+            <p>This is a knowledge-based module; there are no Performance Tasks.</p>
+         </section>
+      </body>
+   </topic>
+
+   <topic conref="LP_02101_src.xml#LpReviewAndTesting"/>
+   <topic id="NcsAnswerKey">
+      <title>Answer Keys</title>
+      <topic id="sectionReview">
+         <title>Section Review Answer Key</title>
+         <body>
+            <section>
+               <title>Section 1.0.0</title>
+               <table frame="none" rowsep="0" colsep="0" id="sectionReview001">
+                  <tgroup cols="3" align="left">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <colspec colname="c3" colnum="3" colwidth="1*"/>
+                     <thead>
+                        <row>
+                           <entry>Answer</entry>
+                           <entry>Section Reference</entry>
+                           <entry>Objective</entry>
+                        </row>
+                     </thead>
+                     <tbody>
+                        <row>
+                           <entry>1.  c</entry>
+                           <entry>1.1.1</entry>
+                           <entry>1a</entry>
+                        </row>
+                        <row>
+                           <entry>2.  a</entry>
+                           <entry>1.2.3</entry>
+                           <entry>1b</entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </section>
+            <section>
+               <title>Section 2.0.0</title>
+               <table frame="none" rowsep="0" colsep="0" id="sectionReview002">
+                  <tgroup cols="3" align="left">
+                     <colspec colname="c1" colnum="1" colwidth="1*"/>
+                     <colspec colname="c2" colnum="2" colwidth="1*"/>
+                     <colspec colname="c3" colnum="3" colwidth="1*"/>
+                     <thead>
+                        <row>
+                           <entry>Answer</entry>
+                           <entry>Section Reference</entry>
+                           <entry>Objective</entry>
+                        </row>
+                     </thead>
+                     <tbody>
+                        <row>
+                           <entry>1.  d</entry>
+                           <entry>2.1.9</entry>
+                           <entry>2a</entry>
+                        </row>
+                        <row>
+                           <entry>2.  d</entry>
+                           <entry>2.2.1</entry>
+                           <entry>2b</entry>
+                        </row>
+                     </tbody>
+                  </tgroup>
+               </table>
+            </section>
+         </body>
+      </topic>
+      <topic id="moduleReview">
+         <title>Module Review Answer Key</title>
+         <body>
+            <table frame="none" rowsep="0" colsep="0" id="moduleReview001">
+               <tgroup cols="2" align="left">
+                  <colspec colname="c1" colnum="1" colwidth="1*"/>
+                  <colspec colname="c2" colnum="2" colwidth="1*"/>
+                  <thead>
+                     <row>
+                        <entry>Answer</entry>
+                        <entry>Section Reference</entry>
+                     </row>
+                  </thead>
+                  <tbody>
+                     <row>
+                        <entry>1.  b</entry>
+                        <entry>1.1.1</entry>
+                     </row>
+                     <row>
+                        <entry>2.  d</entry>
+                        <entry>1.2.0</entry>
+                     </row>
+                     <row>
+                        <entry>3.  c</entry>
+                        <entry>1.2.0</entry>
+                     </row>
+                     <row>
+                        <entry>4.  b</entry>
+                        <entry>1.2.5</entry>
+                     </row>
+                     <row>
+                        <entry>5.  a</entry>
+                        <entry>2.1.3</entry>
+                     </row>
+                     <row>
+                        <entry>6.  d</entry>
+                        <entry>2.1.5</entry>
+                     </row>
+                     <row>
+                        <entry>7.  c</entry>
+                        <entry>2.2.0</entry>
+                     </row>
+                     <row>
+                        <entry>8.  c</entry>
+                        <entry>2.2.0</entry>
+                     </row>
+                     <row>
+                        <entry>9.  d</entry>
+                        <entry>2.2.1</entry>
+                     </row>
+                     <row>
+                        <entry>10.  c</entry>
+                        <entry>2.2.1</entry>
+                     </row>
+                     <row>
+                        <entry>11.  a</entry>
+                        <entry>1.2.0</entry>
+                     </row>
+                     <row>
+                        <entry>12.  d</entry>
+                        <entry>1.2.3</entry>
+                     </row>
+                     <row>
+                        <entry>13.  c</entry>
+                        <entry>1.2.5</entry>
+                     </row>
+                     <row>
+                        <entry>14.  b</entry>
+                        <entry>2.2.1</entry>
+                     </row>
+                     <row>
+                        <entry>15.  a</entry>
+                        <entry>2.2.0</entry>
+                     </row>
+                  </tbody>
+               </tgroup>
+            </table>
+         </body>
+      </topic>
+      <topic id="tradeTermsQuiz">
+         <title>Trade Terms Quiz Answer Key</title>
+         <body>
+            <ol>
+               <li>
+                  <p>Underground rough-in</p>
+               </li>
+               <li>
+                  <p>Filtration</p>
+               </li>
+               <li>
+                  <p>Polyvinyl chloride (PVC)</p>
+               </li>
+               <li>
+                  <p>Plumber</p>
+               </li>
+               <li>
+                  <p>Drain, waste, and vent (DWV)</p>
+               </li>
+               <li>
+                  <p>Chlorine</p>
+               </li>
+               <li>
+                  <p>Softening</p>
+               </li>
+               <li>
+                  <p>On-the-job training (OJT)</p>
+               </li>
+               <li>
+                  <p>Potable</p>
+               </li>
+               <li>
+                  <p>Model codes</p>
+               </li>
+               <li>
+                  <p>Finish </p>
+               </li>
+               <li>
+                  <p>Cross-connection</p>
+               </li>
+               <li>
+                  <p>Disinfection</p>
+               </li>
+               <li>
+                  <p>Aqueduct</p>
+               </li>
+               <li>
+                  <p>Plumbarius</p>
+               </li>
+               <li>
+                  <p>Ethics</p>
+               </li>
+               <li>
+                  <p>Backflow</p>
+               </li>
+               <li>
+                  <p>Thermoset</p>
+               </li>
+               <li>
+                  <p>Aboveground rough-in</p>
+               </li>
+               <li>
+                  <p>Thermoplastic</p>
+               </li>
+               <li>
+                  <p>Code</p>
+               </li>
+               <li>
+                  <p>Fixtures</p>
+               </li>
+               <li>
+                  <p>Plumbum</p>
+               </li>
+               <li>
+                  <p>Backflow preventer</p>
+               </li>
+               <li>
+                  <p>Plumbing</p>
+               </li>
+               <li>
+                  <p>Journey plumber</p>
+               </li>
+               <li>
+                  <p>Appurtenances</p>
+               </li>
+               <li>
+                  <p>Geothermal</p>
+               </li>
+               <li>
+                  <p>Solar hot water</p>
+               </li>
+               <li>
+                  <p>Aquifer depletion</p>
+               </li>
+               <li>
+                  <p> United States Green Building Council (USGBC) Leadership in Energy and
+                     Environmental Design (LEED) Water efficiency</p>
+               </li>
+               <li>
+                  <p>Rainwater harvesting Graywater Bioswale Reclaimed water</p>
+               </li>
+            </ol>
+         </body>
+      </topic>
+   </topic>
+</topic>
