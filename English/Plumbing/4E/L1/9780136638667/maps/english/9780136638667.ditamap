@@ -2,7 +2,7 @@
 <bookmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:noNamespaceSchemaLocation="urn:nccer:names:ncs:xsd:NCS_bookmap.xsd">
    <booktitle>
-      <mainbooktitle>Plumbing Level One – Module 02101</mainbooktitle>
+      <mainbooktitle>Plumbing Level One Module 02101</mainbooktitle>
    </booktitle>
    <bookmeta>
       <data name="coverimage" scope="external" format="jpg" href="../../graphics/web/02101_Cover.jpg"/>
