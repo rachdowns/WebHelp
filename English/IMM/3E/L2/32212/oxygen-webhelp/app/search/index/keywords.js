@@ -1,0 +1,56 @@
+define(function() {var keywords=[{w:"Industrial",p:["p0"]},{w:"Maintenance",p:["p0"]},{w:"Mechanic",p:["p0"]},{w:"Level",p:["p0"]},{w:"TwoModule",p:["p0"]},{w:"32212",p:["p0"]},{w:"Acknowledgments",p:["p1"]},{w:"NCCER",p:["p2"]},{w:"Partners",p:["p2"]},{w:"Module",p:["p3","p45"]},{w:"ID",p:["p3"]},{w:"and",p:["p3","p10","p18","p20","p22","p39","p42"]},{w:"Teaching",p:["p3"]},{w:"Time",p:["p3"]},{w:"Front",p:["p4"]},{w:"Section",p:["p5","p6","p18","p23","p31","p40"]},{w:"One1.0.0\u2002INTRODUCTION",p:["p5"]},{w:"Two2.0.0\u2002IDENTIFYING",p:["p6"]},{w:"TUBE",p:["p6","p18","p24","p25","p31","p33","p34","p35","p36","p38"]},{w:"PROBLEMS",p:["p6"]},{w:"2.1.0\u2002Condition",p:["p7"]},{w:"Assessment",p:["p7","p10"]},{w:"Examination",p:["p7"]},{w:"Methods",p:["p7"]},{w:"2.1.1\u2002Nondestructive",p:["p8"]},{w:"Examinations",p:["p8","p9"]},{w:"2.1.2\u2002Destructive",p:["p9"]},{w:"2.2.0\u2002Condition",p:["p10"]},{w:"of",p:["p10","p22","p25","p40"]},{w:"Boiler",p:["p10"]},{w:"Components",p:["p10"]},{w:"Auxiliaries",p:["p10"]},{w:"2.2.1\u2002Boiler",p:["p11"]},{w:"Tubing",p:["p11","p20"]},{w:"2.3.0\u2002Damage",p:["p12"]},{w:"Mechanisms",p:["p12"]},{w:"2.4.0\u2002Overall",p:["p13"]},{w:"Evaluation",p:["p13","p15","p16","p17"]},{w:"Program",p:["p13","p14"]},{w:"2.5.0Detailed",p:["p14"]},{w:"Inspection",p:["p14"]},{w:"2.5.1\u2002Phase",p:["p15"]},{w:"I",p:["p15"]},{w:"2.5.2\u2002Phase",p:["p16"]},{w:"II",p:["p16"]},{w:"2.5.3\u2002Phase",p:["p17"]},{w:"III",p:["p17"]},{w:"Three3.0.0\u2002TUBE",p:["p18"]},{w:"EXTRACTION,",p:["p18"]},{w:"SHEET",p:["p18","p20"]},{w:"PREPARATION,",p:["p18"]},{w:"INSTALLATION",p:["p18","p31"]},{w:"3.1.0\u2002Tubing",p:["p19"]},{w:"Extraction",p:["p19"]},{w:"3.2.0\u2002Tube",p:["p20"]},{w:"End",p:["p20"]},{w:"Hole",p:["p20"]},{w:"Preparation",p:["p20"]},{w:"3.3.0\u2002Tube",p:["p21"]},{w:"Placement",p:["p21"]},{w:"(Sticking)",p:["p21"]},{w:"3.4.0\u2002Cleanliness",p:["p22"]},{w:"the",p:["p22"]},{w:"Use",p:["p22"]},{w:"Lubricants",p:["p22"]},{w:"Four4.0.0\u2002TUBE",p:["p23"]},{w:"EXPANDING",p:["p23","p24","p25","p26"]},{w:"4.1.0\u2002Guideline",p:["p24"]},{w:"Procedures",p:["p24","p42"]},{w:"for",p:["p24","p32","p42"]},{w:"Ends",p:["p24"]},{w:"into",p:["p24"]},{w:"Headers",p:["p24","p42"]},{w:"or",p:["p24"]},{w:"Drums",p:["p24","p42"]},{w:"4.1.1\u2002Principles",p:["p25"]},{w:"4.1.2\u2002Tube",p:["p26"]},{w:"Equipment",p:["p26"]},{w:"4.1.3\u2002Over-Expanding",p:["p27"]},{w:"4.2.0\u2002Expansion",p:["p28"]},{w:"(Rolling)",p:["p28"]},{w:"General",p:["p28"]},{w:"Procedure",p:["p28"]},{w:"4.3.0\u2002Sounding",p:["p29"]},{w:"4.3.1\u2002Leaking",p:["p30"]},{w:"After",p:["p30"]},{w:"Hydro",p:["p30"]},{w:"Testing",p:["p30"]},{w:"Five5.0.0\u2002SPECIAL",p:["p31"]},{w:"5.1.0\u2002Access",p:["p32"]},{w:"Welding",p:["p32"]},{w:"5.1.1\u2002Access",p:["p33"]},{w:"to",p:["p33","p37"]},{w:"a",p:["p33","p34","p35","p36","p37","p38"]},{w:"Tangent",p:["p33","p34","p35"]},{w:"Furnace",p:["p33","p37"]},{w:"Wall",p:["p33","p34","p35","p36","p37"]},{w:"5.2.0\u2002Replacing",p:["p34"]},{w:"in",p:["p34","p35","p36","p38","p42","p45"]},{w:"Welded",p:["p34","p36","p37"]},{w:"5.3.0\u2002Replacing",p:["p35"]},{w:"Non-Welded",p:["p35"]},{w:"5.4.0\u2002Replacing",p:["p36"]},{w:"Membrane",p:["p36"]},{w:"5.4.1\u2002Access",p:["p37"]},{w:"5.5.0\u2002Replacing",p:["p38"]},{w:"Superheated",p:["p38"]},{w:"Area",p:["p38"]},{w:"5.6.0\u2002Cleaning",p:["p39"]},{w:"Removing",p:["p39"]},{w:"Foreign",p:["p39"]},{w:"Matter",p:["p39"]},{w:"Six6.0.0\u2002PLUGGING",p:["p40"]},{w:"TUBES",p:["p40","p41","p42"]},{w:"6.1.0\u2002Pluggable",p:["p41"]},{w:"6.2.0\u2002Guideline",p:["p42"]},{w:"Plugging",p:["p42"]},{w:"Rear",p:["p43"]},{w:"Review",p:["p44"]},{w:"Questions",p:["p44"]},{w:"Trade",p:["p45"]},{w:"Terms",p:["p45"]},{w:"Introduced",p:["p45"]},{w:"This",p:["p45"]},{w:"Additional",p:["p46"]},{w:"Resources",p:["p46"]},{w:"Figure",p:["p47"]},{w:"Credits",p:["p47"]},{w:"Glossary",p:["p48"]}];
+var ph={};
+ph["p10"]=[27, 21, 28, 29, 30, 11, 31];
+ph["p12"]=[34, 35];
+ph["p11"]=[32, 33];
+ph["p14"]=[39, 40, 38];
+ph["p13"]=[36, 37, 38];
+ph["p16"]=[43, 44, 37];
+ph["p15"]=[41, 42, 37];
+ph["p18"]=[15, 47, 48, 18, 49, 50, 11, 51];
+ph["p17"]=[45, 46, 37];
+ph["p19"]=[52, 53];
+ph["p21"]=[58, 59, 60];
+ph["p20"]=[54, 49, 11, 33, 55, 56, 57];
+ph["p23"]=[15, 65, 66];
+ph["p22"]=[61, 11, 62, 63, 28, 64];
+ph["p25"]=[75, 28, 18, 66];
+ph["p24"]=[67, 68, 69, 66, 18, 70, 71, 72, 73, 74];
+ph["p27"]=[78];
+ph["p26"]=[76, 66, 77];
+ph["p29"]=[83];
+ph["p28"]=[79, 80, 81, 82];
+ph["p0"]=[0, 1, 2, 3, 4, 5];
+ph["p1"]=[6];
+ph["p2"]=[7, 8];
+ph["p3"]=[9, 10, 11, 12, 13];
+ph["p4"]=[14];
+ph["p5"]=[15, 16];
+ph["p6"]=[15, 17, 18, 19];
+ph["p7"]=[20, 21, 22, 23];
+ph["p8"]=[24, 25];
+ph["p9"]=[26, 25];
+ph["p30"]=[84, 85, 86, 87];
+ph["p32"]=[89, 69, 90];
+ph["p31"]=[15, 88, 18, 51];
+ph["p34"]=[97, 93, 18, 98, 93, 99, 94, 18, 96];
+ph["p33"]=[91, 92, 93, 94, 18, 95, 96];
+ph["p36"]=[102, 93, 18, 98, 93, 103, 99, 96];
+ph["p35"]=[100, 93, 18, 98, 93, 101, 94, 18, 96];
+ph["p38"]=[105, 93, 18, 98, 93, 106, 107];
+ph["p37"]=[104, 92, 93, 99, 95, 96];
+ph["p39"]=[108, 11, 109, 110, 111];
+ph["p41"]=[114, 113];
+ph["p40"]=[15, 112, 28, 113];
+ph["p43"]=[117];
+ph["p42"]=[115, 68, 69, 116, 113, 98, 74, 11, 72];
+ph["p45"]=[120, 121, 122, 98, 123, 9];
+ph["p44"]=[118, 119];
+ph["p47"]=[126, 127];
+ph["p46"]=[124, 125];
+ph["p48"]=[128];
+     return {
+         keywords: keywords,
+         ph: ph
+     }
+});

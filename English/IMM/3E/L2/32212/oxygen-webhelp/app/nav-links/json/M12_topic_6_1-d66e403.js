@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"5.1.1 Access to a Tangent Tube Furnace Wall","href":"oxy_ex-2\/topics\/english\/M12_topic_6_1_1.html","attributes": {"data-id":"M12_topic_6_1_1",},"menu": {"hasChildren":false,},"tocID":"M12_topic_6_1_1-d66e411","topics":[]}]});

@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Two2.0.0 PRECIPITATORS","href":"oxy_ex-2\/topics\/english\/M09_topic_3_0.html","attributes": {"data-id":"M09_topic_3_0",},"menu": {"hasChildren":false,},"tocID":"M09_topic_3_0-d66e281","next":"M09_topic_3_0-d66e281",}]});

@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Three3.0.0 PULVERIZERS","href":"oxy_ex-2\/topics\/english\/M09_topic_4_0.html","attributes": {"data-id":"M09_topic_4_0",},"menu": {"hasChildren":false,},"tocID":"M09_topic_4_0-d66e394","next":"M09_topic_4_0-d66e394",}]});

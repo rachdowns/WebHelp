@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="booktitle">  <span class="ph mainbooktitle">Industrial Maintenance Mechanic Level Two – Module 32209</span>  </span></title>
+   <topic href="oxy_ex-2/topics/english/A01_topic_1.html" data-id="A01_topic_1" wh-toc-id="A01_topic_1-d66e225">
+      <title>Industrial Maintenance Mechanic Level TwoModule 32209</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1"></resourceid>
+         <navtitle class="- topic/navtitle ">Industrial Maintenance Mechanic Level TwoModule 32209</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Industrial Maintenance Mechanic Level TwoModule 32209</linktext>
+      </topicmeta>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_1.html" data-id="A01_topic_1_1" wh-toc-id="A01_topic_1_1-d66e233">
+         <title>Acknowledgments</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_1"></resourceid>
+            <navtitle class="- topic/navtitle ">Acknowledgments</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Acknowledgments</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_2.html" data-id="A01_topic_1_2" wh-toc-id="A01_topic_1_2-d66e241">
+         <title>NCCER Partners</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_2"></resourceid>
+            <navtitle class="- topic/navtitle ">NCCER Partners</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">NCCER Partners</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_3.html" data-id="A01_topic_1_3" wh-toc-id="A01_topic_1_3-d66e249">
+         <title>Module ID and Teaching Time</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_3"></resourceid>
+            <navtitle class="- topic/navtitle ">Module ID and Teaching Time</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Module ID and Teaching Time</linktext>
+         </topicmeta>
+      </topic>
+   </topic>
+   <topic href="javascript:void(0)" collection-type="family" data-id="ch09" wh-toc-id="ch09-d66e258">
+      <title>High-Presure Steam Systems and Auxiliaries</title>
+      <topic href="oxy_ex-2/topics/english/M09_topic_1_1.html" data-id="M09_topic_1_1" wh-toc-id="M09_topic_1_1-d66e259">
+         <title>Front</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_1_1"></resourceid>
+            <navtitle class="- topic/navtitle ">Front</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Front</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e267">
+         <title>Body</title>
+         <topicmeta>
+            <navtitle class="- topic/navtitle ">Body</navtitle>
+         </topicmeta>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e271">
+            <title>Section One</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_2_0.html" data-id="M09_topic_2_0" wh-toc-id="M09_topic_2_0-d66e272">
+               <title>Section One1.0.0 INTRODUCTION</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_2_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section One1.0.0 INTRODUCTION</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section One1.0.0 INTRODUCTION</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e280">
+            <title>Section Two</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_3_0.html" data-id="M09_topic_3_0" wh-toc-id="M09_topic_3_0-d66e281">
+               <title>Section Two2.0.0 PRECIPITATORS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Two2.0.0 PRECIPITATORS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Two2.0.0 PRECIPITATORS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_3_1.html" data-id="M09_topic_3_1" wh-toc-id="M09_topic_3_1-d66e289">
+                  <title>2.1.0 Electrostatic Precipitator Components</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.1.0 Electrostatic Precipitator Components</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.1.0 Electrostatic Precipitator Components</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_3_1_1.html" data-id="M09_topic_3_1_1" wh-toc-id="M09_topic_3_1_1-d66e297">
+                     <title>2.1.1 Discharge Electrodes</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.1.1 Discharge Electrodes</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.1.1 Discharge Electrodes</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_3_1_2.html" data-id="M09_topic_3_1_2" wh-toc-id="M09_topic_3_1_2-d66e305">
+                     <title>2.1.2 Collection Plates</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.1.2 Collection Plates</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.1.2 Collection Plates</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_3_1_3.html" data-id="M09_topic_3_1_3" wh-toc-id="M09_topic_3_1_3-d66e313">
+                     <title>2.1.3 Rapping System</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_1_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.1.3 Rapping System</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.1.3 Rapping System</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_3_1_4.html" data-id="M09_topic_3_1_4" wh-toc-id="M09_topic_3_1_4-d66e321">
+                     <title>2.1.4 Power Supply</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_1_4"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.1.4 Power Supply</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.1.4 Power Supply</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_3_2.html" data-id="M09_topic_3_2" wh-toc-id="M09_topic_3_2-d66e329">
+                  <title>2.2.0 Applications of an ESP</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.2.0 Applications of an ESP</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.2.0 Applications of an ESP</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_3_2_1.html" data-id="M09_topic_3_2_1" wh-toc-id="M09_topic_3_2_1-d66e337">
+                     <title>2.2.1 Utility Boilers</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_2_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.2.1 Utility Boilers</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.2.1 Utility Boilers</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_3_2_2.html" data-id="M09_topic_3_2_2" wh-toc-id="M09_topic_3_2_2-d66e345">
+                     <title>2.2.2 Industrial Boilers</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_2_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.2.2 Industrial Boilers</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.2.2 Industrial Boilers</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_3_2_3.html" data-id="M09_topic_3_2_3" wh-toc-id="M09_topic_3_2_3-d66e353">
+                     <title>2.2.3 Pulp and Paper Boilers</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_2_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.2.3 Pulp and Paper Boilers</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.2.3 Pulp and Paper Boilers</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_3_3.html" data-id="M09_topic_3_3" wh-toc-id="M09_topic_3_3-d66e361">
+                  <title>2.3.0 Wet ESP</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.3.0 Wet ESP</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.3.0 Wet ESP</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_3_4.html" data-id="M09_topic_3_4" wh-toc-id="M09_topic_3_4-d66e369">
+                  <title>2.4.0 ESP Maintenance</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.4.0 ESP Maintenance</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.4.0 ESP Maintenance</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_3_5.html" data-id="M09_topic_3_5" wh-toc-id="M09_topic_3_5-d66e377">
+                  <title>2.5.0 Tools for ESP Maintenance</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_5"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.5.0 Tools for ESP Maintenance</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.5.0 Tools for ESP Maintenance</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_3_6.html" data-id="M09_topic_3_6" wh-toc-id="M09_topic_3_6-d66e385">
+                  <title>2.6.0 Baghouse</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_3_6"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.6.0 Baghouse</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.6.0 Baghouse</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e393">
+            <title>Section Three</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_4_0.html" data-id="M09_topic_4_0" wh-toc-id="M09_topic_4_0-d66e394">
+               <title>Section Three3.0.0 PULVERIZERS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_4_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Three3.0.0 PULVERIZERS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Three3.0.0 PULVERIZERS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_4_1.html" data-id="M09_topic_4_1" wh-toc-id="M09_topic_4_1-d66e402">
+                  <title>3.1.0 Vertical Pulverizers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_4_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">3.1.0 Vertical Pulverizers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">3.1.0 Vertical Pulverizers</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_4_1_1.html" data-id="M09_topic_4_1_1" wh-toc-id="M09_topic_4_1_1-d66e410">
+                     <title>3.1.1 Pulverizer Maintenance</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_4_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.1.1 Pulverizer Maintenance</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.1.1 Pulverizer Maintenance</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_4_2.html" data-id="M09_topic_4_2" wh-toc-id="M09_topic_4_2-d66e418">
+                  <title>3.2.0 Horizontal Pulverizers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_4_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">3.2.0 Horizontal Pulverizers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">3.2.0 Horizontal Pulverizers</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_4_2_1.html" data-id="M09_topic_4_2_1" wh-toc-id="M09_topic_4_2_1-d66e426">
+                     <title>3.2.1 High-Speed Pulverizers</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_4_2_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.2.1 High-Speed Pulverizers</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.2.1 High-Speed Pulverizers</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_4_2_2.html" data-id="M09_topic_4_2_2" wh-toc-id="M09_topic_4_2_2-d66e434">
+                     <title>3.2.2 Low-Speed Pulverizers</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_4_2_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.2.2 Low-Speed Pulverizers</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.2.2 Low-Speed Pulverizers</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e442">
+            <title>Section Four</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_5_0.html" data-id="M09_topic_5_0" wh-toc-id="M09_topic_5_0-d66e443">
+               <title>Section Four4.0.0 SCRUBBERS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_5_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Four4.0.0 SCRUBBERS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Four4.0.0 SCRUBBERS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_5_1.html" data-id="M09_topic_5_1" wh-toc-id="M09_topic_5_1-d66e451">
+                  <title>4.1.0 Wet Scrubbers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_5_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.1.0 Wet Scrubbers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.1.0 Wet Scrubbers</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_5_1_1.html" data-id="M09_topic_5_1_1" wh-toc-id="M09_topic_5_1_1-d66e459">
+                     <title>4.1.1 Flue Gas Reheating</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_5_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">4.1.1 Flue Gas Reheating</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">4.1.1 Flue Gas Reheating</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_5_1_2.html" data-id="M09_topic_5_1_2" wh-toc-id="M09_topic_5_1_2-d66e467">
+                     <title>4.1.2 Flue/Stack Lining</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_5_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">4.1.2 Flue/Stack Lining</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">4.1.2 Flue/Stack Lining</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_5_2.html" data-id="M09_topic_5_2" wh-toc-id="M09_topic_5_2-d66e475">
+                  <title>4.2.0 Dry Scrubbers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_5_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.2.0 Dry Scrubbers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.2.0 Dry Scrubbers</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_5_3.html" data-id="M09_topic_5_3" wh-toc-id="M09_topic_5_3-d66e483">
+                  <title>4.3.0 Maintenance and Tools for Scrubbers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_5_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.3.0 Maintenance and Tools for Scrubbers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.3.0 Maintenance and Tools for Scrubbers</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e491">
+            <title>Section Five</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_6_0.html" data-id="M09_topic_6_0" wh-toc-id="M09_topic_6_0-d66e492">
+               <title>Section Five5.0.0 COAL FEEDERS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_6_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Five5.0.0 COAL FEEDERS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Five5.0.0 COAL FEEDERS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_6_1.html" data-id="M09_topic_6_1" wh-toc-id="M09_topic_6_1-d66e500">
+                  <title>5.1.0 Volumetric Feeders</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_6_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.1.0 Volumetric Feeders</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.1.0 Volumetric Feeders</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_6_2.html" data-id="M09_topic_6_2" wh-toc-id="M09_topic_6_2-d66e508">
+                  <title>5.2.0 Gravimetric Feeders</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_6_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.2.0 Gravimetric Feeders</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.2.0 Gravimetric Feeders</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_6_3.html" data-id="M09_topic_6_3" wh-toc-id="M09_topic_6_3-d66e516">
+                  <title>5.3.0 Feeder Maintenance and Tools</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_6_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.3.0 Feeder Maintenance and Tools</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.3.0 Feeder Maintenance and Tools</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e524">
+            <title>Section Six</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_7_0.html" data-id="M09_topic_7_0" wh-toc-id="M09_topic_7_0-d66e525">
+               <title>Section Six6.0.0 COAL CRUSHERS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_7_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Six6.0.0 COAL CRUSHERS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Six6.0.0 COAL CRUSHERS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_7_1.html" data-id="M09_topic_7_1" wh-toc-id="M09_topic_7_1-d66e533">
+                  <title>6.1.0 Rotary Breaker</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_7_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.1.0 Rotary Breaker</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.1.0 Rotary Breaker</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_7_2.html" data-id="M09_topic_7_2" wh-toc-id="M09_topic_7_2-d66e541">
+                  <title>6.2.0 Single-Roll Crusher</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_7_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.2.0 Single-Roll Crusher</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.2.0 Single-Roll Crusher</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_7_3.html" data-id="M09_topic_7_3" wh-toc-id="M09_topic_7_3-d66e549">
+                  <title>6.3.0 Double-Roll Crusher</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_7_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.3.0 Double-Roll Crusher</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.3.0 Double-Roll Crusher</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_7_4.html" data-id="M09_topic_7_4" wh-toc-id="M09_topic_7_4-d66e557">
+                  <title>6.4.0 Retention Crushers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_7_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.4.0 Retention Crushers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.4.0 Retention Crushers</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_7_5.html" data-id="M09_topic_7_5" wh-toc-id="M09_topic_7_5-d66e565">
+                  <title>6.5.0 Maintenance and Tools for Crushers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_7_5"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.5.0 Maintenance and Tools for Crushers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.5.0 Maintenance and Tools for Crushers</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e573">
+            <title>Section Seven</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_8_0.html" data-id="M09_topic_8_0" wh-toc-id="M09_topic_8_0-d66e574">
+               <title>Section Seven7.0.0 DISSOLVING TANKS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_8_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Seven7.0.0 DISSOLVING TANKS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Seven7.0.0 DISSOLVING TANKS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_8_1.html" data-id="M09_topic_8_1" wh-toc-id="M09_topic_8_1-d66e582">
+                  <title>7.1.0 Maintenance and Tools for Dissolving Tanks</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_8_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">7.1.0 Maintenance and Tools for Dissolving Tanks</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">7.1.0 Maintenance and Tools for Dissolving Tanks</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e590">
+            <title>Section Eight</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_9_0.html" data-id="M09_topic_9_0" wh-toc-id="M09_topic_9_0-d66e591">
+               <title>Section Eight8.0.0 EVAPORATORS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_9_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Eight8.0.0 EVAPORATORS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Eight8.0.0 EVAPORATORS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_9_1.html" data-id="M09_topic_9_1" wh-toc-id="M09_topic_9_1-d66e599">
+                  <title>8.1.0 Direct-Contact Evaporators</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_9_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.1.0 Direct-Contact Evaporators</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.1.0 Direct-Contact Evaporators</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_9_1_1.html" data-id="M09_topic_9_1_1" wh-toc-id="M09_topic_9_1_1-d66e607">
+                     <title>8.1.1 Cyclone Evaporators</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_9_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.1.1 Cyclone Evaporators</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.1.1 Cyclone Evaporators</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_9_1_2.html" data-id="M09_topic_9_1_2" wh-toc-id="M09_topic_9_1_2-d66e615">
+                     <title>8.1.2 Cascade Evaporators</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_9_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.1.2 Cascade Evaporators</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.1.2 Cascade Evaporators</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_9_2.html" data-id="M09_topic_9_2" wh-toc-id="M09_topic_9_2-d66e623">
+                  <title>8.2.0 Evaporator Maintenance and Tools</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_9_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.2.0 Evaporator Maintenance and Tools</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.2.0 Evaporator Maintenance and Tools</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e631">
+            <title>Section Nine</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_10_0.html" data-id="M09_topic_10_0" wh-toc-id="M09_topic_10_0-d66e632">
+               <title>Section Nine9.0.0 FANS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_10_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Nine9.0.0 FANS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Nine9.0.0 FANS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_10_1.html" data-id="M09_topic_10_1" wh-toc-id="M09_topic_10_1-d66e640">
+                  <title>9.1.0 Forced-Draft Fans</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_10_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.1.0 Forced-Draft Fans</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.1.0 Forced-Draft Fans</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_10_2.html" data-id="M09_topic_10_2" wh-toc-id="M09_topic_10_2-d66e648">
+                  <title>9.2.0 Induced-Draft Fans</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_10_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.2.0 Induced-Draft Fans</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.2.0 Induced-Draft Fans</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_10_3.html" data-id="M09_topic_10_3" wh-toc-id="M09_topic_10_3-d66e656">
+                  <title>9.3.0 Recirculation Fans</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_10_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.3.0 Recirculation Fans</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.3.0 Recirculation Fans</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_10_4.html" data-id="M09_topic_10_4" wh-toc-id="M09_topic_10_4-d66e664">
+                  <title>9.4.0 Maintenance and Tools for Fans</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_10_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.4.0 Maintenance and Tools for Fans</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.4.0 Maintenance and Tools for Fans</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e672">
+            <title>Section Ten</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_11_0.html" data-id="M09_topic_11_0" wh-toc-id="M09_topic_11_0-d66e673">
+               <title>Section Ten10.0.0 ASH HANDLING SYSTEM</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Ten10.0.0 ASH HANDLING SYSTEM</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Ten10.0.0 ASH HANDLING SYSTEM</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_11_1.html" data-id="M09_topic_11_1" wh-toc-id="M09_topic_11_1-d66e681">
+                  <title>10.1.0 Bottom Ash Handling Systems</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">10.1.0 Bottom Ash Handling Systems</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">10.1.0 Bottom Ash Handling Systems</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_11_1_1.html" data-id="M09_topic_11_1_1" wh-toc-id="M09_topic_11_1_1-d66e689">
+                     <title>10.1.1 Water-Impounded Hopper System</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.1.1 Water-Impounded Hopper System</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.1.1 Water-Impounded Hopper System</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_11_1_2.html" data-id="M09_topic_11_1_2" wh-toc-id="M09_topic_11_1_2-d66e697">
+                     <title>10.1.2 Submerged Conveyor Chain</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.1.2 Submerged Conveyor Chain</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.1.2 Submerged Conveyor Chain</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_11_1_3.html" data-id="M09_topic_11_1_3" wh-toc-id="M09_topic_11_1_3-d66e705">
+                     <title>10.1.3 Plunger Ash Extractor</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_1_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.1.3 Plunger Ash Extractor</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.1.3 Plunger Ash Extractor</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_11_2.html" data-id="M09_topic_11_2" wh-toc-id="M09_topic_11_2-d66e713">
+                  <title>10.2.0 Boiler Back Pass Ash Systems</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">10.2.0 Boiler Back Pass Ash Systems</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">10.2.0 Boiler Back Pass Ash Systems</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_11_3.html" data-id="M09_topic_11_3" wh-toc-id="M09_topic_11_3-d66e721">
+                  <title>10.3.0 Fly Ash Handling Systems</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">10.3.0 Fly Ash Handling Systems</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">10.3.0 Fly Ash Handling Systems</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_11_3_1.html" data-id="M09_topic_11_3_1" wh-toc-id="M09_topic_11_3_1-d66e729">
+                     <title>10.3.1 Pneumatic Fly Ash Conveyors</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_3_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.3.1 Pneumatic Fly Ash Conveyors</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.3.1 Pneumatic Fly Ash Conveyors</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_11_3_2.html" data-id="M09_topic_11_3_2" wh-toc-id="M09_topic_11_3_2-d66e737">
+                     <title>10.3.2 Mechanical Fly Ash Conveyors</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_3_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.3.2 Mechanical Fly Ash Conveyors</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.3.2 Mechanical Fly Ash Conveyors</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_11_4.html" data-id="M09_topic_11_4" wh-toc-id="M09_topic_11_4-d66e745">
+                  <title>10.4.0 Maintenance and Tools for Fly Ash Conveyors</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_11_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">10.4.0 Maintenance and Tools for Fly Ash Conveyors</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">10.4.0 Maintenance and Tools for Fly Ash Conveyors</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e754">
+            <title>Section Eleven</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_12_0.html" data-id="M09_topic_12_0" wh-toc-id="M09_topic_12_0-d66e755">
+               <title>Section Eleven11.0.0 STOKERS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Eleven11.0.0 STOKERS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Eleven11.0.0 STOKERS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_12_1.html" data-id="M09_topic_12_1" wh-toc-id="M09_topic_12_1-d66e763">
+                  <title>11.1.0 Underfeed Stokers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">11.1.0 Underfeed Stokers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">11.1.0 Underfeed Stokers</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_12_1_1.html" data-id="M09_topic_12_1_1" wh-toc-id="M09_topic_12_1_1-d66e771">
+                     <title>11.1.1 Horizontal Feed Side Ash Discharge</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">11.1.1 Horizontal Feed Side Ash Discharge</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">11.1.1 Horizontal Feed Side Ash Discharge</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_12_1_2.html" data-id="M09_topic_12_1_2" wh-toc-id="M09_topic_12_1_2-d66e779">
+                     <title>11.1.2 Gravity Feed Rear Ash Discharge</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">11.1.2 Gravity Feed Rear Ash Discharge</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">11.1.2 Gravity Feed Rear Ash Discharge</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_12_2.html" data-id="M09_topic_12_2" wh-toc-id="M09_topic_12_2-d66e787">
+                  <title>11.2.0 Overfeed Stokers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">11.2.0 Overfeed Stokers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">11.2.0 Overfeed Stokers</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_12_2_1.html" data-id="M09_topic_12_2_1" wh-toc-id="M09_topic_12_2_1-d66e795">
+                     <title>11.2.1 Mass Feed Stokers</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_2_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">11.2.1 Mass Feed Stokers</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">11.2.1 Mass Feed Stokers</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_12_2_2.html" data-id="M09_topic_12_2_2" wh-toc-id="M09_topic_12_2_2-d66e803">
+                     <title>11.2.2 Water-Cooled Vibrating Grate Stoker</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_2_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">11.2.2 Water-Cooled Vibrating Grate Stoker</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">11.2.2 Water-Cooled Vibrating Grate Stoker</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_12_2_3.html" data-id="M09_topic_12_2_3" wh-toc-id="M09_topic_12_2_3-d66e811">
+                     <title>11.2.3 Chain and Traveling Grate Stoker</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_2_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">11.2.3 Chain and Traveling Grate Stoker</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">11.2.3 Chain and Traveling Grate Stoker</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_12_2_4.html" data-id="M09_topic_12_2_4" wh-toc-id="M09_topic_12_2_4-d66e819">
+                     <title>11.2.4 Spreader Stoker</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_12_2_4"></resourceid>
+                        <navtitle class="- topic/navtitle ">11.2.4 Spreader Stoker</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">11.2.4 Spreader Stoker</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e827">
+            <title>Section Twelve</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_13_0.html" data-id="M09_topic_13_0" wh-toc-id="M09_topic_13_0-d66e828">
+               <title>Section Twelve12.0.0 FEEDWATER SYSTEM</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_13_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Twelve12.0.0 FEEDWATER SYSTEM</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Twelve12.0.0 FEEDWATER SYSTEM</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_13_1.html" data-id="M09_topic_13_1" wh-toc-id="M09_topic_13_1-d66e836">
+                  <title>12.1.0 Corrosion, Deposits, and Control</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_13_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">12.1.0 Corrosion, Deposits, and Control</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">12.1.0 Corrosion, Deposits, and Control</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_13_2.html" data-id="M09_topic_13_2" wh-toc-id="M09_topic_13_2-d66e844">
+                  <title>12.2.0 Demineralization</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_13_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">12.2.0 Demineralization</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">12.2.0 Demineralization</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_13_3.html" data-id="M09_topic_13_3" wh-toc-id="M09_topic_13_3-d66e852">
+                  <title>12.3.0 Condensate Polishing System</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_13_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">12.3.0 Condensate Polishing System</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">12.3.0 Condensate Polishing System</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_13_4.html" data-id="M09_topic_13_4" wh-toc-id="M09_topic_13_4-d66e860">
+                  <title>12.4.0 Feedwater Heaters</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_13_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">12.4.0 Feedwater Heaters</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">12.4.0 Feedwater Heaters</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_13_4_1.html" data-id="M09_topic_13_4_1" wh-toc-id="M09_topic_13_4_1-d66e868">
+                     <title>12.4.1 Closed Feedwater Heaters</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_13_4_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">12.4.1 Closed Feedwater Heaters</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">12.4.1 Closed Feedwater Heaters</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_13_4_2.html" data-id="M09_topic_13_4_2" wh-toc-id="M09_topic_13_4_2-d66e876">
+                     <title>12.4.2 Open Feedwater Heaters</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_13_4_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">12.4.2 Open Feedwater Heaters</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">12.4.2 Open Feedwater Heaters</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e884">
+            <title>Section Thirteen</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_14_0.html" data-id="M09_topic_14_0" wh-toc-id="M09_topic_14_0-d66e885">
+               <title>Section Thirteen13.0.0 SOOT BLOWERS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_14_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Thirteen13.0.0 SOOT BLOWERS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Thirteen13.0.0 SOOT BLOWERS</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M09_topic_14_1.html" data-id="M09_topic_14_1" wh-toc-id="M09_topic_14_1-d66e893">
+                  <title>13.1.0 Cleaning Medium</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_14_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">13.1.0 Cleaning Medium</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">13.1.0 Cleaning Medium</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M09_topic_14_2.html" data-id="M09_topic_14_2" wh-toc-id="M09_topic_14_2-d66e901">
+                  <title>13.2.0 Soot Blower Types</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_14_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">13.2.0 Soot Blower Types</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">13.2.0 Soot Blower Types</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_14_2_1.html" data-id="M09_topic_14_2_1" wh-toc-id="M09_topic_14_2_1-d66e909">
+                     <title>13.2.1 Fixed-Position Blower</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_14_2_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">13.2.1 Fixed-Position Blower</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">13.2.1 Fixed-Position Blower</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_14_2_2.html" data-id="M09_topic_14_2_2" wh-toc-id="M09_topic_14_2_2-d66e917">
+                     <title>13.2.2 Short Retractable Furnace Wall Blower</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_14_2_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">13.2.2 Short Retractable Furnace Wall Blower</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">13.2.2 Short Retractable Furnace Wall Blower</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_14_2_3.html" data-id="M09_topic_14_2_3" wh-toc-id="M09_topic_14_2_3-d66e925">
+                     <title>13.2.3 Long Retractable Blower</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_14_2_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">13.2.3 Long Retractable Blower</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">13.2.3 Long Retractable Blower</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_14_2_4.html" data-id="M09_topic_14_2_4" wh-toc-id="M09_topic_14_2_4-d66e933">
+                     <title>13.2.4 Water Lance Blower</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_14_2_4"></resourceid>
+                        <navtitle class="- topic/navtitle ">13.2.4 Water Lance Blower</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">13.2.4 Water Lance Blower</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M09_topic_14_2_5.html" data-id="M09_topic_14_2_5" wh-toc-id="M09_topic_14_2_5-d66e941">
+                     <title>13.2.5 Air Heater Blowers</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_14_2_5"></resourceid>
+                        <navtitle class="- topic/navtitle ">13.2.5 Air Heater Blowers</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">13.2.5 Air Heater Blowers</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e949">
+            <title>Section Fourteen</title>
+            <topic href="oxy_ex-2/topics/english/M09_topic_15_0.html" data-id="M09_topic_15_0" wh-toc-id="M09_topic_15_0-d66e950">
+               <title>Section Fourteen14.0.0 BLOWDOWN TANKS</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_15_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Fourteen14.0.0 BLOWDOWN TANKS</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Fourteen14.0.0 BLOWDOWN TANKS</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/M09_topic_16.html" data-id="M09_topic_16" wh-toc-id="M09_topic_16-d66e958">
+         <title>Rear</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_16"></resourceid><?ditaot gentext?>
+            <linktext class="- map/linktext ">Rear</linktext>
+         </topicmeta>
+         <topic href="oxy_ex-2/topics/english/M09_topic_16_1.html" data-id="M09_topic_16_1" wh-toc-id="M09_topic_16_1-d66e964">
+            <title>Review Questions</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_16_1"></resourceid>
+               <navtitle class="- topic/navtitle ">Review Questions</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Review Questions</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M09_topic_16_1_1.html" data-id="M09_topic_16_1_1" wh-toc-id="M09_topic_16_1_1-d66e972">
+            <title>Trade Terms Introduced in This Module</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_16_1_1"></resourceid>
+               <navtitle class="- topic/navtitle ">Trade Terms Introduced in This Module</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Trade Terms Introduced in This Module</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M09_topic_16_1_2.html" data-id="M09_topic_16_1_2" wh-toc-id="M09_topic_16_1_2-d66e980">
+            <title>Additional Resources</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_16_1_2"></resourceid>
+               <navtitle class="- topic/navtitle ">Additional Resources</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Additional Resources</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M09_topic_16_1_3.html" data-id="M09_topic_16_1_3" wh-toc-id="M09_topic_16_1_3-d66e988">
+            <title>Figure Credits</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M09_topic_16_1_3"></resourceid>
+               <navtitle class="- topic/navtitle ">Figure Credits</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Figure Credits</linktext>
+            </topicmeta>
+         </topic>
+      </topic>
+   </topic>
+   <topic href="oxy_ex-2/topics/english/gloss_topic_1.html" data-id="gloss_topic_1" wh-toc-id="gloss_topic_1-d66e998">
+      <title>Glossary</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="gloss_topic_1"></resourceid>
+         <navtitle class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Glossary</linktext>
+      </topicmeta>
+   </topic>
+</toc>

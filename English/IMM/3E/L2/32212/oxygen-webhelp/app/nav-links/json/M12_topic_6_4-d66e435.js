@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"5.4.1 Access to a Welded Furnace Wall","href":"oxy_ex-2\/topics\/english\/M12_topic_6_4_1.html","attributes": {"data-id":"M12_topic_6_4_1",},"menu": {"hasChildren":false,},"tocID":"M12_topic_6_4_1-d66e443","topics":[]}]});

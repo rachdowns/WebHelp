@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Six6.0.0 HYDRAULIC TORQUING AND TENSIONING","href":"oxy_ex-2\/topics\/english\/M01_topic_7_0.html","attributes": {"data-id":"M01_topic_7_0",},"menu": {"hasChildren":false,},"tocID":"M01_topic_7_0-d66e554","next":"M01_topic_7_0-d66e554",}]});
