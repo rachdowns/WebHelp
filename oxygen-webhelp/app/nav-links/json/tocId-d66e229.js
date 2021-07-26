@@ -1,1 +1,0 @@
-define({"topics" : [{"title":"Section Six6.0.0 Responsibilities of the Employee","href":"oxy_ex-2\/topics\/english\/M01_topic_7_0.html","attributes": {"data-id":"M01_topic_7_0",},"menu": {"hasChildren":false,},"tocID":"M01_topic_7_0-d66e230","next":"M01_topic_7_0-d66e230",}]});
