@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<map xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-     title="A01 Web Graphic Keyrefs"
-     xsi:noNamespaceSchemaLocation="urn:oasis:names:tc:dita:xsd:map.xsd">
-   <keydef keys="Business_Partners" href="../../graphics/web/Business_Partners.jpg"
-           format="pdf"/>
-</map>

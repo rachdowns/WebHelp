@@ -1,9 +1,0 @@
-     [echo] Running dita2lpword-2-ncs-ld...
-
-lppostprocesstopics:
-     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/lpword2dita/LP/resultDocsFixedUp.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/lpword2dita/LP/topics/temp/resultDocsFixedUp.xml
-     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.lpword2ncs/xsl/ncspostproc.xsl
-     [xslt] Processing /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/lpword2dita/LP/topics/temp/resultDocsFixedUp.xml to /Users/jmckay/Documents/Content/ncs_content/9780130210100/topics/english/LP_02101_src.xml
-     [xslt] Loading stylesheet /Applications/Oxygen XML Editor/frameworks/dita/DITA-OT2.x/plugins/com.nccer.ld.lpword2ncs/xsl/ncsfinalpass.xsl
-   [delete] Deleting directory /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/lpword2dita/LP/topics/temp
-   [delete] Deleting: /Users/jmckay/Documents/Content/ncs_content/9780130210100/out/lpword2dita/LP/.ditamap
