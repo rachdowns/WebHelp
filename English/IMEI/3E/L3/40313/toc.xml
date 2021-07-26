@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="booktitle">  <span class="ph mainbooktitle">Industrial Maintenance Electrical and Instrumentation Technician Level Three – Module 40313</span>  </span></title>
+   <topicmeta>
+      
+      <data class="- topic/data " format="jpg" href="../../graphics/web/EF_T3_40313_7-1.jpg" name="coverimage" scope="external"></data>
+      
+   </topicmeta>
+   <topic href="oxy_ex-2/topics/english/A01_topic_1.html" data-id="topic_ys5_gwv_5pb" wh-toc-id="topic_ys5_gwv_5pb-d66e148">
+      <title>Industrial Maintenance Electrical and Instrumentation Technician Level ThreeModule 40313</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="topic_ys5_gwv_5pb"></resourceid>
+         <navtitle class="- topic/navtitle ">Industrial Maintenance Electrical and Instrumentation Technician Level ThreeModule 40313</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Industrial Maintenance Electrical and Instrumentation Technician Level ThreeModule 40313</linktext>
+      </topicmeta>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_1.html" data-id="A01_topic_1_1" wh-toc-id="A01_topic_1_1-d66e156">
+         <title>Acknowledgments</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_1"></resourceid>
+            <navtitle class="- topic/navtitle ">Acknowledgments</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Acknowledgments</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_2.html" data-id="A01_topic_1_2" wh-toc-id="A01_topic_1_2-d66e164">
+         <title>NCCER Partners</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_2"></resourceid>
+            <navtitle class="- topic/navtitle ">NCCER Partners</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">NCCER Partners</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_3.html" data-id="A01_topic_1_3" wh-toc-id="A01_topic_1_3-d66e172">
+         <title>Module ID and Teaching Time</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_3"></resourceid>
+            <navtitle class="- topic/navtitle ">Module ID and Teaching Time</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Module ID and Teaching Time</linktext>
+         </topicmeta>
+      </topic>
+   </topic>
+   <topic href="javascript:void(0)" collection-type="family" data-id="ch13" wh-toc-id="ch13-d66e181">
+      <title>Motor-Operated Valves</title>
+      <topic href="oxy_ex-2/topics/english/M13_topic_1_1.html" data-id="M13_topic_1_1" wh-toc-id="M13_topic_1_1-d66e183">
+         <title>Front</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_1_1"></resourceid>
+            <navtitle class="- topic/navtitle ">Front</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Front</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e191">
+         <title>Body</title>
+         <topicmeta>
+            <navtitle class="- topic/navtitle ">Body</navtitle>
+         </topicmeta>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e195">
+            <title>Section One</title>
+            <topic href="oxy_ex-2/topics/english/M13_topic_2_0.html" data-id="M13_topic_2_0" wh-toc-id="M13_topic_2_0-d66e196">
+               <title>Section One1.0.0 Introduction</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_2_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section One1.0.0 Introduction</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section One1.0.0 Introduction</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e204">
+            <title>Section Two</title>
+            <topic href="oxy_ex-2/topics/english/M13_topic_3_0.html" data-id="M13_topic_3_0" wh-toc-id="M13_topic_3_0-d66e205">
+               <title>Section Two2.0.0 MOV Safety Issues</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_3_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Two2.0.0 MOV Safety Issues</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Two2.0.0 MOV Safety Issues</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M13_topic_3_1.html" data-id="M13_topic_3_1" wh-toc-id="M13_topic_3_1-d66e213">
+                  <title>2.1.0 Hazardous Atmospheres</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_3_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.1.0 Hazardous Atmospheres</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.1.0 Hazardous Atmospheres</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_3_2.html" data-id="M13_topic_3_2" wh-toc-id="M13_topic_3_2-d66e221">
+                  <title>2.2.0 Emergency Shutdowns</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_3_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.2.0 Emergency Shutdowns</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.2.0 Emergency Shutdowns</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_3_3.html" data-id="M13_topic_3_3" wh-toc-id="M13_topic_3_3-d66e229">
+                  <title>2.3.0 MOV Operation Control</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_3_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.3.0 MOV Operation Control</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.3.0 MOV Operation Control</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e237">
+            <title>Section Three</title>
+            <topic href="oxy_ex-2/topics/english/M13_topic_4_0.html" data-id="M13_topic_4_0" wh-toc-id="M13_topic_4_0-d66e238">
+               <title>Section Three3.0.0 Types of MOVs</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Three3.0.0 Types of MOVs</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Three3.0.0 Types of MOVs</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M13_topic_4_1.html" data-id="M13_topic_4_1" wh-toc-id="M13_topic_4_1-d66e246">
+                  <title>3.1.0 Actuator Gearing</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">3.1.0 Actuator Gearing</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">3.1.0 Actuator Gearing</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_1_1.html" data-id="M13_topic_4_1_1" wh-toc-id="M13_topic_4_1_1-d66e254">
+                     <title>3.1.1 Worm-Gear Actuators</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.1.1 Worm-Gear Actuators</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.1.1 Worm-Gear Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_1_2.html" data-id="M13_topic_4_1_2" wh-toc-id="M13_topic_4_1_2-d66e262">
+                     <title>3.1.2 Bevel-Gear Actuators</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.1.2 Bevel-Gear Actuators</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.1.2 Bevel-Gear Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_1_3.html" data-id="M13_topic_4_1_3" wh-toc-id="M13_topic_4_1_3-d66e270">
+                     <title>3.1.3 Variable-Reduction Actuators</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_1_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.1.3 Variable-Reduction Actuators</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.1.3 Variable-Reduction Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_4_2.html" data-id="M13_topic_4_2" wh-toc-id="M13_topic_4_2-d66e278">
+                  <title>3.2.0 Pneumatic and Hydraulic Actuators</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">3.2.0 Pneumatic and Hydraulic Actuators</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">3.2.0 Pneumatic and Hydraulic Actuators</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_2_1.html" data-id="M13_topic_4_2_1" wh-toc-id="M13_topic_4_2_1-d66e286">
+                     <title>3.2.1 Gas Actuators </title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_2_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.2.1 Gas Actuators </navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.2.1 Gas Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_2_2.html" data-id="M13_topic_4_2_2" wh-toc-id="M13_topic_4_2_2-d66e294">
+                     <title>3.2.2 Rotary Vane Actuators</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_2_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.2.2 Rotary Vane Actuators</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.2.2 Rotary Vane Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_2_3.html" data-id="M13_topic_4_2_3" wh-toc-id="M13_topic_4_2_3-d66e302">
+                     <title>3.2.3 Double-Cylinder Hydraulic Actuators </title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_2_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.2.3 Double-Cylinder Hydraulic Actuators </navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.2.3 Double-Cylinder Hydraulic Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_2_4.html" data-id="M13_topic_4_2_4" wh-toc-id="M13_topic_4_2_4-d66e310">
+                     <title>3.2.4 Electro-Hydraulic Actuators </title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_2_4"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.2.4 Electro-Hydraulic Actuators </navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.2.4 Electro-Hydraulic Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_2_5.html" data-id="M13_topic_4_2_5" wh-toc-id="M13_topic_4_2_5-d66e318">
+                     <title>3.2.5 Pneumatic Rack and Pinion Actuators</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_2_5"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.2.5 Pneumatic Rack and Pinion Actuators</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.2.5 Pneumatic Rack and Pinion Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M13_topic_4_2_6.html" data-id="M13_topic_4_2_6" wh-toc-id="M13_topic_4_2_6-d66e326">
+                     <title>3.2.6 Pneumatic Fail-Safe Actuators</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_4_2_6"></resourceid>
+                        <navtitle class="- topic/navtitle ">3.2.6 Pneumatic Fail-Safe Actuators</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">3.2.6 Pneumatic Fail-Safe Actuators</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e334">
+            <title>Section Four</title>
+            <topic href="oxy_ex-2/topics/english/M13_topic_5_0.html" data-id="M13_topic_5_0" wh-toc-id="M13_topic_5_0-d66e335">
+               <title>Section Four4.0.0 Setup Activities for MOVs </title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Four4.0.0 Setup Activities for MOVs </navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Four4.0.0 Setup Activities for MOVs</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M13_topic_5_1.html" data-id="M13_topic_5_1" wh-toc-id="M13_topic_5_1-d66e343">
+                  <title>4.1.0 Initial Installation</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.1.0 Initial Installation</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.1.0 Initial Installation</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_5_2.html" data-id="M13_topic_5_2" wh-toc-id="M13_topic_5_2-d66e351">
+                  <title>4.2.0 Verifying Pneumatic and Hydraulic MOV Controls</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.2.0 Verifying Pneumatic and Hydraulic MOV Controls</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.2.0 Verifying Pneumatic and Hydraulic MOV Controls</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_5_3.html" data-id="M13_topic_5_3" wh-toc-id="M13_topic_5_3-d66e359">
+                  <title>4.3.0 Verifying Electrical MOV Controls</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.3.0 Verifying Electrical MOV Controls</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.3.0 Verifying Electrical MOV Controls</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_5_4.html" data-id="M13_topic_5_4" wh-toc-id="M13_topic_5_4-d66e367">
+                  <title>4.4.0 Test Operating Electrical MOVs</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.4.0 Test Operating Electrical MOVs</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.4.0 Test Operating Electrical MOVs</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_5_5.html" data-id="M13_topic_5_5" wh-toc-id="M13_topic_5_5-d66e375">
+                  <title>4.5.0 Inspecting Electrical MOV Cams and Limit Switches</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_5"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.5.0 Inspecting Electrical MOV Cams and Limit Switches</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.5.0 Inspecting Electrical MOV Cams and Limit Switches</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_5_6.html" data-id="M13_topic_5_6" wh-toc-id="M13_topic_5_6-d66e383">
+                  <title>4.6.0 Adjusting Electrical MOV Cams and Limit Switches</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_6"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.6.0 Adjusting Electrical MOV Cams and Limit Switches</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.6.0 Adjusting Electrical MOV Cams and Limit Switches</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_5_7.html" data-id="M13_topic_5_7" wh-toc-id="M13_topic_5_7-d66e391">
+                  <title>4.7.0 Removing Switching Assemblies</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_7"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.7.0 Removing Switching Assemblies</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.7.0 Removing Switching Assemblies</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M13_topic_5_8.html" data-id="M13_topic_5_8" wh-toc-id="M13_topic_5_8-d66e399">
+                  <title>4.8.0 Replacing Switching Assemblies</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_5_8"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.8.0 Replacing Switching Assemblies</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.8.0 Replacing Switching Assemblies</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/M13_topic_6.html" data-id="M13_topic_6" wh-toc-id="M13_topic_6-d66e407">
+         <title>Rear</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_6"></resourceid>
+            <navtitle class="- topic/navtitle ">Rear</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Rear</linktext>
+         </topicmeta>
+         <topic href="oxy_ex-2/topics/english/M13_topic_6_1.html" data-id="M13_topic_6_1" wh-toc-id="M13_topic_6_1-d66e415">
+            <title>Review Questions</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_6_1"></resourceid>
+               <navtitle class="- topic/navtitle ">Review Questions</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Review Questions</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M13_topic_6_1_1.html" data-id="M13_topic_6_1_1" wh-toc-id="M13_topic_6_1_1-d66e423">
+            <title>Trade Terms Introduced in This Module</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_6_1_1"></resourceid>
+               <navtitle class="- topic/navtitle ">Trade Terms Introduced in This Module</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Trade Terms Introduced in This Module</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M13_topic_6_1_2.html" data-id="M13_topic_6_1_2" wh-toc-id="M13_topic_6_1_2-d66e431">
+            <title>Additional Resources</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_6_1_2"></resourceid>
+               <navtitle class="- topic/navtitle ">Additional Resources</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Additional Resources</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M13_topic_6_1_3.html" data-id="M13_topic_6_1_3" wh-toc-id="M13_topic_6_1_3-d66e439">
+            <title>Figure Credits</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M13_topic_6_1_3"></resourceid>
+               <navtitle class="- topic/navtitle ">Figure Credits</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Figure Credits</linktext>
+            </topicmeta>
+         </topic>
+      </topic>
+   </topic>
+   <topic href="oxy_ex-2/topics/english/gloss_topic_1.html" data-id="gloss_topic_1" wh-toc-id="gloss_topic_1-d66e449">
+      <title>Glossary</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="gloss_topic_1"></resourceid>
+         <navtitle class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Glossary</linktext>
+      </topicmeta>
+   </topic>
+</toc>

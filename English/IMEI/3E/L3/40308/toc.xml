@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="booktitle">  <span class="ph mainbooktitle">Industrial Maintenance Electrical and Instrumentation Technician Level Three – Module 40308</span>  </span></title>
+   <topic href="oxy_ex-2/topics/english/A01_topic_1.html" data-id="A01_topic_1" wh-toc-id="A01_topic_1-d66e138">
+      <title>Industrial Maintenance Electrical and Instrumentation Technician Level ThreeModule 40308</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1"></resourceid>
+         <navtitle class="- topic/navtitle ">Industrial Maintenance Electrical and Instrumentation Technician Level ThreeModule 40308</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Industrial Maintenance Electrical and Instrumentation Technician Level ThreeModule 40308</linktext>
+      </topicmeta>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_1.html" data-id="A01_topic_1_1" wh-toc-id="A01_topic_1_1-d66e146">
+         <title>Acknowledgments</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_1"></resourceid>
+            <navtitle class="- topic/navtitle ">Acknowledgments</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Acknowledgments</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_2.html" data-id="A01_topic_1_2" wh-toc-id="A01_topic_1_2-d66e154">
+         <title>NCCER Partners</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_2"></resourceid>
+            <navtitle class="- topic/navtitle ">NCCER Partners</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">NCCER Partners</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_3.html" data-id="A01_topic_1_3" wh-toc-id="A01_topic_1_3-d66e162">
+         <title>Module ID and Teaching Time</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_3"></resourceid>
+            <navtitle class="- topic/navtitle ">Module ID and Teaching Time</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Module ID and Teaching Time</linktext>
+         </topicmeta>
+      </topic>
+   </topic>
+   <topic href="javascript:void(0)" collection-type="family" data-id="ch08" wh-toc-id="ch08-d66e171">
+      <title>Temporary Grounding</title>
+      <topic href="oxy_ex-2/topics/english/M08_topic_1_1.html" data-id="M08_topic_1_1" wh-toc-id="M08_topic_1_1-d66e172">
+         <title>Front</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_1_1"></resourceid>
+            <navtitle class="- topic/navtitle ">Front</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Front</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e180">
+         <title>Body</title>
+         <topicmeta>
+            <navtitle class="- topic/navtitle ">Body</navtitle>
+         </topicmeta>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e184">
+            <title>Section One</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_2_0.html" data-id="M08_topic_2_0" wh-toc-id="M08_topic_2_0-d66e185">
+               <title>Section One1.0.0 Introduction</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_2_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section One1.0.0 Introduction</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section One1.0.0 Introduction</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e193">
+            <title>Section Two</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_3_0.html" data-id="M08_topic_3_0" wh-toc-id="M08_topic_3_0-d66e194">
+               <title>Section Two2.0.0 Electrical Safety Analyses</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_3_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Two2.0.0 Electrical Safety Analyses</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Two2.0.0 Electrical Safety Analyses</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e202">
+            <title>Section Three</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_4_0.html" data-id="M08_topic_4_0" wh-toc-id="M08_topic_4_0-d66e203">
+               <title>Section Three3.0.0 Purpose of Temporary Grounding</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_4_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Three3.0.0 Purpose of Temporary Grounding</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Three3.0.0 Purpose of Temporary Grounding</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e211">
+            <title>Section Four</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_5_0.html" data-id="M08_topic_5_0" wh-toc-id="M08_topic_5_0-d66e212">
+               <title>Section Four4.0.0 Temporary Grounding Terms</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_5_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Four4.0.0 Temporary Grounding Terms</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Four4.0.0 Temporary Grounding Terms</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e220">
+            <title>Section Five</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_6_0.html" data-id="M08_topic_6_0" wh-toc-id="M08_topic_6_0-d66e221">
+               <title>Section Five5.0.0 Sources of Hazardous Energy</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Five5.0.0 Sources of Hazardous Energy</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Five5.0.0 Sources of Hazardous Energy</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_1.html" data-id="M08_topic_6_1" wh-toc-id="M08_topic_6_1-d66e229">
+                  <title>5.1.0 Stored Energy</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.1.0 Stored Energy</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.1.0 Stored Energy</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_2.html" data-id="M08_topic_6_2" wh-toc-id="M08_topic_6_2-d66e237">
+                  <title>5.2.0 Static Buildup</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.2.0 Static Buildup</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.2.0 Static Buildup</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_3.html" data-id="M08_topic_6_3" wh-toc-id="M08_topic_6_3-d66e245">
+                  <title>5.3.0 Backfeeding</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.3.0 Backfeeding</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.3.0 Backfeeding</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_4.html" data-id="M08_topic_6_4" wh-toc-id="M08_topic_6_4-d66e253">
+                  <title>5.4.0 Faulted Equipment</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.4.0 Faulted Equipment</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.4.0 Faulted Equipment</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_5.html" data-id="M08_topic_6_5" wh-toc-id="M08_topic_6_5-d66e261">
+                  <title>5.5.0 Induced-Voltage Areas</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_5"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.5.0 Induced-Voltage Areas</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.5.0 Induced-Voltage Areas</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_6.html" data-id="M08_topic_6_6" wh-toc-id="M08_topic_6_6-d66e269">
+                  <title>5.6.0 High-Voltage Testing</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_6"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.6.0 High-Voltage Testing</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.6.0 High-Voltage Testing</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e277">
+            <title>Section Six</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_7_0.html" data-id="M08_topic_7_0" wh-toc-id="M08_topic_7_0-d66e278">
+               <title>Section Six6.0.0 Temporary Grounding Preparations</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_7_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Six6.0.0 Temporary Grounding Preparations</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Six6.0.0 Temporary Grounding Preparations</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e286">
+            <title>Section Seven</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_8_0.html" data-id="M08_topic_8_0" wh-toc-id="M08_topic_8_0-d66e287">
+               <title>Section Seven7.0.0 Requirements for Temporary Grounding Devices</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_8_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Seven7.0.0 Requirements for Temporary Grounding Devices</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Seven7.0.0 Requirements for Temporary Grounding Devices</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_8_1.html" data-id="M08_topic_8_1" wh-toc-id="M08_topic_8_1-d66e295">
+                  <title>7.1.0 General Requirements</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_8_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">7.1.0 General Requirements</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">7.1.0 General Requirements</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_8_2.html" data-id="M08_topic_8_2" wh-toc-id="M08_topic_8_2-d66e303">
+                  <title>7.2.0 Specific Requirements</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_8_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">7.2.0 Specific Requirements</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">7.2.0 Specific Requirements</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_8_3.html" data-id="M08_topic_8_3" wh-toc-id="M08_topic_8_3-d66e311">
+                  <title>7.3.0 Installation Requirements</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_8_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">7.3.0 Installation Requirements</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">7.3.0 Installation Requirements</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e319">
+            <title>Section Eight</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_9_0.html" data-id="M08_topic_9_0" wh-toc-id="M08_topic_9_0-d66e320">
+               <title>Section Eight8.0.0 Selection and Installation of Temporary Grounding Devices</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Eight8.0.0 Selection and Installation of Temporary Grounding Devices</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Eight8.0.0 Selection and Installation of Temporary Grounding Devices</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_1.html" data-id="M08_topic_9_1" wh-toc-id="M08_topic_9_1-d66e328">
+                  <title>8.1.0 Ground Cable Assemblies</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.1.0 Ground Cable Assemblies</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.1.0 Ground Cable Assemblies</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_2.html" data-id="M08_topic_9_2" wh-toc-id="M08_topic_9_2-d66e336">
+                  <title>8.2.0 Insulation Devices</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.2.0 Insulation Devices</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.2.0 Insulation Devices</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_3.html" data-id="M08_topic_9_3" wh-toc-id="M08_topic_9_3-d66e344">
+                  <title>8.3.0 Specialized Grounding and Testing Devices</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.3.0 Specialized Grounding and Testing Devices</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.3.0 Specialized Grounding and Testing Devices</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_4.html" data-id="M08_topic_9_4" wh-toc-id="M08_topic_9_4-d66e352">
+                  <title>8.4.0 Evaluating Ground Cable Assemblies</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.4.0 Evaluating Ground Cable Assemblies</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.4.0 Evaluating Ground Cable Assemblies</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_4_1.html" data-id="M08_topic_9_4_1" wh-toc-id="M08_topic_9_4_1-d66e360">
+                     <title>8.4.1 Cables</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_4_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.4.1 Cables</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.4.1 Cables</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_4_2.html" data-id="M08_topic_9_4_2" wh-toc-id="M08_topic_9_4_2-d66e368">
+                     <title>8.4.2 Ferrules and Clamps</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_4_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.4.2 Ferrules and Clamps</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.4.2 Ferrules and Clamps</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_5.html" data-id="M08_topic_9_5" wh-toc-id="M08_topic_9_5-d66e376">
+                  <title>8.5.0 Evaluating Hot Sticks and Attachments</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_5"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.5.0 Evaluating Hot Sticks and Attachments</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.5.0 Evaluating Hot Sticks and Attachments</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_6.html" data-id="M08_topic_9_6" wh-toc-id="M08_topic_9_6-d66e384">
+                  <title>8.6.0 Ground Tester Equipment</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_6"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.6.0 Ground Tester Equipment</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.6.0 Ground Tester Equipment</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e392">
+            <title>Section Nine</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_10_0.html" data-id="M08_topic_10_0" wh-toc-id="M08_topic_10_0-d66e393">
+               <title>Section Nine9.0.0 Installing and Removing Temporary Grounding Devices</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Nine9.0.0 Installing and Removing Temporary Grounding Devices</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Nine9.0.0 Installing and Removing Temporary Grounding Devices</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_1.html" data-id="M08_topic_10_1" wh-toc-id="M08_topic_10_1-d66e401">
+                  <title>9.1.0 Installation of Temporary Grounding Devices</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.1.0 Installation of Temporary Grounding Devices</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.1.0 Installation of Temporary Grounding Devices</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_2.html" data-id="M08_topic_10_2" wh-toc-id="M08_topic_10_2-d66e409">
+                  <title>9.2.0 Removing PPGs</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.2.0 Removing PPGs</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.2.0 Removing PPGs</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/M08_topic_11.html" data-id="M08_topic_11" wh-toc-id="M08_topic_11-d66e417">
+         <title>Rear</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11"></resourceid>
+            <navtitle class="- topic/navtitle ">Rear</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Rear</linktext>
+         </topicmeta>
+         <topic href="oxy_ex-2/topics/english/M08_topic_11_1.html" data-id="M08_topic_11_1" wh-toc-id="M08_topic_11_1-d66e425">
+            <title>Review Questions</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_1"></resourceid>
+               <navtitle class="- topic/navtitle ">Review Questions</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Review Questions</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M08_topic_11_1_1.html" data-id="M08_topic_11_1_1" wh-toc-id="M08_topic_11_1_1-d66e433">
+            <title>Trade Terms Introduced in This Module</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_1_1"></resourceid>
+               <navtitle class="- topic/navtitle ">Trade Terms Introduced in This Module</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Trade Terms Introduced in This Module</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M08_topic_11_1_2.html" data-id="M08_topic_11_1_2" wh-toc-id="M08_topic_11_1_2-d66e441">
+            <title>Additional Resources</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_1_2"></resourceid>
+               <navtitle class="- topic/navtitle ">Additional Resources</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Additional Resources</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M08_topic_11_1_3.html" data-id="M08_topic_11_1_3" wh-toc-id="M08_topic_11_1_3-d66e449">
+            <title>Figure Credits</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_1_3"></resourceid>
+               <navtitle class="- topic/navtitle ">Figure Credits</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Figure Credits</linktext>
+            </topicmeta>
+         </topic>
+      </topic>
+   </topic>
+   <topic href="oxy_ex-2/topics/english/gloss_topic_1.html" data-id="gloss_topic_1" wh-toc-id="gloss_topic_1-d66e459">
+      <title>Glossary</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="gloss_topic_1"></resourceid>
+         <navtitle class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Glossary</linktext>
+      </topicmeta>
+   </topic>
+</toc>

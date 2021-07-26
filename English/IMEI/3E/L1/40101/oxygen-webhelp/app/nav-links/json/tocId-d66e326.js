@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Eight8.0.0 Employer and Employee Safety Obligations","href":"oxy_ex-2\/topics\/english\/M01_topic_9_0.html","attributes": {"data-id":"M01_topic_9_0",},"menu": {"hasChildren":false,},"tocID":"M01_topic_9_0-d66e327","next":"M01_topic_9_0-d66e327",}]});

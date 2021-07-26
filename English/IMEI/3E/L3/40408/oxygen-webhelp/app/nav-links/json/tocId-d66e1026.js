@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Fifteen15.0.0 Cable Testing","href":"oxy_ex-2\/topics\/english\/M08_topic_16_0.html","attributes": {"data-id":"M08_topic_16_0",},"menu": {"hasChildren":false,},"tocID":"M08_topic_16_0-d66e1027","topics":[]}]});

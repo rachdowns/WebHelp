@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Seven7.0.0 Human Relations","href":"oxy_ex-2\/topics\/english\/M01_topic_8_0.html","attributes": {"data-id":"M01_topic_8_0",},"menu": {"hasChildren":false,},"tocID":"M01_topic_8_0-d66e286","next":"M01_topic_8_0-d66e286",}]});

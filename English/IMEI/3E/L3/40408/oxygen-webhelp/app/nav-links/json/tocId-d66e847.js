@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Twelve12.0.0 Bridges, Routers, and Gateways","href":"oxy_ex-2\/topics\/english\/M08_topic_13_0.html","attributes": {"data-id":"M08_topic_13_0",},"menu": {"hasChildren":false,},"tocID":"M08_topic_13_0-d66e848","next":"M08_topic_13_0-d66e848",}]});

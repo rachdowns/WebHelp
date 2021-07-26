@@ -1,0 +1,53 @@
+define(function() {var keywords=[{w:"Industrial",p:["p0","p16","p17"]},{w:"Maintenance",p:["p0","p16","p17"]},{w:"Electrical",p:["p0"]},{w:"and",p:["p0","p3","p20","p34","p35","p39","p42"]},{w:"Instrumentation",p:["p0"]},{w:"Technician",p:["p0"]},{w:"Level",p:["p0"]},{w:"OneModule",p:["p0"]},{w:"40101",p:["p0"]},{w:"Acknowledgments",p:["p1"]},{w:"NCCER",p:["p2"]},{w:"Partners",p:["p2"]},{w:"Module",p:["p3","p11"]},{w:"ID",p:["p3"]},{w:"Teaching",p:["p3"]},{w:"Time",p:["p3"]},{w:"Section",p:["p4","p5","p15","p16","p17","p23","p26","p27","p37","p42"]},{w:"Nine9.0.0\u2003Tools",p:["p4"]},{w:"Ten10.0.0\u2003Your",p:["p5"]},{w:"Training",p:["p5"]},{w:"Program",p:["p5","p6"]},{w:"10.1.0\u2003Apprenticeship",p:["p6"]},{w:"10.1.1",p:["p7"]},{w:"Apprenticeship",p:["p7"]},{w:"Standards",p:["p7"]},{w:"10.1.2",p:["p8"]},{w:"Child",p:["p8"]},{w:"Labor",p:["p8"]},{w:"Laws",p:["p8"]},{w:"Rear",p:["p9"]},{w:"Review",p:["p10"]},{w:"Questions",p:["p10"]},{w:"Trade",p:["p11","p17"]},{w:"Terms",p:["p11"]},{w:"Introduced",p:["p11"]},{w:"in",p:["p11"]},{w:"This",p:["p11"]},{w:"Appendix",p:["p12"]},{w:"Additional",p:["p13"]},{w:"Resources",p:["p13"]},{w:"Front",p:["p14"]},{w:"One1.0.0\u2003Introduction",p:["p15"]},{w:"Two2.0.0\u2003A",p:["p16"]},{w:"Brief",p:["p16"]},{w:"History",p:["p16"]},{w:"of",p:["p16","p27"]},{w:"Three3.0.0\u2003The",p:["p17"]},{w:"3.1.0\u2003Working",p:["p18"]},{w:"Conditions",p:["p18"]},{w:"3.2.0\u2003Employment",p:["p19"]},{w:"3.3.0\u2003Training,",p:["p20"]},{w:"Other",p:["p20"]},{w:"Qualifications,",p:["p20"]},{w:"Advancement",p:["p20"]},{w:"3.4.0\u2003Job",p:["p21"]},{w:"Outlook",p:["p21"]},{w:"3.5.0\u2003Related",p:["p22"]},{w:"Occupations",p:["p22"]},{w:"Four4.0.0\u2003Coordinating",p:["p23"]},{w:"with",p:["p23"]},{w:"the",p:["p23","p27"]},{w:"Construction",p:["p23"]},{w:"Industry",p:["p23"]},{w:"4.1.0\u2003NCCER",p:["p24"]},{w:"4.2.0\u2003NCCER\u2019s",p:["p25"]},{w:"Registry",p:["p25"]},{w:"Five5.0.0\u2003Industrial",p:["p26"]},{w:"Craftworker",p:["p26"]},{w:"Career",p:["p26"]},{w:"Paths",p:["p26"]},{w:"Six6.0.0\u2003Responsibilities",p:["p27"]},{w:"Employee",p:["p27","p42"]},{w:"6.1.0\u2003Professionalism",p:["p28"]},{w:"6.2.0\u2003Honesty",p:["p29"]},{w:"6.3.0\u2003Loyalty",p:["p30"]},{w:"6.4.0\u2003Willingness",p:["p31"]},{w:"to",p:["p31","p32","p33"]},{w:"Learn",p:["p31"]},{w:"6.5.0\u2003Willingness",p:["p32"]},{w:"Take",p:["p32"]},{w:"Responsibility",p:["p32"]},{w:"6.6.0\u2003Willingness",p:["p33"]},{w:"Cooperate",p:["p33"]},{w:"6.7.0\u2003Rules",p:["p34"]},{w:"Regulations",p:["p34"]},{w:"6.8.0\u2003Tardiness",p:["p35"]},{w:"Absenteeism",p:["p35"]},{w:"6.9.0\u2003Setting",p:["p36"]},{w:"Goals",p:["p36"]},{w:"Seven7.0.0\u2003Human",p:["p37"]},{w:"Relations",p:["p37","p38","p39"]},{w:"7.1.0\u2003Making",p:["p38"]},{w:"Human",p:["p38"]},{w:"Work",p:["p38"]},{w:"7.2.0\u2003Human",p:["p39"]},{w:"Productivity",p:["p39"]},{w:"7.3.0\u2003Attitude",p:["p40"]},{w:"7.4.0\u2003Maintaining",p:["p41"]},{w:"a",p:["p41"]},{w:"Positive",p:["p41"]},{w:"Attitude",p:["p41"]},{w:"Eight8.0.0\u2003Employer",p:["p42"]},{w:"Safety",p:["p42"]},{w:"Obligations",p:["p42"]},{w:"8.1.0\u2003Carrying",p:["p43"]},{w:"Methods",p:["p43"]},{w:"8.2.0\u2003Storing",p:["p44"]},{w:"Materials",p:["p44"]},{w:"Glossary",p:["p45"]}];
+var ph={};
+ph["p0"]=[0, 1, 2, 3, 4, 5, 6, 7, 8];
+ph["p1"]=[9];
+ph["p2"]=[10, 11];
+ph["p3"]=[12, 13, 3, 14, 15];
+ph["p4"]=[16, 17];
+ph["p5"]=[16, 18, 19, 20];
+ph["p6"]=[21, 20];
+ph["p7"]=[22, 23, 24];
+ph["p8"]=[25, 26, 27, 28];
+ph["p9"]=[29];
+ph["p30"]=[74];
+ph["p10"]=[30, 31];
+ph["p32"]=[78, 76, 79, 80];
+ph["p31"]=[75, 76, 77];
+ph["p12"]=[37];
+ph["p34"]=[83, 3, 84];
+ph["p11"]=[32, 33, 34, 35, 36, 12];
+ph["p33"]=[81, 76, 82];
+ph["p14"]=[40];
+ph["p36"]=[87, 88];
+ph["p13"]=[38, 39];
+ph["p35"]=[85, 3, 86];
+ph["p16"]=[16, 42, 43, 44, 45, 0, 1];
+ph["p38"]=[91, 92, 90, 93];
+ph["p15"]=[16, 41];
+ph["p37"]=[16, 89, 90];
+ph["p18"]=[47, 48];
+ph["p17"]=[16, 46, 0, 1, 32];
+ph["p39"]=[94, 90, 3, 95];
+ph["p19"]=[49];
+ph["p41"]=[97, 98, 99, 100];
+ph["p40"]=[96];
+ph["p21"]=[54, 55];
+ph["p43"]=[104, 105];
+ph["p20"]=[50, 51, 52, 3, 53];
+ph["p42"]=[16, 101, 3, 71, 102, 103];
+ph["p23"]=[16, 58, 59, 60, 61, 62];
+ph["p45"]=[108];
+ph["p22"]=[56, 57];
+ph["p44"]=[106, 107];
+ph["p25"]=[64, 65];
+ph["p24"]=[63];
+ph["p27"]=[16, 70, 45, 60, 71];
+ph["p26"]=[16, 66, 67, 68, 69];
+ph["p29"]=[73];
+ph["p28"]=[72];
+     return {
+         keywords: keywords,
+         ph: ph
+     }
+});

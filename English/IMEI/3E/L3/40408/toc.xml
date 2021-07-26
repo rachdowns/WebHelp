@@ -1,0 +1,781 @@
+<?xml version="1.0" encoding="UTF-8"?><toc xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:toc="http://www.oxygenxml.com/ns/webhelp/toc" xmlns="http://www.oxygenxml.com/ns/webhelp/toc">
+   <title><span xmlns="http://www.w3.org/1999/xhtml" class="booktitle">  <span class="ph mainbooktitle">Industrial Maintenance Electrical and Instrumentation Technician Level Four – Module 40408</span>  </span></title>
+   <topic href="oxy_ex-2/topics/english/A01_topic_1.html" data-id="A01_topic_1" wh-toc-id="A01_topic_1-d66e337">
+      <title>Industrial Maintenance Electrical and Instrumentation Technician Level FourModule 40408</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1"></resourceid>
+         <navtitle class="- topic/navtitle ">Industrial Maintenance Electrical and Instrumentation Technician Level FourModule 40408</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Industrial Maintenance Electrical and Instrumentation Technician Level FourModule 40408</linktext>
+      </topicmeta>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_1.html" data-id="A01_topic_1_1" wh-toc-id="A01_topic_1_1-d66e345">
+         <title>Acknowledgments</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_1"></resourceid>
+            <navtitle class="- topic/navtitle ">Acknowledgments</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Acknowledgments</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_2.html" data-id="A01_topic_1_2" wh-toc-id="A01_topic_1_2-d66e353">
+         <title>NCCER Partners</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_2"></resourceid>
+            <navtitle class="- topic/navtitle ">NCCER Partners</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">NCCER Partners</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/A01_topic_1_3.html" data-id="A01_topic_1_3" wh-toc-id="A01_topic_1_3-d66e361">
+         <title>Module ID and Teaching Time</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="A01_topic_1_3"></resourceid>
+            <navtitle class="- topic/navtitle ">Module ID and Teaching Time</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Module ID and Teaching Time</linktext>
+         </topicmeta>
+      </topic>
+   </topic>
+   <topic href="javascript:void(0)" collection-type="family" data-id="ch08" wh-toc-id="ch08-d66e370">
+      <title>Data Networks</title>
+      <topic href="oxy_ex-2/topics/english/M08_topic_1_1.html" data-id="M08_topic_1_1" wh-toc-id="M08_topic_1_1-d66e371">
+         <title>Front</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_1_1"></resourceid>
+            <navtitle class="- topic/navtitle ">Front</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Front</linktext>
+         </topicmeta>
+      </topic>
+      <topic href="javascript:void(0)" wh-toc-id="tocId-d66e379">
+         <title>Body</title>
+         <topicmeta>
+            <navtitle class="- topic/navtitle ">Body</navtitle>
+         </topicmeta>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e383">
+            <title>Section One</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_2_0.html" data-id="M08_topic_2_0" wh-toc-id="M08_topic_2_0-d66e384">
+               <title>Section One1.0.0 Introduction</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_2_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section One1.0.0 Introduction</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section One1.0.0 Introduction</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e392">
+            <title>Section Two</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_3_0.html" data-id="M08_topic_3_0" wh-toc-id="M08_topic_3_0-d66e393">
+               <title>Section Two2.0.0 The Data Highway</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_3_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Two2.0.0 The Data Highway</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Two2.0.0 The Data Highway</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_3_1.html" data-id="M08_topic_3_1" wh-toc-id="M08_topic_3_1-d66e401">
+                  <title>2.1.0 Serial Communication</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_3_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.1.0 Serial Communication</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.1.0 Serial Communication</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_3_1_1.html" data-id="M08_topic_3_1_1" wh-toc-id="M08_topic_3_1_1-d66e409">
+                     <title>2.1.1 RS-232, RS-422, and RS-485</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_3_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.1.1 RS-232, RS-422, and RS-485</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.1.1 RS-232, RS-422, and RS-485</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_3_1_2.html" data-id="M08_topic_3_1_2" wh-toc-id="M08_topic_3_1_2-d66e417">
+                     <title>2.1.2 Universal Serial Bus (USB)</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_3_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.1.2 Universal Serial Bus (USB)</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.1.2 Universal Serial Bus (USB)</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_3_1_3.html" data-id="M08_topic_3_1_3" wh-toc-id="M08_topic_3_1_3-d66e425">
+                     <title>2.1.3 FireWire<sup xmlns="http://www.w3.org/1999/xhtml" class="ph sup">®</sup></title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_3_1_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">2.1.3 FireWire
+                           <sup class="+ topic/ph hi-d/sup ">®</sup>
+                        </navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">2.1.3 FireWire®</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_3_2.html" data-id="M08_topic_3_2" wh-toc-id="M08_topic_3_2-d66e435">
+                  <title>2.2.0 Parallel Communication</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_3_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.2.0 Parallel Communication</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.2.0 Parallel Communication</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_3_3.html" data-id="M08_topic_3_3" wh-toc-id="M08_topic_3_3-d66e443">
+                  <title>2.3.0 Data Buses</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_3_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">2.3.0 Data Buses</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">2.3.0 Data Buses</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e451">
+            <title>Section Three</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_4_0.html" data-id="M08_topic_4_0" wh-toc-id="M08_topic_4_0-d66e452">
+               <title>Section Three3.0.0 Transfer Medium</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_4_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Three3.0.0 Transfer Medium</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Three3.0.0 Transfer Medium</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e460">
+            <title>Section Four</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_5_0.html" data-id="M08_topic_5_0" wh-toc-id="M08_topic_5_0-d66e461">
+               <title>Section Four4.0.0 OSI Reference Model</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_5_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Four4.0.0 OSI Reference Model</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Four4.0.0 OSI Reference Model</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_5_1.html" data-id="M08_topic_5_1" wh-toc-id="M08_topic_5_1-d66e469">
+                  <title>4.1.0 Protocols</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_5_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">4.1.0 Protocols</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">4.1.0 Protocols</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e477">
+            <title>Section Five</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_6_0.html" data-id="M08_topic_6_0" wh-toc-id="M08_topic_6_0-d66e478">
+               <title>Section Five5.0.0 Network Topologies</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Five5.0.0 Network Topologies</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Five5.0.0 Network Topologies</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_1.html" data-id="M08_topic_6_1" wh-toc-id="M08_topic_6_1-d66e486">
+                  <title>5.1.0 Star Topology</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.1.0 Star Topology</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.1.0 Star Topology</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_2.html" data-id="M08_topic_6_2" wh-toc-id="M08_topic_6_2-d66e494">
+                  <title>5.2.0 Ring Topology </title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.2.0 Ring Topology </navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.2.0 Ring Topology</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_3.html" data-id="M08_topic_6_3" wh-toc-id="M08_topic_6_3-d66e502">
+                  <title>5.3.0 Bus Topology</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.3.0 Bus Topology</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.3.0 Bus Topology</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_6_4.html" data-id="M08_topic_6_4" wh-toc-id="M08_topic_6_4-d66e510">
+                  <title>5.4.0 Hybrid Topologies</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_6_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">5.4.0 Hybrid Topologies</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">5.4.0 Hybrid Topologies</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e518">
+            <title>Section Six</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_7_0.html" data-id="M08_topic_7_0" wh-toc-id="M08_topic_7_0-d66e519">
+               <title>Section Six6.0.0 Access Control</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_7_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Six6.0.0 Access Control</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Six6.0.0 Access Control</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_7_1.html" data-id="M08_topic_7_1" wh-toc-id="M08_topic_7_1-d66e527">
+                  <title>6.1.0 Random Access</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_7_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.1.0 Random Access</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.1.0 Random Access</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_7_2.html" data-id="M08_topic_7_2" wh-toc-id="M08_topic_7_2-d66e535">
+                  <title>6.2.0 Polling</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_7_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.2.0 Polling</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.2.0 Polling</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_7_3.html" data-id="M08_topic_7_3" wh-toc-id="M08_topic_7_3-d66e543">
+                  <title>6.3.0 Dedicated Channel</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_7_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.3.0 Dedicated Channel</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.3.0 Dedicated Channel</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_7_4.html" data-id="M08_topic_7_4" wh-toc-id="M08_topic_7_4-d66e551">
+                  <title>6.4.0 Token Passing</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_7_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">6.4.0 Token Passing</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">6.4.0 Token Passing</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e559">
+            <title>Section Seven</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_8_0.html" data-id="M08_topic_8_0" wh-toc-id="M08_topic_8_0-d66e560">
+               <title>Section Seven7.0.0 Common Network Nomenclature</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_8_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Seven7.0.0 Common Network Nomenclature</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Seven7.0.0 Common Network Nomenclature</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e568">
+            <title>Section Eight</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_9_0.html" data-id="M08_topic_9_0" wh-toc-id="M08_topic_9_0-d66e569">
+               <title>Section Eight8.0.0 The Internet</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Eight8.0.0 The Internet</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Eight8.0.0 The Internet</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_1.html" data-id="M08_topic_9_1" wh-toc-id="M08_topic_9_1-d66e577">
+                  <title>8.1.0 Background</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.1.0 Background</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.1.0 Background</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_2.html" data-id="M08_topic_9_2" wh-toc-id="M08_topic_9_2-d66e585">
+                  <title>8.2.0 Transmission Control Protocol/Internet Protocol (TCP/IP)</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.2.0 Transmission Control Protocol/Internet Protocol (TCP/IP)</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.2.0 Transmission Control Protocol/Internet Protocol (TCP/IP)</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_2_1.html" data-id="M08_topic_9_2_1" wh-toc-id="M08_topic_9_2_1-d66e593">
+                     <title>8.2.1 Internet Protocol (IP)</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_2_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.2.1 Internet Protocol (IP)</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.2.1 Internet Protocol (IP)</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_2_2.html" data-id="M08_topic_9_2_2" wh-toc-id="M08_topic_9_2_2-d66e601">
+                     <title>8.2.2 IP Addressing</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_2_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.2.2 IP Addressing</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.2.2 IP Addressing</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_2_3.html" data-id="M08_topic_9_2_3" wh-toc-id="M08_topic_9_2_3-d66e609">
+                     <title>8.2.3 Transmission Control Protocol (TCP)</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_2_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.2.3 Transmission Control Protocol (TCP)</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.2.3 Transmission Control Protocol (TCP)</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_9_3.html" data-id="M08_topic_9_3" wh-toc-id="M08_topic_9_3-d66e617">
+                  <title>8.3.0 Internet Application Protocols</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">8.3.0 Internet Application Protocols</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">8.3.0 Internet Application Protocols</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_3_1.html" data-id="M08_topic_9_3_1" wh-toc-id="M08_topic_9_3_1-d66e625">
+                     <title>8.3.1 Hypertext Transfer Protocol</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_3_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.3.1 Hypertext Transfer Protocol</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.3.1 Hypertext Transfer Protocol</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_3_2.html" data-id="M08_topic_9_3_2" wh-toc-id="M08_topic_9_3_2-d66e633">
+                     <title>8.3.2 Simple Mail Transfer Protocol</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_3_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.3.2 Simple Mail Transfer Protocol</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.3.2 Simple Mail Transfer Protocol</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_3_3.html" data-id="M08_topic_9_3_3" wh-toc-id="M08_topic_9_3_3-d66e641">
+                     <title>8.3.3 Post Office Protocol</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_3_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.3.3 Post Office Protocol</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.3.3 Post Office Protocol</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_3_4.html" data-id="M08_topic_9_3_4" wh-toc-id="M08_topic_9_3_4-d66e649">
+                     <title>8.3.4 Internet Mail Access Protocol</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_3_4"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.3.4 Internet Mail Access Protocol</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.3.4 Internet Mail Access Protocol</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_3_5.html" data-id="M08_topic_9_3_5" wh-toc-id="M08_topic_9_3_5-d66e657">
+                     <title>8.3.5 Network News Transfer Protocol</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_3_5"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.3.5 Network News Transfer Protocol</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.3.5 Network News Transfer Protocol</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_9_3_6.html" data-id="M08_topic_9_3_6" wh-toc-id="M08_topic_9_3_6-d66e665">
+                     <title>8.3.6 File Transfer Protocol</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_9_3_6"></resourceid>
+                        <navtitle class="- topic/navtitle ">8.3.6 File Transfer Protocol</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">8.3.6 File Transfer Protocol</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e673">
+            <title>Section Nine</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_10_0.html" data-id="M08_topic_10_0" wh-toc-id="M08_topic_10_0-d66e674">
+               <title>Section Nine9.0.0 Industrial Networks </title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Nine9.0.0 Industrial Networks </navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Nine9.0.0 Industrial Networks</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_1.html" data-id="M08_topic_10_1" wh-toc-id="M08_topic_10_1-d66e682">
+                  <title>9.1.0 Ethernet</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.1.0 Ethernet</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.1.0 Ethernet</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_2.html" data-id="M08_topic_10_2" wh-toc-id="M08_topic_10_2-d66e690">
+                  <title>9.2.0 Industrial Ethernet</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.2.0 Industrial Ethernet</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.2.0 Industrial Ethernet</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_3.html" data-id="M08_topic_10_3" wh-toc-id="M08_topic_10_3-d66e698">
+                  <title>9.3.0 Modbus</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.3.0 Modbus</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.3.0 Modbus</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_4.html" data-id="M08_topic_10_4" wh-toc-id="M08_topic_10_4-d66e706">
+                  <title>9.4.0 Profibus</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.4.0 Profibus</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.4.0 Profibus</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_5.html" data-id="M08_topic_10_5" wh-toc-id="M08_topic_10_5-d66e714">
+                  <title>9.5.0 DeviceNet</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_5"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.5.0 DeviceNet</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.5.0 DeviceNet</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_6.html" data-id="M08_topic_10_6" wh-toc-id="M08_topic_10_6-d66e722">
+                  <title>9.6.0 AS-i Bus</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_6"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.6.0 AS-i Bus</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.6.0 AS-i Bus</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_7.html" data-id="M08_topic_10_7" wh-toc-id="M08_topic_10_7-d66e730">
+                  <title>9.7.0 OLE for Process Control (OPC)</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_7"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.7.0 OLE for Process Control (OPC)</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.7.0 OLE for Process Control (OPC)</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_10_8.html" data-id="M08_topic_10_8" wh-toc-id="M08_topic_10_8-d66e738">
+                  <title>9.8.0 Manufacturing Automation Protocol (MAP)</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_10_8"></resourceid>
+                     <navtitle class="- topic/navtitle ">9.8.0 Manufacturing Automation Protocol (MAP)</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">9.8.0 Manufacturing Automation Protocol (MAP)</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e746">
+            <title>Section Ten</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_11_0.html" data-id="M08_topic_11_0" wh-toc-id="M08_topic_11_0-d66e747">
+               <title>Section Ten10.0.0 Microcomputer-Based Lans</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Ten10.0.0 Microcomputer-Based Lans</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Ten10.0.0 Microcomputer-Based Lans</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_11_1.html" data-id="M08_topic_11_1" wh-toc-id="M08_topic_11_1-d66e755">
+                  <title>10.1.0 Basic Input/Output System (BIOS)</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">10.1.0 Basic Input/Output System (BIOS)</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">10.1.0 Basic Input/Output System (BIOS)</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_11_2.html" data-id="M08_topic_11_2" wh-toc-id="M08_topic_11_2-d66e763">
+                  <title>10.2.0 Operating Systems</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">10.2.0 Operating Systems</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">10.2.0 Operating Systems</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_11_2_1.html" data-id="M08_topic_11_2_1" wh-toc-id="M08_topic_11_2_1-d66e771">
+                     <title>10.2.1 Microsoft Windows®</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_2_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.2.1 Microsoft Windows®</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.2.1 Microsoft Windows®</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_11_2_2.html" data-id="M08_topic_11_2_2" wh-toc-id="M08_topic_11_2_2-d66e779">
+                     <title>10.2.2 UNIX<sup xmlns="http://www.w3.org/1999/xhtml" class="ph sup">®</sup></title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_2_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.2.2 UNIX
+                           <sup class="+ topic/ph hi-d/sup ">®</sup>
+                        </navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.2.2 UNIX®</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_11_2_3.html" data-id="M08_topic_11_2_3" wh-toc-id="M08_topic_11_2_3-d66e789">
+                     <title>10.2.3 LINUX®</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_2_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.2.3 LINUX®</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.2.3 LINUX®</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_11_2_4.html" data-id="M08_topic_11_2_4" wh-toc-id="M08_topic_11_2_4-d66e797">
+                     <title>10.2.4 Mac OS®</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_2_4"></resourceid>
+                        <navtitle class="- topic/navtitle ">10.2.4 Mac OS®</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">10.2.4 Mac OS®</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_11_3.html" data-id="M08_topic_11_3" wh-toc-id="M08_topic_11_3-d66e805">
+                  <title>10.3.0 Networking Software/Network Operating Systems</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">10.3.0 Networking Software/Network Operating Systems</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">10.3.0 Networking Software/Network Operating Systems</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_11_4.html" data-id="M08_topic_11_4" wh-toc-id="M08_topic_11_4-d66e813">
+                  <title>10.4.0 Real-Time Performance Issues</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_11_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">10.4.0 Real-Time Performance Issues</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">10.4.0 Real-Time Performance Issues</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e822">
+            <title>Section Eleven</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_12_0.html" data-id="M08_topic_12_0" wh-toc-id="M08_topic_12_0-d66e823">
+               <title>Section Eleven11.0.0 Proprietary Control Networks</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_12_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Eleven11.0.0 Proprietary Control Networks</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Eleven11.0.0 Proprietary Control Networks</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_12_1.html" data-id="M08_topic_12_1" wh-toc-id="M08_topic_12_1-d66e831">
+                  <title>11.1.0 PLC Communication Systems</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_12_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">11.1.0 PLC Communication Systems</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">11.1.0 PLC Communication Systems</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_12_2.html" data-id="M08_topic_12_2" wh-toc-id="M08_topic_12_2-d66e839">
+                  <title>11.2.0 DCS Communication Systems</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_12_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">11.2.0 DCS Communication Systems</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">11.2.0 DCS Communication Systems</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e847">
+            <title>Section Twelve</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_13_0.html" data-id="M08_topic_13_0" wh-toc-id="M08_topic_13_0-d66e848">
+               <title>Section Twelve12.0.0 Bridges, Routers, and Gateways</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_13_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Twelve12.0.0 Bridges, Routers, and Gateways</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Twelve12.0.0 Bridges, Routers, and Gateways</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_13_1.html" data-id="M08_topic_13_1" wh-toc-id="M08_topic_13_1-d66e856">
+                  <title>12.1.0 Bridges</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_13_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">12.1.0 Bridges</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">12.1.0 Bridges</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_13_1_1.html" data-id="M08_topic_13_1_1" wh-toc-id="M08_topic_13_1_1-d66e864">
+                     <title>12.1.1 Repeaters</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_13_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">12.1.1 Repeaters</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">12.1.1 Repeaters</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_13_1_2.html" data-id="M08_topic_13_1_2" wh-toc-id="M08_topic_13_1_2-d66e872">
+                     <title>12.1.2 Basic Bridges</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_13_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">12.1.2 Basic Bridges</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">12.1.2 Basic Bridges</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_13_1_3.html" data-id="M08_topic_13_1_3" wh-toc-id="M08_topic_13_1_3-d66e880">
+                     <title>12.1.3 Intelligent Bridges</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_13_1_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">12.1.3 Intelligent Bridges</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">12.1.3 Intelligent Bridges</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_13_2.html" data-id="M08_topic_13_2" wh-toc-id="M08_topic_13_2-d66e888">
+                  <title>12.2.0 Routers</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_13_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">12.2.0 Routers</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">12.2.0 Routers</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_13_2_1.html" data-id="M08_topic_13_2_1" wh-toc-id="M08_topic_13_2_1-d66e896">
+                     <title>12.2.1 Brouters</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_13_2_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">12.2.1 Brouters</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">12.2.1 Brouters</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_13_3.html" data-id="M08_topic_13_3" wh-toc-id="M08_topic_13_3-d66e904">
+                  <title>12.3.0 Gateways</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_13_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">12.3.0 Gateways</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">12.3.0 Gateways</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e912">
+            <title>Section Thirteen</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_14_0.html" data-id="M08_topic_14_0" wh-toc-id="M08_topic_14_0-d66e913">
+               <title>Section Thirteen13.0.0 Network Cabling</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_14_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Thirteen13.0.0 Network Cabling</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Thirteen13.0.0 Network Cabling</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_14_1.html" data-id="M08_topic_14_1" wh-toc-id="M08_topic_14_1-d66e921">
+                  <title>13.1.0 Unshielded Twisted-Pair Cable</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_14_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">13.1.0 Unshielded Twisted-Pair Cable</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">13.1.0 Unshielded Twisted-Pair Cable</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_14_2.html" data-id="M08_topic_14_2" wh-toc-id="M08_topic_14_2-d66e929">
+                  <title>13.2.0 Screened Twisted-Pair (ScTP) Cable and Patch Cord</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_14_2"></resourceid>
+                     <navtitle class="- topic/navtitle ">13.2.0 Screened Twisted-Pair (ScTP) Cable and Patch Cord</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">13.2.0 Screened Twisted-Pair (ScTP) Cable and Patch Cord</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_14_3.html" data-id="M08_topic_14_3" wh-toc-id="M08_topic_14_3-d66e937">
+                  <title>13.3.0 UTP Jack and Plug Terminations</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_14_3"></resourceid>
+                     <navtitle class="- topic/navtitle ">13.3.0 UTP Jack and Plug Terminations</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">13.3.0 UTP Jack and Plug Terminations</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_14_4.html" data-id="M08_topic_14_4" wh-toc-id="M08_topic_14_4-d66e945">
+                  <title>13.4.0 Coaxial Cable</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_14_4"></resourceid>
+                     <navtitle class="- topic/navtitle ">13.4.0 Coaxial Cable</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">13.4.0 Coaxial Cable</linktext>
+                  </topicmeta>
+               </topic>
+               <topic href="oxy_ex-2/topics/english/M08_topic_14_5.html" data-id="M08_topic_14_5" wh-toc-id="M08_topic_14_5-d66e953">
+                  <title>13.5.0 RG6 Coax F-Type Terminations</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_14_5"></resourceid>
+                     <navtitle class="- topic/navtitle ">13.5.0 RG6 Coax F-Type Terminations</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">13.5.0 RG6 Coax F-Type Terminations</linktext>
+                  </topicmeta>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e961">
+            <title>Section Fourteen</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_15_0.html" data-id="M08_topic_15_0" wh-toc-id="M08_topic_15_0-d66e962">
+               <title>Section Fourteen14.0.0 Optical Fiber Cable</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_15_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Fourteen14.0.0 Optical Fiber Cable</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Fourteen14.0.0 Optical Fiber Cable</linktext>
+               </topicmeta>
+               <topic href="oxy_ex-2/topics/english/M08_topic_15_1.html" data-id="M08_topic_15_1" wh-toc-id="M08_topic_15_1-d66e970">
+                  <title>14.1.0 Fiber-Optic Installation Considerations</title>
+                  <topicmeta>
+                     <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_15_1"></resourceid>
+                     <navtitle class="- topic/navtitle ">14.1.0 Fiber-Optic Installation Considerations</navtitle><?ditaot gentext?>
+                     <linktext class="- map/linktext ">14.1.0 Fiber-Optic Installation Considerations</linktext>
+                  </topicmeta>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_15_1_1.html" data-id="M08_topic_15_1_1" wh-toc-id="M08_topic_15_1_1-d66e978">
+                     <title>14.1.1 Tray and Duct Installation</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_15_1_1"></resourceid>
+                        <navtitle class="- topic/navtitle ">14.1.1 Tray and Duct Installation</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">14.1.1 Tray and Duct Installation</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_15_1_2.html" data-id="M08_topic_15_1_2" wh-toc-id="M08_topic_15_1_2-d66e986">
+                     <title>14.1.2 Installing Optical Fiber Cables in Conduit</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_15_1_2"></resourceid>
+                        <navtitle class="- topic/navtitle ">14.1.2 Installing Optical Fiber Cables in Conduit</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">14.1.2 Installing Optical Fiber Cables in Conduit</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_15_1_3.html" data-id="M08_topic_15_1_3" wh-toc-id="M08_topic_15_1_3-d66e994">
+                     <title>14.1.3 Splice Closures/Organizers</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_15_1_3"></resourceid>
+                        <navtitle class="- topic/navtitle ">14.1.3 Splice Closures/Organizers</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">14.1.3 Splice Closures/Organizers</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_15_1_4.html" data-id="M08_topic_15_1_4" wh-toc-id="M08_topic_15_1_4-d66e1002">
+                     <title>14.1.4 Distribution Hardware</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_15_1_4"></resourceid>
+                        <navtitle class="- topic/navtitle ">14.1.4 Distribution Hardware</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">14.1.4 Distribution Hardware</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_15_1_5.html" data-id="M08_topic_15_1_5" wh-toc-id="M08_topic_15_1_5-d66e1010">
+                     <title>14.1.5 Patch Panels</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_15_1_5"></resourceid>
+                        <navtitle class="- topic/navtitle ">14.1.5 Patch Panels</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">14.1.5 Patch Panels</linktext>
+                     </topicmeta>
+                  </topic>
+                  <topic href="oxy_ex-2/topics/english/M08_topic_15_1_6.html" data-id="M08_topic_15_1_6" wh-toc-id="M08_topic_15_1_6-d66e1018">
+                     <title>14.1.6 Outlet Boxes</title>
+                     <topicmeta>
+                        <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_15_1_6"></resourceid>
+                        <navtitle class="- topic/navtitle ">14.1.6 Outlet Boxes</navtitle><?ditaot gentext?>
+                        <linktext class="- map/linktext ">14.1.6 Outlet Boxes</linktext>
+                     </topicmeta>
+                  </topic>
+               </topic>
+            </topic>
+         </topic>
+         <topic href="javascript:void(0)" wh-toc-id="tocId-d66e1026">
+            <title>Section Fifteen</title>
+            <topic href="oxy_ex-2/topics/english/M08_topic_16_0.html" data-id="M08_topic_16_0" wh-toc-id="M08_topic_16_0-d66e1027">
+               <title>Section Fifteen15.0.0 Cable Testing</title>
+               <topicmeta>
+                  <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_16_0"></resourceid>
+                  <navtitle class="- topic/navtitle ">Section Fifteen15.0.0 Cable Testing</navtitle><?ditaot gentext?>
+                  <linktext class="- map/linktext ">Section Fifteen15.0.0 Cable Testing</linktext>
+               </topicmeta>
+            </topic>
+         </topic>
+      </topic>
+      <topic href="oxy_ex-2/topics/english/M08_topic_17.html" data-id="M08_topic_17" wh-toc-id="M08_topic_17-d66e1035">
+         <title>Rear</title>
+         <topicmeta>
+            <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_17"></resourceid>
+            <navtitle class="- topic/navtitle ">Rear</navtitle><?ditaot gentext?>
+            <linktext class="- map/linktext ">Rear</linktext>
+         </topicmeta>
+         <topic href="oxy_ex-2/topics/english/M08_topic_17_1.html" data-id="M08_topic_17_1" wh-toc-id="M08_topic_17_1-d66e1043">
+            <title>Review Questions</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_17_1"></resourceid>
+               <navtitle class="- topic/navtitle ">Review Questions</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Review Questions</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M08_topic_17_1_1.html" data-id="M08_topic_17_1_1" wh-toc-id="M08_topic_17_1_1-d66e1051">
+            <title>Trade Terms Introduced in This Module</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_17_1_1"></resourceid>
+               <navtitle class="- topic/navtitle ">Trade Terms Introduced in This Module</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Trade Terms Introduced in This Module</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M08_topic_17_1_2.html" data-id="M08_topic_17_1_2" wh-toc-id="M08_topic_17_1_2-d66e1059">
+            <title>Additional Resources</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_17_1_2"></resourceid>
+               <navtitle class="- topic/navtitle ">Additional Resources</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Additional Resources</linktext>
+            </topicmeta>
+         </topic>
+         <topic href="oxy_ex-2/topics/english/M08_topic_17_1_3.html" data-id="M08_topic_17_1_3" wh-toc-id="M08_topic_17_1_3-d66e1067">
+            <title>Figure Credits</title>
+            <topicmeta>
+               <resourceid class="- topic/resourceid " oxy-source="topic" appid="M08_topic_17_1_3"></resourceid>
+               <navtitle class="- topic/navtitle ">Figure Credits</navtitle><?ditaot gentext?>
+               <linktext class="- map/linktext ">Figure Credits</linktext>
+            </topicmeta>
+         </topic>
+      </topic>
+   </topic>
+   <topic href="oxy_ex-2/topics/english/gloss_topic_1.html" data-id="gloss_topic_1" wh-toc-id="gloss_topic_1-d66e1077">
+      <title>Glossary</title>
+      <topicmeta>
+         <resourceid class="- topic/resourceid " oxy-source="topic" appid="gloss_topic_1"></resourceid>
+         <navtitle class="- topic/navtitle ">Glossary</navtitle><?ditaot gentext?>
+         <linktext class="- map/linktext ">Glossary</linktext>
+      </topicmeta>
+   </topic>
+</toc>

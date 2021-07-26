@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Ten10.0.0 Microcomputer-Based Lans","href":"oxy_ex-2\/topics\/english\/M08_topic_11_0.html","attributes": {"data-id":"M08_topic_11_0",},"menu": {"hasChildren":false,},"tocID":"M08_topic_11_0-d66e747","next":"M08_topic_11_0-d66e747",}]});

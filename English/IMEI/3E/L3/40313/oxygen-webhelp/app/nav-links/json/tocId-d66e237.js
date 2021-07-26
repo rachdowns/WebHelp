@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Section Three3.0.0 Types of MOVs","href":"oxy_ex-2\/topics\/english\/M13_topic_4_0.html","attributes": {"data-id":"M13_topic_4_0",},"menu": {"hasChildren":false,},"tocID":"M13_topic_4_0-d66e238","next":"M13_topic_4_0-d66e238",}]});
