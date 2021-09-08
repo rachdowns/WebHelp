@@ -2,12 +2,22 @@
  * Load the Main Page (index.html) libraries.
  */
 define(["require", "config"], function() {
-    require([
-        'nav-links-loader',
-        'searchAutocomplete',
-        'webhelp',
-        'search-init',
-        'context-help',
-        'template-module-loader'
-    ]);
+    require(['options'], function(options){
+        const jsModules = [
+            'polyfill',
+            'menu',
+            'searchAutocomplete',
+            'webhelp',
+            'codeblock',
+            'top-menu',
+            'search-init',
+            'context-help',
+            'template-module-loader',
+            'bootstrap'
+        ];
+        if(!options.getBoolean("webhelp.custom.search.engine.enabled")) {
+            jsModules.push('searchAutocomplete');
+        } 
+        require(jsModules);
+    });
 });

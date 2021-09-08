@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Section Six6.0.0 HEAT EXCHANGES\/ CONVERTERS","href":"oxy_ex-2\/topics\/english\/M08_topic_7_0.html","attributes":{"data-id":"M08_topic_7_0"},"menu":{"hasChildren":false},"tocID":"M08_topic_7_0-d593e365","topics":[]}]});

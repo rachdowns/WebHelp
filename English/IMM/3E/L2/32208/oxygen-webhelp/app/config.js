@@ -3,12 +3,18 @@ define(function() {
     var modulePaths = {
         // core
         "webhelp" : "core/webhelp",
-        "expand" : "core/expand",
+        "codeblock": "core/wh-codeblock",
+        "top-menu": "core/wh-top-menu",
+        "expand": "core/expand",
+        "permalink": "core/permalink",
+        "polyfill": "core/polyfill",
         // context sensitive help
         "context-help" : "context-help/context-help",
         "context-help-map" : "context-help/context-help-map",
         // navigation links
-        "nav-links-loader" : "nav-links/nav-links-loader",
+        "menu" : "nav-links/menu-loader",
+        "toc" : "nav-links/toc-loader",
+        "nav" : "nav-links/nav",
         // search
         "search-init" : "search/search-init",
         "search" : "search/search",
@@ -17,6 +23,7 @@ define(function() {
         "searchHistoryItems" : "search/searchHistoryItems",
         // search index
         "index" : "search/index/index",
+        "link2parent" : "search/index/link-to-parent",
         "stopwords" : "search/index/stopwords",
         "index-1" : "search/index/index-1",
         "index-2" : "search/index/index-2",
@@ -55,7 +62,7 @@ define(function() {
          ********************************************************/
 
         // JQuery
-        "jquery" : "../lib/jquery/jquery-3.1.1.min",
+        "jquery" : "../lib/jquery/jquery-3.5.1.min",
         // JQuery UI
         "jquery.ui" : "../lib/jquery-ui/jquery-ui.min",
         // JQuery Highlight
@@ -65,7 +72,11 @@ define(function() {
         // JQuery Responsive image maps
         "jquery.rwdImageMaps" : "../lib/rwdImageMaps/jquery.rwdImageMaps.min",
         // JQuery Bootpag
-        "jquery.bootpag" : "../lib/jquery-bootpag/jquery.bootpag.min"
+        "jquery.bootpag" : "../lib/jquery-bootpag/jquery.bootpag.min",
+        // Popper
+        "bootstrap" : "../lib/bootstrap/js/bootstrap.bundle.min",
+
+        "kuromoji" : "../lib/kuromoji/kuromoji"
     };
 
     var shimConfig = {
@@ -89,6 +100,16 @@ define(function() {
     requirejs.config({
         paths : modulePaths,
         shim : shimConfig,
+        urlArgs: function(id, url) {
+            var args = '2021060401';
+        	
+            if(id === 'index-1' || id === 'index-2' || id === 'index-3' || id === 'stopwords' 
+            ||id === 'htmlFileInfoList' || id === 'keywords') {
+                args = '20210908081506';
+        	} 
+	
+	        return (url.indexOf('?') === -1 ? '?' : '&') + args;
+    	},
         map: {
             // @see http://requirejs.org/docs/jquery.html#noconflictmap
 
