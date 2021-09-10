@@ -1,0 +1,1045 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:whc="http://www.oxygenxml.com/webhelp/components" xml:lang="en" lang="en" whc:version="22.0">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/><meta name="description" content="The size of the conductor required to connect an electrical load to the source of supply is determined by several factors, including: Load current in amperes Permissible voltage drop between source ..."/><meta charset="UTF-8"/><meta name="DC.rights.owner" content="(C) Copyright 2021"/><meta name="copyright" content="(C) Copyright 2021"/><meta name="generator" content="DITA-OT"/><meta name="DC.type" content="learningContent"/><meta name="DC.relation" scheme="URI" content="../../topics/english/M02_topic_3_0.html"/><meta name="DC.relation" scheme="URI" content="../../topics/english/M02_topic_3_3_1.html"/><meta name="DC.relation" scheme="URI" content="../../topics/english/M02_topic_3_3_2.html"/><meta name="DC.relation" scheme="URI" content="../../topics/english/M02_topic_3_3_3.html"/><meta name="DC.format" content="HTML5"/><meta name="DC.identifier" content="M02_topic_3_3"/><title>2.3.0 Calculating Voltage Drops</title><!--  Generated with Oxygen version 23.1, build number 2021082101.  --><meta name="wh-path2root" content="../../out/webhelp-responsive/"/><meta name="wh-source-relpath" content="../../topics/english/M02_topic_3_3.xml"/><meta name="wh-out-relpath" content="topics/english/M02_topic_3_3.html"/>
+    <!-- Latest compiled and minified Bootstrap CSS -->
+    <link rel="stylesheet" type="text/css" href="../../out/webhelp-responsive/oxygen-webhelp/lib/bootstrap/css/bootstrap.min.css"/>
+    
+    <link rel="stylesheet" href="../../out/webhelp-responsive/oxygen-webhelp/lib/jquery-ui/jquery-ui.min.css"/>
+    
+    <!-- Template default styles  -->
+    <link rel="stylesheet" type="text/css" href="../../out/webhelp-responsive/oxygen-webhelp/app/topic-page.css?buildId=2021082101"/>
+    
+    
+    <script type="text/javascript" src="../../out/webhelp-responsive/oxygen-webhelp/lib/jquery/jquery-3.5.1.min.js"><!----></script>
+    
+    <script data-main="../../out/webhelp-responsive/oxygen-webhelp/app/topic-page.js" src="../../out/webhelp-responsive/oxygen-webhelp/lib/requirejs/require.js"></script>
+<link rel="stylesheet" type="text/css" href="../../out/webhelp-responsive/oxygen-webhelp/template/oxygen.css?buildId=2021082101"/><link rel="stylesheet" type="text/css" href="../../out/webhelp-responsive/oxygen-webhelp/template/notes.css?buildId=2021082101"/></head>
+
+    <body id="M02_topic_3_3" class="wh_topic_page frmBody">
+        <a href="#wh_topic_body" class="sr-only sr-only-focusable">
+            Jump to main content
+        </a>
+        
+        
+        
+        
+        <header class="navbar navbar-default wh_header" whc:version="23.1">
+    <div class="container-fluid">
+        <div class="wh_header_flex_container navbar-nav navbar-expand-md navbar-dark">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    <!--
+                            This component will be generated when the next parameters are specified in the transformation scenario:
+                            'webhelp.logo.image' and 'webhelp.logo.image.target.url'.
+                            See: http://oxygenxml.com/doc/versions/17.1/ug-editor/#topics/dita_webhelp_output.html.
+                    -->
+                    
+                    <div class=" wh_publication_title "><a href="../../out/webhelp-responsive/index.html"><span class="booktitle">  <span class="ph mainbooktitle">Electrical Level Three - Module 26302-17</span>  </span></a></div>
+                    
+                </div>
+                
+                <!-- The menu button for mobile devices is copied in the output only when the 'webhelp.show.top.menu' parameter is set to 'yes' -->
+                <button type="button" data-target="#wh_top_menu_and_indexterms_link" id="wh_menu_mobile_button" data-toggle="collapse" class="navbar-toggler collapsed wh_toggle_button" aria-expanded="false" aria-label="Toggle menu" aria-controls="wh_top_menu_and_indexterms_link">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse" id="wh_top_menu_and_indexterms_link">
+                
+                <nav class=" wh_top_menu " aria-label="Menu Container"><ul role="menubar" aria-label="Menu"><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="A01_topic_1-d617e780-mi" data-tocid="A01_topic_1-d617e780" data-state="not-ready" class=" topicref " data-id="A01_topic_1"><span class="title"><a href="../../out/webhelp-responsive/../../topics/english/A01_topic_1.html">Conductor Selection and CalculationsModule 26302-20</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="ch02-d617e813-mi" data-tocid="ch02-d617e813" data-state="not-ready" class=" topicref " data-id="ch02"><span class="title"><a href="../../out/webhelp-responsive/../../topics/english/M02_topic_1_1.html">Conductor Selection and Calculations</a></span></span></li><li role="menuitem"><span id="gloss_topic_1-d617e1062-mi" data-tocid="gloss_topic_1-d617e1062" data-state="leaf" class=" topicref " data-id="gloss_topic_1"><span class="title"><a href="../../out/webhelp-responsive/../../topics/english/gloss_topic_1.html">Glossary</a></span></span></li></ul></nav>
+                
+                
+            </div>
+        </div>
+    </div>
+</header>
+        
+        
+         
+        
+        <!-- Search form -->
+        <div class=" wh_search_input navbar-form wh_topic_page_search search " role="form">
+            
+            
+            
+            <form id="searchForm" method="get" role="search" action="../../out/webhelp-responsive/search.html"><div><input type="search" placeholder="Search " class="wh_search_textfield" id="textToSearch" name="searchQuery" aria-label="Search query" required="required"/><button type="submit" class="wh_search_button" aria-label="Search"><span class="search_input_text">Search</span></button></div></form>
+            
+            
+            
+        </div>
+        
+        <div class="container-fluid" id="wh_topic_container">
+            <div class="row">
+
+                <nav class="wh_tools d-print-none navbar-expand-md" aria-label="Tools">
+                    
+                    <div data-tooltip-position="bottom" class=" wh_breadcrumb "></div>
+                    
+                    
+                    
+                    <div class="wh_right_tools">
+                        <button class="wh_hide_highlight" aria-label="Toggle search highlights" title="Toggle search highlights"></button>
+                        <button class="webhelp_expand_collapse_sections" data-next-state="collapsed" aria-label="Collapse sections" title="Collapse sections"></button>
+                        <div class=" wh_navigation_links "><span id="topic_navigation_links" class="navheader">
+  </span></div>
+                        
+                        <!-- External resource link -->
+                        
+                        
+                        <div class=" wh_print_link print d-none d-md-inline-block "><button onClick="window.print()" title="Print this page" aria-label="Print this page"></button></div>
+                        
+                        <!-- Expand/Collapse publishing TOC 
+                             The menu button for mobile devices is copied in the output only when the publication TOC is available
+                        -->
+                        
+                    </div>
+                    
+                </nav>
+            </div>
+            
+            
+            
+            
+            <div class="wh_content_area">
+                <div class="row">
+                    
+                    
+                    <div class="col-12" id="wh_topic_body">
+                        
+                        <div class=" wh_topic_content body "><main role="main"><article role="article" aria-labelledby="ariaid-title1">
+   <h1 class="- topic/title title topictitle1" id="ariaid-title1">2.3.0 Calculating Voltage Drops</h1>
+   <div class="- topic/body learningBase/learningBasebody learningContent/learningContentbody body learningBasebody learningContentbody">
+      <section class="- topic/section learningBase/lcInstruction section lcInstruction">
+         <p class="- topic/p p">The size of the conductor required to connect an electrical load to the source of supply
+            is determined by several factors, including:</p>
+      </section>
+      <ul class="- topic/ul ul">
+         <li class="- topic/li li">
+            <p class="- topic/p p">Load current in amperes</p>
+         </li>
+         <li class="- topic/li li">
+            <p class="- topic/p p">Permissible voltage drop between source and load</p>
+         </li>
+         <li class="- topic/li li">
+            <p class="- topic/p p">Total length of conductor</p>
+         </li>
+         <li class="- topic/li li">
+            <p class="- topic/p p">Type of wire, such as copper, aluminum, copper-clad aluminum, etc., and its
+               permissible load-carrying capability based on <span class="- topic/ph ph">NEC Tables
+                  310.15(B)(16) through (21)</span>
+            </p>
+         </li>
+      </ul>
+      <section class="- topic/section section">
+         <p class="- topic/p p">Remember the following when performing voltage drop calculations:</p>
+      </section>
+      <ul class="- topic/ul ul">
+         <li class="- topic/li li">
+            <p class="- topic/p p">The resistance of a wire varies directly with its length:</p>
+            <section class="- topic/section section">
+               <div class="+ topic/div equation-d/equation-block  eqn-block ">
+                  <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+                     <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                        <mi mathvariant="normal">R</mi>
+                        <mo>=</mo>
+                        <mi mathvariant="normal">r</mi>
+                        <mi mathvariant="normal">e</mi>
+                        <mi mathvariant="normal">s</mi>
+                        <mi mathvariant="normal">i</mi>
+                        <mi mathvariant="normal">s</mi>
+                        <mi mathvariant="normal">t</mi>
+                        <mi mathvariant="normal">a</mi>
+                        <mi mathvariant="normal">n</mi>
+                        <mi mathvariant="normal">c</mi>
+                        <mi mathvariant="normal">e</mi>
+                        <mi mathvariant="normal"> </mi>
+                        <mi mathvariant="normal">p</mi>
+                        <mi mathvariant="normal">e</mi>
+                        <mi mathvariant="normal">r</mi>
+                        <mi mathvariant="normal"> </mi>
+                        <mi mathvariant="normal">f</mi>
+                        <mi mathvariant="normal">o</mi>
+                        <mi mathvariant="normal">o</mi>
+                        <mi mathvariant="normal">t</mi>
+                        <mi mathvariant="normal"> </mi>
+                        <mfenced separators="|">
+                           <mrow>
+                              <mi mathvariant="normal">K</mi>
+                           </mrow>
+                        </mfenced>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">l</mi>
+                        <mi mathvariant="normal">e</mi>
+                        <mi mathvariant="normal">n</mi>
+                        <mi mathvariant="normal">g</mi>
+                        <mi mathvariant="normal">t</mi>
+                        <mi mathvariant="normal">h</mi>
+                        <mi mathvariant="normal"> </mi>
+                        <mi mathvariant="normal">i</mi>
+                        <mi mathvariant="normal">n</mi>
+                        <mi mathvariant="normal"> </mi>
+                        <mi mathvariant="normal">f</mi>
+                        <mi mathvariant="normal">e</mi>
+                        <mi mathvariant="normal">e</mi>
+                        <mi mathvariant="normal">t</mi>
+                        <mi mathvariant="normal"> </mi>
+                        <mo>(</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>)</mo>
+                     </math>
+                  </span>
+               </div>
+            </section>
+
+         </li>
+
+         <li class="- topic/li li">
+            <p class="- topic/p p">The resistance varies inversely with its cross-sectional area:</p>
+            <section class="- topic/section section">
+               <div class="+ topic/div equation-d/equation-block  eqn-block ">
+                  <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+                     <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                        <mi mathvariant="normal">R</mi>
+                        <mo>=</mo>
+                        <mn>1</mn>
+                        <mo>÷</mo>
+                        <mi mathvariant="normal">A</mi>
+                     </math>
+                  </span>
+               </div>
+            </section>
+
+         </li>
+      </ul>
+      <section class="- topic/section section">
+         <p class="- topic/p p">Combine both statements to obtain the following equation:</p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">R</mi>
+                  <mo>=</mo>
+                  <mo>(</mo>
+                  <mi mathvariant="normal">L</mi>
+                  <mo>×</mo>
+                  <mi mathvariant="normal">K</mi>
+                  <mo>)</mo>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">A</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">
+            <em class="+ topic/ph hi-d/i ph i">Where</em>:</p>
+         <p class="- topic/p p">A = wire size from <span class="- topic/ph ph">NEC Tables 310.15(B)(16) through (21)</span> for a
+            given load, and then, if necessary, from <span class="- topic/ph ph">NEC Chapter 9, Table
+               8</span> for circular mils</p>
+         <p class="- topic/p p">L = length of wire in feet</p>
+         <p class="- topic/p p">R = total resistance of wire</p>
+         <p class="- topic/p p">K = resistance per mil foot</p>
+         <p class="- topic/p p">K is a constant whose value depends upon the units chosen and the type of wire (12.9 for
+            copper and 21.2 for aluminum). Using the foot as the unit of length and the circular mil
+            as the unit of area, the values for K represent the resistance in ohms per mil foot at
+            75°C (167°F).</p>
+         <p class="- topic/p p">The length (L) in the equation is the total length of a single current-carrying
+            conductor. For a two-conductor, 120V circuit or a 240V, balanced three-wire circuit
+            (neutral current equals zero), the length in the equation must be multiplied by 2. The
+            equation now becomes:</p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">R</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <mn>2</mn>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">K</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">A</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">g</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">For a three-phase, four-wire balanced circuit with a power factor near the value of 1,
+            the equation must be multiplied by √3 (1.732). The equation now becomes:</p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">R</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <msqrt>
+                           <mn>3</mn>
+                        </msqrt>
+                        <mo>÷</mo>
+                        <mn>2</mn>
+                     </mrow>
+                  </mfenced>
+                  <mo>×</mo>
+                  <mfenced open="[" close="]" separators="|">
+                     <mrow>
+                        <mfenced separators="|">
+                           <mrow>
+                              <mn>2</mn>
+                              <mo>×</mo>
+                              <mi mathvariant="normal">L</mi>
+                              <mo>×</mo>
+                              <mi mathvariant="normal">K</mi>
+                              <mo>÷</mo>
+                              <mi mathvariant="normal">A</mi>
+                           </mrow>
+                        </mfenced>
+                     </mrow>
+                  </mfenced>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">w</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">b</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal"> </mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">The 2s cancel each other out and the equation reduces to:</p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">R</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <msqrt>
+                           <mn>3</mn>
+                        </msqrt>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">K</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">A</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">b</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal"> </mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">Since R = E ÷ I (where E = voltage drop [VD]), substitute VD ÷ I for R in the previous
+            equations:</p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">V</mi>
+                  <mi mathvariant="normal">D</mi>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">I</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <mn>2</mn>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">K</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">A</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">g</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">
+            <em class="+ topic/ph hi-d/i ph i">and</em>
+         </p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">V</mi>
+                  <mi mathvariant="normal">D</mi>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">I</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <msqrt>
+                           <mn>3</mn>
+                        </msqrt>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">K</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mi>A</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">b</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal"> </mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">Multiply each side of both equations by I:</p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">V</mi>
+                  <mi mathvariant="normal">D</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <mn>2</mn>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">K</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">I</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">A</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">g</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">
+            <em class="+ topic/ph hi-d/i ph i">and</em>
+         </p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">V</mi>
+                  <mi mathvariant="normal">D</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <msqrt>
+                           <mn>3</mn>
+                        </msqrt>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">K</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">I</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">A</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">b</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">Substitute circular mils (CM) for A where CM is initially determined from the wire size
+            ampacities listed in <span class="- topic/ph ph">NEC Tables 310.15(B)(16) through (21)</span> for
+            the desired load and where <span class="- topic/ph ph">NEC Chapter 9, Table 8</span> is used to
+            convert the wire size so determined to circular mils, if required. The equations
+            become:</p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">V</mi>
+                  <mi mathvariant="normal">D</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <mn>2</mn>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">K</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">I</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">C</mi>
+                  <mi mathvariant="normal">M</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">g</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">
+            <em class="+ topic/ph hi-d/i ph i">and</em>
+         </p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">V</mi>
+                  <mi mathvariant="normal">D</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <msqrt>
+                           <mn>3</mn>
+                        </msqrt>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">K</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">I</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mi mathvariant="normal">C</mi>
+                  <mi mathvariant="normal">M</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">b</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal"> </mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section"><h2 class="- topic/title title sectiontitle">Think About It</h2>
+         
+         
+         
+         <p class="- topic/p p">This parking lot fixture has three 1,000W lamps, is 300' from the panel, uses No. 12
+            wire, and is supplied by a 20A, 208V circuit. The fixture manufacturer specifies a
+            maximum voltage drop of 3%. Does this circuit adequately support this load?</p>
+         <figure class="- topic/fig fig fignone">
+            <img class="- topic/image image" src="../../graphics/print/26302-17_SA06.eps" alt="Schematic diagram of NEC® 25' (7.5 m) tap rule."/>
+         </figure>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">Using a similar exercise, the following equations can be derived for a given wire size
+            resistance and load:</p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">V</mi>
+                  <mi mathvariant="normal">D</mi>
+                  <mo>=</mo>
+                  <mn>2</mn>
+                  <mo>×</mo>
+                  <mi mathvariant="normal">L</mi>
+                  <mo>×</mo>
+                  <mi mathvariant="normal">R</mi>
+                  <mo>×</mo>
+                  <mi mathvariant="normal">I</mi>
+                  <mo>)</mo>
+                  <mo>÷</mo>
+                  <mn>1,000</mn>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">g</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <p class="- topic/p p">
+            <em class="+ topic/ph hi-d/i ph i">and</em>
+         </p>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">V</mi>
+                  <mi mathvariant="normal">D</mi>
+                  <mo>=</mo>
+                  <mfenced separators="|">
+                     <mrow>
+                        <msqrt>
+                           <mn>3</mn>
+                        </msqrt>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">L</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">R</mi>
+                        <mo>×</mo>
+                        <mi mathvariant="normal">I</mi>
+                     </mrow>
+                  </mfenced>
+                  <mo>÷</mo>
+                  <mn>1,000</mn>
+               </math>
+            </span>
+         </div>
+      </section>
+      <section class="- topic/section section">
+         <div class="+ topic/div equation-d/equation-block  eqn-block ">
+            <span class="+ topic/foreign mathml-d/mathml foreign mathml">
+               <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+                  <mi mathvariant="normal">f</mi>
+                  <mi mathvariant="normal">o</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mo>–</mo>
+                  <mi mathvariant="normal">p</mi>
+                  <mi mathvariant="normal">h</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">b</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">l</mi>
+                  <mi mathvariant="normal">a</mi>
+                  <mi mathvariant="normal">n</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">e</mi>
+                  <mi mathvariant="normal">d</mi>
+                  <mi mathvariant="normal"> </mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">r</mi>
+                  <mi mathvariant="normal">c</mi>
+                  <mi mathvariant="normal">u</mi>
+                  <mi mathvariant="normal">i</mi>
+                  <mi mathvariant="normal">t</mi>
+                  <mi mathvariant="normal">s</mi>
+                  <mi mathvariant="normal"> </mi>
+               </math>
+            </span>
+         </div>
+      </section>
+   </div>
+</article></main></div>
+                        
+                        
+                        
+                        
+                        
+                        <div id="oxygen-feedback-frame-container">
+    <script id="feedback-init" src="https://feedback.oxygenxml.com/app/init/init.js?deploymentToken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJkZXBsb3ltZW50SWQiOjQ5NX0.vknG7k3AO91vHTGSTDLUVSWffHE-f2F5OrG7glDPKarQ3I9Tfow_AXcRsUA5IwbcE087lnaH3X7OhbfE8eZ0Ag"><!-- --></script>
+</div>
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            
+            
+        </div> 
+        <footer class="navbar navbar-default wh_footer" whc:version="23.1">
+  <div class=" footer-container mx-auto ">
+    
+            Generated by <a class="oxyFooter" href="http://www.oxygenxml.com/xml_webhelp.html" target="_blank">
+            &lt;oXygen/&gt; XML WebHelp
+            </a>
+        
+  </div>
+</footer>
+        
+        <div id="go2top" class="d-print-none">
+            <span class="oxy-icon oxy-icon-up"></span>
+        </div>
+        
+        <!-- The modal container for images -->
+        <div id="modal_img_large" class="modal">
+            <span class="close oxy-icon oxy-icon-remove"></span>
+            <!-- Modal Content (The Image) -->
+            <img class="modal-content" id="modal-img" alt=""/>
+            <!-- Modal Caption (Image Text) -->
+            <div id="caption"></div>
+        </div>
+        
+        
+        
+    </body>
+</html>
